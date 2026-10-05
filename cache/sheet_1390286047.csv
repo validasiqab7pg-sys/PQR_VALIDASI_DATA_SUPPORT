@@ -1,0 +1,1898 @@
+TANGGAL,KODE PRODUK,KODE RECIPE BARU,MENGGANTIKAN RECIPE,KET PERUBAHAN,TANGGAL CWO,DIBUAT OLEH,BN AWAL,STATUS,TAHUN
+7-Mei-18,POSKD,POSKD 01v0-01 v0,-,"New, perubahan SKU (00309/FUPB/12/2017/KLBF)",Dikembalikan ke PD,,,CLOSED,2018
+17-Sep-18,LBMAP,LBMAP 01v0-01 v1,LBMAP 01v0-01 ver 0,"- Penambahan kolom data NC sachet pada PPI (primer) untuk rekonsiliasi batch (FUP/PLG/PRS/1804/005)
+- Perubahan jumlah tumpukan maksimum dan layout karton dalam pallet (FUP/PLG/PRS/1807/001)
+- Kode spec FG: SPEC-LBMAP-S01",DONE,,,CLOSED,2018
+13-Nov-18,LKCGA,LKCGA 02v0-02 v1,LKCGA 02v0-02 ver 0,"Perubahan PPI menjadi Negara Cambodia, perubahan keterangan stampel karton menjadi per negara (FUP/PLG/PRS/1806/018)
+SPEC-LKCGA-S01",DONE,,,CLOSED,2018
+13-Nov-18,LKCPA,LKCPA 02v0-02 v2,LKCPA 02v0-02 ver 0,"Perubahan PPI menjadi per negara Myanmar, perubahan keterangan stampel karton menjadi per negara Myanmar (FUP/PLG/PRS/1806/018)
+SPEC-LKCPA-S01",DONE,,,CLOSED,2018
+13-Nov-18,LKCLA,LKCLA 02v0-02 v3,LKCLA 02v0-02 ver 1,"Perubahan PPI menjadi per negara Mongolia, perubahan keterangan stampel karton menjadi per negara Mongolia (FUP/PLG/PRS/1806/018
+SPEC-LKCLA-S01",DONE,,,CLOSED,2018
+13-Nov-18,LKCPA,LKCPA 02v0-02 v3,LKCPA 02v0-02 ver 0,"Perubahan PPI menjadi per negara Mongolia, perubahan keterangan stampel karton menjadi per negara Mongolia (FUP/PLG/PRS/1806/018
+SPEC-LKCLA-S01",DONE,,,CLOSED,2018
+21-Nov-18,LKCGA,LKCGA 02v0-02 v3,LKCGA 02v0-02 ver 3,"Perubahan PPI menjadi per negara Mongolia, perubahan keterangan stampel karton menjadi per negara Mongolia (FUP/PLG/PRS/1806/018
+SPEC-LKCGA-S01",DONE,,,CLOSED,2018
+21-Nov-18,LKCPA,LKCPA 02v0-02 v1,LKCPA 02v0-02 ver 0,"Perubahan PPI menjadi PPI per negara Cambodia, perubahan keterangan stampel karton menjadi per negara Cambodia (FUP/PLG/PRS/1806/018)
+SPEC-LKCPA-S01",DONE,,,CLOSED,2018
+6-Mar-19,LKCGA,LKCGA 02v0-02 v4,LKCGA 02v0-02 ver 1,"- Perubahan format PPI sesuai template GDP (FUP/PLG/PRS/1901/004)
+- Perubahan speed agitator dari 30 rpm menjadi 60 rpm, penghilangan waktu putar agiator (FUP/PLG/PRS/1901/004)
+- Perubahan pola susunan karton (FUP/PLG/PRS/1811/013)
+SPEC FG = LKCGA 02v0-02 ver 4",-,,,CLOSED,2019
+8-Apr-19,LKCPA,LKCPA 02v0-02 v4,LKCPA 02v0-02 ver 1,"- Perubahan format PPI sesuai template PPI (GDP)
+- Perubahan speed agitator dari 30 rpm menjadi 60 rpm 
+- Perubahan pola susunan karton 
+- SPEC-LKCPA-S02
+*PPI negara Cambodia",DONE,,,CLOSED,2019
+8-Apr-19,LKCPA,LKCPA 02v0-02 v5,LKCPA 02v0-02 ver 2,"- Perubahan format PPI sesuai template GDP
+- Perubahan speed agitator dari 30 rpm menjadi 60 rpm 
+- Perubahan pola susunan karton 
+- SPEC-LKCPA-S02
+*PPI negara Myanmar",DONE,,,CLOSED,2019
+8-Apr-19,LKCPA,LKCPA 02v0-02 v6,LKCPA 02v0-02 ver 3,"- Perubahan format PPI sesuai GDP
+- Perubahan speed agitator dari 30 rpm menjadi 60 rpm 
+- Perubahan pola susunan karton 
+- SPEC-LKCPA-S02
+*PPI negara Mongolia",DONE,,,CLOSED,2019
+8-Apr-19,LKCGA,LKCGA 02v0-02 v6,LKCGA 02v0-02 ver 3,"- Perubahan PPI sesuai template GDP
+- Perubahan speed agitator dari 30 rpm menjadi 60 rpm 
+- Perubahan pola susunan karton 
+- SPEC-LKCGA-S02",DONE,,,CLOSED,2019
+8-Apr-19,LKCLA,LKCLA 02v0-02 v4,LKCLA 02v0-02 ver 2,"- Perubahan PPI sesuai template GDP
+- Perubahan speed agitator dari 30 rpm menjadi 60 rpm 
+- Perubahan pola susunan karton 
+- SPEC-LKCLA-S02",DONE,,,CLOSED,2019
+23-Apr-19,LKCLA,LKCLA 02v0-02 v5,LKCLA 02v0-02 ver 3,"- Perubahan PPI sesuai template GDP
+- Perubahan speed agitator dari 30 rpm menjadi 60 rpm 
+- Perubahan pola susunan karton 
+- SPEC-LKCLA-S02 Mongolia",Dikembalikan ke PD,,,CLOSED,2019
+25-Apr-19,LKCP1,LKCP1 01v0-02 v0,LKCP1 01v0-01 ver 0,"- Penimbangan mixing tank tetra pak 3 sesuai FUP/PLG/EQP/1803/001
+- Kode spec ruah: SPEC-LKCP1-01-S01-M02",DONE,,,CLOSED,2019
+25-Apr-19,LKMC1,LKMC1 01v0-02 v0,LKMC1 01v0-01 ver 0,"- Penimbangan mixing tank tetra pak 3 sesuai FUP/PLG/EQP/1803/001
+- Kode spec ruah: SPEC-LKMC1-01-S01-M01",DONE,,,CLOSED,2019
+27-Apr-19,LKCGA,LKCGA 02v0-02 v5,LKCGA 02v0-02 ver 2,"- Perubahan PPI sesuai template GDP
+- Perubahan speed agitator dari 30 rpm menjadi 60 rpm 
+- Perubahan pola susunan karton 
+- SPEC-LKCGA-S02",-,,,CLOSED,2019
+27-Mei-19,LNKOA,LNKOA 08v0-05 v0,LNKOA 07v0-04 ver 2,"Perubahan kode foil dan box terkait perubahan penulisan CTM sesuai INN (FUP/PLG/MTL/1810/003) dan penambahan logo halal (FUP/PLG/PRD/1805/008) dan penambahan HET menjadi Rp 2000,- (FUP/PLG/PRD/1905/009)
+No. SPEC-LNKOA-S02",DONE,,,CLOSED,2019
+27-Mei-19,LKMCA,LKMCA 04v0-02 v1,LKMCA 04v0-02 v0,"- Perubahan format PPI sesuai template GDP
+- Perubahan speed agitator dari 30rpm menjadi 60rpm
+- Perubahan pola susunan karton 
+- SPEC-LKMCA-S02",DONE,,,CLOSED,2019
+27-Mei-19,LCLZC,LCLZC 03v0-02 v1,LCLZC 03v0-02 v0,"- Perubahan format PPI sesuai template GDP 
+- Perubahan speed agitator dari 30rpm menjadi 60 rpm
+- Perubahan pola susunan karton 
+- SPEC-LCLZC-S02",DONE,,,CLOSED,2019
+27-Mei-19,LWAPB,LWAPB 02v0-02 v1,LWAPB 02v0-02 v0,"- Perubahan format PPI sesuai template GDP
+- Perubahan speed agitator dari 30rpm menjadi 60rpm
+- Perubahan pola susunan karton 
+- SPEC-LWAPB-S02",DONE,,,CLOSED,2019
+10-Jun-19,LKPTA,LKPTA 12v0-05 v0,LKPTA 10v0-05 v1,"- Perubahan kode foil dan box terkait penambahan logo halal dan nama ctm sesuai inn 
+- Spec - LKPTA - S02
+- Perubahan HET (Rp. 2.000) -> FUP/PLG/PRD/1905/009",DONE,,,CLOSED,2019
+12-Jun-19,LKPTA,LKPTA 13v0-06 v0,LKPTA 11v0-06 v2,"- Perubahan kode foil dan box terkait penambahan logo halal dan nama ctm sesuai inn (FUP/PLG/MTL/1810/003 dan FUP/PLG/1805/008)
+- SPEC-LKPTA-S02
+- Perubahan HET (Rp 2.000) -> (FUP/PLG/PRD/1905/009) Manual",DIKEMBALIKAN KE RND,DSW,,CLOSED,2019
+21-Jun-19,LWPGA,LWPGA 01v0-01 v1,LWPGA 01v0-01 v0,"- Perubahan format PPI sesuai template GDP (FUP/PLG/PRS/1901/004)
+- Perubahan speed agitator dari 30 rpm menjadi 60 rpm (FUP/PLG/PRS/1901/004)
+- Perubahan pola susunan karton (FUP/PLG/PRS/1811/013)
+- SPEC-LWPGA-S02
+- Penambahan IPC pemeriksaan agitator (FUP/PLG/PRS/1811/006)",Dikembalikan ke PD,,,CLOSED,2019
+26-Jun-19,LKXOB,LKXOB 10v0-02 v0,LKXOB 09v0-02 v0,"- Perubahan format PPI sesuai template GDP (FUP/PLG/PRS/1901/004)
+- Penambahan IPC pemeriksaan agitator (FUP/PLG/PRS/1811/006)
+- Penambahan interval waktu IPC pemeriksaan fisik, kebocoran dan volume terpindahkan setiap ganti roll tube, ganti shift dan setelah mesin off (FUP/PLG/PRS/1811/006)
+- Perubahan kode pack dari 2DRK47-03 menhadu 2DK047-04 terkait penambahan logo halal (FUP/PLG/PRD/1803/005)
+- SPEC-LKXOB-503 v0",DONE,,,CLOSED,2019
+2-Jul-19,LPRG2,"LPRG2 02v1-02 v0
+","LPRG2 02v0-01 v0
+","- Perubahan batch size (1925 menjadi 2000 liter) dan perubahan titik tengah dari 7 menjadi 7,5 ml (FUP/PLG/PRD/1811/002)
+- Perubahan format PPI sesuai template GDP (FUP/PLG/PRS/1901/004)
+- Perubahan tinggi tumpukan maksimum karton dalam pallet (FUP/PLG/PRD/1904/008)
+- Perubahan pilihan metode coding manual pada box (hanya menggunakan metode coding inline)
+- Perubahan instruksi pada pengemasan kartoning (jinsung), tahap 3ws, penimbangan NC produk dan penempelan label sedang proses dan label mesin 
+- Perubahan standar berat karton 4.60 - 4.86 kg menjadi 4.71 - 4.90 kg (FUP/PLG/PRS/1811-006)",DONE,,,CLOSED,2019
+2-Jul-19,LPRGH,LPRGH 02v0-02 v0,"LPRGH 01v0-01 v0
+","- Perubahan batch size (1925 menjadi 2000 liter) dan perubahan titik tengah dari 7 menjadi 7,5 ml (FUP/PLG/PRD/1811/002)
+- Perubahan format PPI sesuai template GDP (FUP/PLG/PRS/1901/004)
+- Perubahan tinggi tumpukan maksimum karton dalam pallet (FUP/PLG/PRD/1904/008)
+- Perubahan pilihan metode coding manual pada box (hanya menggunakan metode coding inline)
+- Perubahan instruksi pada pengemasan kartoning (jinsung), tahap 3ws, penimbangan NC produk dan penempelan label sedang proses dan label mesin 
+- Perubahan standar berat karton 4.60 - 4.86 kg menjadi 4.71 - 4.90 kg (FUP/PLG/PRS/1811-006)",DONE,,,CLOSED,2019
+3-Jul-19,PEJJE,PEJJE 05v0-01v0,PEJJE 04v0-01v1,"- Perubahan batch size dari 1.269 kg menjadi 1.269, 14 kg (FUP/PLG/PRD/1904/004)
+- Penambahan talent liverpool (FUP/PLG/PRD/1811/003)
+- Perubahan nomor halal dan penambahan ""health supplement"" (20B004030 menjadi 20B004040) (FUP/PLG/PRD/1810/006)
+- Penambahan paraf dan inisial / nama pada kolom PIC
+- Penghilangan staples dengan plakban berlogo (FUP/PLG/PRS/1905/006)",DONE,,,CLOSED,2019
+4-Jul-19,PEJJF,PEJJF 02v0-01 v0,PEJJF 01v0-01 v0,,DONE,,,CLOSED,2019
+8-Jul-19,PEJJ1,PEJJ1 03v2-04 v0,PEJJ1 03v1-03 v0,"Perubahan batch size dari 1269 kg menjadi 1269,14 kg (FUP/PLG/PRD/1902/004)",DONE,,,CLOSED,2019
+30-Jul-19,LKXLA,LKXLA 07v0-02 v0,LKXLA 06v0-02 v0,"- Penambahan interval pemeriksaan agitator setiap 2 jam sekali 
+- perubahan kode pack menjadi 2DK053-03 terkait penambahan informasi pengawet dan pemanis pada komposisi kemasan (FUP/PLG/PRD/1906/001)
+- SPEC-LKXLA.S03",DONE,,,CLOSED,2019
+1-Agu-19,LKJTA,LKJTA 07v0-03 v0,LKJTA 06v0-03 v0,"- Perubahan kode foil (1FK002040) dan kode box (2DK055020 menjadi 2DK055030) terkait perubahan HET (FUP/PLG/PRD/1905/009)
+- SPEC-LKJTA-S04",DONE,,,CLOSED,2019
+1-Agu-19,LKNTA,LKNTA 07v0-03 v0,LKNTA 06v0-03 v0,"- Perubahan kode foil (1FK004040 menjadi 1FK004050) dan kode box (2DK054020 menjadi 2DK054030) terkait perubahan HET (FUP/PLG/PRD/1905/009)
+- SPEC-LKNTA-S02",DONE,,,CLOSED,2019
+7-Agu-19,POSNA,POSNA 05v0-02 v0,POSNA 04v0-01 v3,"- Perubahan batch size dari 629,2 kg (FUP/PLG/PRD/1906/004)
+- Penambahan interval waktu IPC untuk mesin OFF
+- Penghilangan staples dengan plakban berlogo (FUP/PLG/PRS/1905/006)",DONE,,,CLOSED,2019
+8-Agu-19,POSN1,POSN1 01v2-02 v0,POSN1 01v1-01 v0,"- Perubahan batch size dari 700 menjadi 629,2 kg 
+- Perubahan waktu mixing dari 20 menjadi 25 menit",DONE,,,CLOSED,2019
+9-Agu-19,PBPDA,PBPDA 02v0-01 v2,PBPDA 02v0-01 v1,Penghilangan staples dengan plakban berlogo (FUP/PLG/PRS/1905/006),DONE,,,CLOSED,2019
+14-Agu-19,LNKKB,LNKKB 06v0-04 v0,LNKKB 05v0-04 v1,"DECain Halal, penulisan CTM sesuai INN 
+No. SPEC-LNKKB-S02 v0",DONE,,,CLOSED,2019
+20-Agu-19,LKXOD,LKXOD 04v0-02 v0,LKXOD 03v0-02 v1,"- Perubahan format PPI sesuai template GDP (FUP/PLG/PRS/1901/004)
+- Penambahan IPC pemeriksaan agitator tiap 2 jam (FUP/PLG/PRS/1908/002)
+- Perubahan kode foil (1FK048010 menjadi 1FK048020) dan kode pack (2DK059010 menjadi 2DK0509020) terkait penggantian keterangan Vitex Negundo menjadi Daun LAUGndi dan take out HET (FUP/PLG/MTL/1805/010)
+- Penambahan logo halal pada sachet dan pack (FUP/PLG/PRD/1803/005)
+- Perubahan kode karton (3MK041000 menjadi 3MK045000) terkait perubahan ukuran (FUP/PLG/MTL/1809/007)
+- SPEC-LKXOD-501-v0",DONE,,,CLOSED,2019
+23-Agu-19,PWSN1,PWSN1 01v1-01 v1,PWSN1 01v1-01 v0,"- Penampungan hasil granulator menggunakan tong plastik bertara
+- Perubahan standar rendemen bila ada bulk rework
+- Perubahan cara sampling untuk pemeriksaan LOD granul dari 2 titik menjadi composite",DONE,,,CLOSED,2019
+30-Agu-19,LKKSB,LKKSB 06v0-05 v0,LKKSB 05v0-04 v1,"Perubahan CTM INN, DECign Halal
+SPEC-LKKSB-S02 v0",DONE,,,CLOSED,2019
+3-Sep-19,POSKC,POSKC 03v0-02 v1,POSKC 03v0-02 v0,"- Penambahan paraf dan inisial atau nama pada kolom IPC
+- Penambahan interval waktu IPC untuk mesin OFF 
+- Penghilangan staples dengan plakban berlogo (FUP/{PLG/PRS/1905/006)",DONE,,,CLOSED,2019
+30-Sep-19,PEJJE,PEJJE 06v0-01 v0,PEJJE 05v0-01 v0,Perubahan code pack (2DB004040 menjadi 2DB004030) karena produksi menggunakan foil DECign baru LFC dengan pack lama (FUP/PLG/PRD1909/002),DONE,,,CLOSED,2019
+14-Okt-19,LNKOA,LNKOA 08v0-05 v1,LNKOA 08v0-05 v0,"- Perubahan logo B7 (FUP/PLG/MTL/1909/009) pada PPI
+- Perubahan tabel pemeriksaan alat dan bahan yang digunakan 
+- Penambahan IPC pemeriksaan agitatir tiap 2 jam (FUP/PLG/PRS/1908/002)
+- Perubahan tabel pemeriksaan alat dan bahan yang digunakan
+- Perubahan indikator verifikasi check weigher Ok bila box hanya terbuang ke kanan 
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan range berat karton (terkait penghilangan staples) pada saat batch perdana, sebelum jalan
+Mohon info ke Packdev agar dilakukan perubahn data 3WS
+Kode Spec: SPEC-LNKOA-S02 v0",DONE,,,CLOSED,2019
+14-Okt-19,LNKKB,LNKKB 06v0-04 v1,LNKKB 06v0-04 v0,"- Perubahan logo B7 (FUP/PLG/MTL/1909/009) pada PPI
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan range berat karton (terkait penghilangan staples) pada saat batch perdana, sebelum jalan mohon info ke Packdev agar dilakukan perubahan data 3WS
+Kode SPEC: SPEC-LNKKB-S02 v0",DONE,,,CLOSED,2019
+14-Okt-19,LBMAN,LBMAN 02v0-01 v1,LBMAN 02v0-01 v0,"- Perubahan logo B7 (FUP/PLG/MTL/1909/09 pada PPI
+- Perubahan standar RH ruangan menjadi ≤ 70.0
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan range berat karton (terkait penghilangan staples) mohon info ke Packdev sebelum jalan batch perdana agar dilakukan perubahan pada 3WS
+Kode SPEC: SPEC-LBMAN-S02 v0 ",DONE,,,CLOSED,2019
+15-Okt-19,LBMAL,LBMAL 02v0-01 v1,LBMAL 02v0-01 v0,"- Perubahan logo B7 (FUP/PLG/MTL/1909/009) pada PPI
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan range berat karton (terkait penghilangan staples) sebelum mulai batch perdana, info ke Packdev agar dilakukan perubahan data 3WS
+Kode SPEC: SPEC-LBMAL-S02 v0",DONE,,,CLOSED,2019
+15-Okt-19,LBMAM,LBMAM 02v0-01 v0,LBMAM 01v0-01 v1,"- Perubahan logo B7 (FUP/PLG/MTL/1909/009) pada PPI
+- Perubahan kode foil dari 1FM016-06 menjadi 1Fm016-07 terkait penambahan DECain Jojo (FUP/PLG/PRD/1808/012), penghilangan lockup Kalbe (FUP/PLG/PRD/1711/005) dan logo halal (FUP/PLG/PRD/1803/005)
+- Perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)",DONE,,,CLOSED,2019
+15-Okt-19,LKKSB,LKKSB 06v0-05 v1,LKKSB 06v0-05 v0,"- Perubahan logo B7 (FUP/PLG/MTL/1909/009)
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan range berat karton (terkait penghilangan staples) sebelum jalan batch perdana, mohon info ke Packdev agar dilakukan perubahan data 3WS
+Kode SPEC: SPEC-LKKSB-S02- v0",DONE,,,CLOSED,2019
+22-Okt-19,LKNTA,LKNTA 07v0-03 v1,LKNTA 07v0-03 v0,"- Perubahan logo B7 pada PPI Kemas (FUP/PLG/MTL/1909/009)
+- Penambahan IPC pemeriksaan agitator tiap 2 jam (FUP/PLG/PRS/1908/002)
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- SPEC-LKNTA-S02 v0",DONE,,,CLOSED,2019
+22-Okt-19,LKXOB,LKXOB 10v0-02 v1,LKXOB 10v0-02 v0,"- Perubahan logo B7 pada PPI Kemas (FUP/PLG/MTL/1909/009)
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan range berat karton terkait penghilangan staples dari 4.93-5.48 Kg menjadi 4.92-5.47 Kg
+- SPEC-LKXOB-S03 v0",DONE,,,CLOSED,2019
+22-Okt-19,LKJTA,LKJTA 07v0-03 v1,LKJTA 07v0-03 v0,"- Perubahan logo B7 pada PPI Kemas (FUP/PLG/MTL/1908/002)
+- Penambahan IPC pemeriksaan agitator tiap 2 jam (FUP/PLG/PRS/1908/002)
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan range berat karton dari 14.75-15.01 Kg menjadi 14.74-15.00 Kg terkait penghilangan staples 
+- SPEC-LKJTA-S02 v0",DONE,,,CLOSED,2019
+22-Okt-19,LKXLA,LKXLA 07v0-02 v1,LKXLA 07v0-02 v0,"- Perubahan logo B7 pada PPI Kemas (FUP/PLG/MTL/1909/009)
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan range berat karton terkait penghilangan staples dari 4.84-5.38 Kg menjadi 4.83-5.37 Kg 
+- SPEC-LKXLA-S03 v0",DONE,,,CLOSED,2019
+22-Okt-19,LBMAQ,LBMAQ 03v0-02 v0,LBMAQ 02v0-01 v1,"- Perubahan logo B7 (FUP/PLG/MTL/1909/009) pada PPI
+- Perubahan kode foil dari 1FM016-07 menjadi 1FM017-00 terkait perubahan DECain menjadi Bejo Jahe Merah (FUP/PLG/PRD/1903/001)
+- Perubahan setting potongan sachet menjadi renceng per 6 sachet untuk proses cartoning Jih Cheng 
+- Perubahan proses pengemasan sekunder menjadi cartoning Jih Cheng (FUP/PLG/PRS/1907/012)
+- Perubahan kode pack dari 2DM024-02 menjadi 2DM027-00 serta karton dari 3MM011-02 menjadi 3MM013-00 terkait perubahan DECain menjadi Bejo Jahe Merah (FUP/PLG/PRD/1903/001 dan ukuran menyesuaikan dengan TD pack cartoning Jih Cheng
+- Perubahan range bobot karton dari 4.19-4.41 Kg menjadi 4.29-4.52, mohon koordinasi dengan packdev sebelum jalan produksi
+- SPEC-LBMAQ-S02 v0",DONE,,,CLOSED,2019
+22-Okt-19,LPRGF,LPRGF 04v0-02 v1,LPRGF 04v0-02 v0,"- Perubahan logo B7 (FUP/PLG/MTL/1909/009) pada PPI
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan range berat karton (terkait penghilangan staples) dari 6.86-7.25 Kg, mohon koordinasi dengan packdev untuk perubahan di 3WS sebelum jalan produksi
+- SPEC-LPRGF-S03 v0",DONE,,,CLOSED,2019
+29-Okt-19,LBMAP,LBMAP 03v0-02 v0,LBMAP 02v0-01 v1,"- Perubahan logo B7 pada PPI (FUP/PLG/MTL/1909/009)
+- Perubahan kode foil dari 1FM016-07 menjadi 1FM017-00 terkait perubahan DECain menjadi Bejo Jahe Merah (FUP/PLG/PRD/19003/001)
+- Perubahan setting potongan sachet menjadi renceng per 6 sachet untuk proses cartoning Jih Cheng
+- Perubahan proses pengemasan sekunder menjadi cartoning Jih Cheng (FUP/PLG/PRS/1907/012)
+- Perubahan kode pack dari 2DM024-02 menjadi 2DM027-00 serta karton dari 3MM011-02 menjadi 3MM013-00 terkait perubahan DECain menjadi Bejo Jahe Merah (FUP/PLG/PRD/1903/001)dan ukuran menyesuaikan dengan TD pack cartoning Jih Cheng 
+- Perubahan range bobot karton dari 4.19-4.41 kg menjadi 4.29-4.52 kg (mohon koordinasikan dengan Packdev sebelum jalan produksi)
+-> SPEC-LBMAP-S02 v0",Dikembalikan ke PD,,,CLOSED,2019
+6-Nov-19,LKXOD,LKXOD 04v0-02 v1,LKXOD 04v0-02 v0,"- Perubahan logo B7 pada PPI Kemas
+- Penambahan ketentuan masa pakai mesin filling 
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo 
+- Perubahan range berat karton dari 4.25-4.47 Kg terkait penghilangan staples 
+No. Spec: SPEC-LKXOD-S01",DONE,,,CLOSED,2019
+14-Nov-19,LKPEA,LKPEA 01v0-01 v1,LKPEA 01v0-01 v0,"- Perubahan logo B7 (FUP/PLG/MTL/1909/009)
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan range berat karton dari 14.77-15.03 Kg menjadi 14.76-15.02 Kg terkait penghilangan staples 
+SPEC-LKPEA-S01 v0",DIKEMBALIKAN KE RND,DSW,,CLOSED,2019
+14-Nov-19,LKXNA,LKXNA 01v0-01 v1,LKXNA 01v0-01 v0,"- Perubahan logo B7 (FUP/PLG/MTL/1909/009)
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan range berat karton dari 4.30-4.63 Kg menjadi 4.30-4.62 Kg terkait penghilangan staples
+SPEC-LKXNA-S01 v0",DONE,,,CLOSED,2019
+14-Nov-19,LKNEA,LKNEA 01v0-01 v1,LKNEA 01v0-01 v0,"- Perubahan logo B7 (FUP/PLG/MTL/1909/009)
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo 
+(FUP/PLG/PRS/1905/006)
+- Perubahan range berat karton dari 14.89-15.15 Kg menjadi 14.88-15.14 Kg terkait pengilangan staples
+SPEC-LKNEA-S01 v0",-,,-,CLOSED,2019
+22-Nov-19,LKCP1,LKCP1 01v1-03 v0,LKCP1 01v0-02 v0,"- Simplifikasi proses sesuai dengan FUP/PLG/PRD/1902/002
+- Perubahan Logo B7 sesuai dengan FUP/PLM/STM/1910/001
+- SPEC-LKCP1-01S01-M02",DONE,,,CLOSED,2019
+26-Nov-19,LKXPA,LKXPA 01v0-01 v1,LKXPA 01v0-01 v0,"- Perubahan logo B7 (FUP/PLG/MTL/1909/009)
+- Penambahan ketentuan masa pakai mesin filling
+- Penhilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan range berat karton dari 4.34-4.67 Kg menjadi 4.33-4.66 Kg terkait penghilangan staples
+- SPEC-LKXPA S01 v0",DONE,,,CLOSED,2019
+29-Nov-19,LCLZC,LCLZC 04v0-03 v0,LCLZC 03v0-02 v1,"- Perubahan mesin filling menjadi Ilapak (FUP/PLG/PRS/1901/012)
+- Perubahan logo B7 pada PPI (FUP/PLG/MTL/1909/009)
+- Perubahan IPC pemeriksaan agitator tiap 2 jam (FUP/PLG/PRS/1908/002)
+- Perubahan kode foil dari 1FC021-04 menjadi 1FC022-00 terkait perubahan DECain sesuai approval Nafdac (FUP/PLG/PRD/1809/005) dan menjadi 6 line (FUP/PLG/PRS/1901/012)
+- Perubahan kode box dari 2DC011-04 menjadi 2DC011-05 terkait perubahan DECain sesuai approval Nafdac (FUP/PLG/PRD/1809/005)
+SPEC-LCLZC-S02 v0",DONE,,,CLOSED,2019
+28-Nov-19,LKPTA,LKPTA 12v0-05 v1,LKPTA 12v0-05 v0,"- Perubahan logo B7 pada PPI Kemas (FUP/PLG/MTL/1909/009)
+- Penambahan IPC pemeriksaan agitator (FUP/PLG/PRS/1811/006)
+- Penambahan IPC pemeriksaan agitator tiap 2 jam (FUP/PLG/PRS/1908/002)
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan range berat karton dari 14.71-14.99 Kg menjadi 14.70-14.78 Kg terkait penghilangan staples 
+SPEC-LKPTA-S03 v0",DONE,,,CLOSED,2019
+6-Des-19,PWSNH,PWSNH 05v0-01 v0,PWSNH 04v0-01 v1,"- Perubahan kode foil (1FW003090 menjadi 1FW003100) karena penambahan logo halal (FUP/PLG/PRD/1805/008) dan perubahan logo Bintang Toedjoe (FUP/PLG/MTL/1909/009)
+- Perubahan kode pack karena penambahan logo halal (FUP/PLG/PRD/1805/008) dan perubahan logo Bintang Toedjoe serta pencantuman QR code (FUP/PLG/MTL/1909/009)
+- Penambahan 2 angka di belakang koma untuk perhitungan rendemen (FUP/PLG/PRS/1905/007)",DONE,,,CLOSED,2019
+6-Des-19,POSNA,POSNA 06v0-02 v0,POSNA 05v0-02 v0,"- Perubahan kode foil 2FP001100 menjadi 2FP001110 (penambahan logo halal dan perubahan logo Bintang Toedjoe) (FUP/PLG/PRD/1805/008)
+- Perubahan kode pack 2DP008110 menjadi 2DP008120 (penambahan logo halal, QR kode dan perubahan logo Bintang Toedjoe (FUP/PLG/PRD/1805/008)
+- Perubahan cara penyusunan box ke karton menjadi 4 box tiap pengambilan (FUP/PLG/PRS/1910/020)
+- Perubahan ukuran karton menjadi 445x295x149 (3MP002010 menjadi 3MP002020)
+- Penambahan 2 angka dibelakang koma untuk perhitungan rendemen (FUP/PLG/PRS/1905/007)",DONE,,,CLOSED,2019
+24-Des-19,PBPDB,PBPDB 03v0-01 v0,PBPDB 02v0-01 v0,"- Perubahan kode foil (1FP017020) karena penambahan logo halal
+-(FUP/PLG/PRD/1806/005) dan perubahan logo Bintang Toedjoe serta penambahan QR code (FUP/PLG/MTL/1909/009)
+- Perubahan kode pack 92DP026010 menjadi 2DP026020) karena penambahan logo halal (FUP/PLG/PRD/1806/005) dan perubahan logo Bintang Toedjoe serta penambahan QR code (FUP/PLG/MTL/1909/009)
+- Penambahan 2 angka di belakang koma untuk perhitungan rendemen (FUP/PLG/PRS/1905/007)",DONE,,,CLOSED,2019
+26-Des-19,LKJEA,LKJEA 01v0-01 v1,LKJEA 01v0-01 v0,"- Perubahan logo B7 (FUP/PLG/MTL/1909/009)
+- Penambahan IPC pemeriksaan agitator tiap 2 jam (FUP/PLG/PRS/1908/002)
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan range berat karton pemeriksaan kesesuaian range berat karton antara 3WS dengan PPI
+- SPEC-LKJEA-S01 v0",-,,-,CLOSED,2019
+7-Jan-20,LPRGG,LPRGG 04v0-03 v0,LPRGG 03v0-03 v0,"- Perubahan logo B7 pada PPI (FUP/PLG/MTL/1909/009)
+- Perubahan kode foil dari 1FP015-06 menjadi 1FP015-07 dan dus dari 2DP003-06 menjadi 2DP003-06 menjadi 2DP003-07 (FUP/PLG/MTL/1909/017)
+- Perubahan jumlah sachet dalam sekali pengujian kebocoran dari 3 sachet menjadi 2 sachet dalam 1 sohnle (FUP/PLG/PRS/1905/002)
+- Perubahan kode OPP dari 4VW003020 (lebar 205 mm) menjadi 4VM004000 (lebar 190 mm) (FUP?PLG/MTL/1911/003)
+- Perubahan range berat karton (terkait penghilangan staples) dari 4.60 - 4.86 kg menjadi 4.60 - 4.85 kg
+(mohon diinfokan ke packdev apabila akan create, untuk koordinasi perubahan bobot @oracle)
+- SPEC-LPRGG-S02 v0",DONE,,,CLOSED,2020
+8-Jan-20,LKCL1,LKCL1 01v1-03 v1,LKCL1 01v1-03 v0,- Perubahan logo B7 sesuai (FUP/PLM/STM/1910/001 dengan SPEC-LKCL1-01-S01-M02,DONE,,,CLOSED,2020
+9-Jan-20,LKNTA,LKNTA 08v0-03 v0,LKNTA 07v0-03 v1,"- Perubahan kode foil (1FK004050 menjadi 1FK004060) terkait perubahan logo B7 pada kemasan sachet (FUP/PLG/MTL/1909/009)
+- Penambahan ketentuan masa pakai mesin filling (FUP/PLG/PRS/1911/002)
+- Perubahan kode box (2DK054030 menjadi 2DK054040) terkait perubahan logo B7 pada kemasan box (FUP/PLG/MTL/1909/009)
+- Perubahan note penulisan tanggal saat IPC menjadi setiap awal jalan dan pergantian hari 
+- Penambahan tahap pemeriksaan kesesuaian range berat karton antara 3WS dengan PPI
+- Penambahan note waktu pemeriksaan karton finish good pada pallet ditahap 8
+- SPEC-LKNTA-S03 v0",DONE,,,CLOSED,2020
+9-Jan-20,LKMCA,LKMCA 05v0-03 v3,LKMCA 05v0-03 v2,"- Penambahan masa pakai mesin filling selama 3 hari (FUP/PLG/PRS/1911/002)
+- Perubahan note penulisan tanggal saat IPC menjadi setiap awal jalan dan pergantian hari 
+- Perubahan DECain sachet pada instruksi posisi coding inkjet ditahap 5, menyesuaikan DECain sachet terbaru (FUP/PLG/PRD/0805/009)
+- Perubahan kalimat instruksi tampung NC produk 
+- Penambahan tahap pemeriksaan kesesuaian range berat karton antara 3WS dengan PPI
+- SPEC-LKMCA-S02 v0",DONE,,,CLOSED,2020
+14-Jan-20,LKPTA,LKPTA 14v0-05 v0,LKPTA 12v0-05 v1,"- Perubahan kode foil 91Fk006050 menjadi 1FK006060) terkait perubahan logo B7 pada kemasan sachet (FUP/PLG/MTL/1909/009)
+- Penambahan ketentuan masa pakai mesin filling (Fup/PLG/PRS/1911/002)
+- Perubahan note penulisan tanggal saat IPC menjadi setiap awal jalan dan pergantian hari
+- Perubahan kode box 92Dk056020 menjadi 2DK056030) terkait perubahan logo B7 pada kemasan box (FUP/PLG/MTL/1909/009)
+- Penambahan tahap pemeriksaan kesesuaian range karton antara 3WS dengan PPI 
+- Penambahan note waktu pemeriksaan karton finish good pada pallet ditahap 8
+- SPEC-LKPTA-S03 v0",DONE,,,CLOSED,2020
+14-Jan-20,LNKKB,LNKKB 07v0-05 v0,LNKKB 06v0-04 v1,"- Perubahan kode foil dari 1FK045-03 menjadi 1FK045-04 dan pack dari 2DK060-01 menjadi 2DK060-02 terkait perubahan logo B7 pada kemasan (FUP/PLG/MTL/1909/009)
+- SPEC-LNKKB-S03 v0",DONE,,,CLOSED,2020
+18-Jan-20,LKJTA,LKJTA 08v0-03 v0,LKJTA07v0-03 v1,"- Perubahan kode foil menjadi 1FK002060 terkait perubahan logo B7 (FUP/PLG/MTL/1909/009)
+- Penambahan ketentuan masa pakai mesin filling (FUP/PLG/PRS/1911/002)
+- Perubahan note penulisan tanggal saat ipc menjadi setiap awal jalan dan pergantian hari
+- Perubahan kode box menjadi 2DK055040 terkait perubahan logo B7 (FUP/PLG/MTL/1909/009)
+- Penambahan tahap pemeriksaan kesesuaian range berat karton antara 3WS dan PPI
+- Penambahan note waktu pemeriksaan karton FG pada pallet ditahap 8
+- SPEC FG: SPEC-LKJTA-S03",DONE,,,CLOSED,2020
+18-Jan-20,LKXLA,LKXLA 07v0-02 v2,LKXLA 07v0-02 v1,"- Perubahan durasi pengadukan pada storage sebelum proses filling dari 60 menit menjadi 5 menit (FUP/PLG/PRD/1910/009)
+- Perubahan speed agitator 5 menit sebelum dan selama filling dari 120 rpm menjadi 60 rpm (FUP/PLG/PRD/1910/009)
+- Perubahan note penulisan tanggal saat IPC menjadi setiap awal jalan dan pergantian hari 
+- Penambahan tahap pemeriksaan kesesuaian range berat karton antara 3WS dengan PPI
+- Penambahan note waktu pemeriksaan karton finish good pada pallet ditahap 8
+- SPEC-LKXLA-S03",DONE,,,CLOSED,2020
+20-Jan-20,LKCP1,LKCP1 01v1-03 v0,LKCP101v1-02 v0,"- Simplikasi proses sesuai FUP/PLG/PRD/1902/002
+- Perubahan logo B7 sesuai FUP/PLM/STM/1910/001
+- Kode SPEC ruah: SPEC-LKCP1-01-S01-M02",DONE,,,CLOSED,2020
+20-Jan-20,LWPG1,LWPG1 01v0-01 v1,LWPG1 01v0-01 v0,"- Simplikasi proses sesuai FUP/PLG/PRD/1902/002
+- Perubahan logo B7 sesuai FUP/PLM/STM/1910/001
+- Kode SPEC ruah: SPEC-LWPG1-01-S01-M02",19-Jan-21,,,CLOSED,2020
+22-Jan-20,PBPDA,PBPDA 03v0-01 v0,PBPDA 02v0-01 v2,"- Penambahan logo halal, QR code dan perubahan logo Bintang Toedjoe (1FP017020 menjadi 1FP017030 dan 3MP013030)
+- Penambahan 2 angka dibelakang koma untuk perhitungan rendemen",DONE,,,CLOSED,2020
+22-Jan-20,LKMC1,LKMC1 01v0-02 v1,LKMC1 01v0-02 v0,"- Simplikasi proses sesuai FUP/PLG/PRD/1902/002
+- Perubahan logo B7 sesuai FUP/PLM/STM/1910/001
+- Kode SPEC ruah: SPEC-LKMC1-01-S01-M02",DONE,,,CLOSED,2020
+3-Feb-20,LKXOD,LKXOD 05v0-02 v0,LKXOD 04v0-02 v1,"- Perubahan kode foil (1FK048020) terkait perubahan logo B7 dan penambahan QR code pada kemasan sachet (FUP/PLG/MTL/1909/009)
+- Perubahan note penulisan tanggal saat IPC menjadi setiap awal jalan dan pergantian hari
+- Perubahan kode box (2DK059020 menjadi 2Dk059030) terkait perubahan logo B7 dan penambahan QR code pada kemasan box (FUp/PLG/MTl/1909/009) 
+- Penambahan tahap pemeriksaan kesesuaian range berat karton antara 3WS dengan PPI 
+- SPEC-LKXOD-S01 v0",DONE,,,CLOSED,2020
+4-Feb-20,POSKC,POSKC 04v0-03 v0,POSKC 03v0-02 v1,Perubahan batch size dari 125 Kg menjadi 675 Kg,DONE,,,CLOSED,2020
+5-Feb-20,POSK1,POSK1 02v0-02 v0,POSK1 01v0-01 v1,"- Perubahan batch size dari 125 menjadi 675
+- Penimbangan paracetamol dan acetosal menggunakan tong SS/ bin SS (FUP/PLG/PRS/1911/004)",DONE,,,CLOSED,2020
+6-Mar-20,LPRGG,LPRGG 05v0-03 v0,LPRGG 04v0-03 v0,"- Perubahan nomor PPI sesuai perubahan PPI sekunder
+- Perubahan kode karton (3MP011-03) terkait perubahan DECain (FUP/PLG/1912/006)
+- Penambahan note pada pemeriksann karton er pallet 
+- Pencantuman nomor dokumen metode perunutan produk 
+- Perubahan format table pengadukan di tangki storage 
+- SPEC-LPRGG-S02 v0",DONE,,,CLOSED,2020
+6-Mar-20,LPRGH,LPRGH 03v0-03 v0,LPRGH 02v0-02 v0,"- Perubahan tabel pemeriksaan alat dan bahan yang digunakan 
+- Penambahan tabel pemeriksaan agitator setelah agitator berhenti
+- Penambahan IPC pemeriksaan agitator tiap 2 jam (FUP/PLG/PRS/1908/002)
+- Perubahan note penulisan tanggal saat IPC menjadi setiap awal jalan dan pergantian hari
+- Perubahan jumlah sachet dalam sekali pengujian kebocoran dari 3 sachet menjadi 2 sachet dalam 1 sohnle (FUP/PLG/PRS/1905/002)
+- Perubahan instruksi pengemasan (setelah instruksi langsung gambar) 
+- Perubahan kode OPP dari 4VW003020 (kebar 205 mm) menjadi 4VM004000 (lebat 190 mm) (FUP/PLG/MTL/1911/003)
+- Penambahan tahap pemeriksaan kesesuaian range berat karton antara 3WS dengan PPI
+- SPEC-LPRGH-S01 v0",24 Nov 2020,,,CLOSED,2020
+3-Mar-20,LBMAP,LBMAP 04v0-02 v0,LBMAP 03v0-02 v0,"- Perubahan product DECcriptiomn dari B7 Masuk Angin menjadi Bejo (FUP/PLG/PRD/1903/001)
+- Perubahan kode foil dari 1FM017-00 menjadi 1FM017-01 terkait perubahan logo B7 (FUP/PLG/MTL/1909/009)
+- Perubahan kecepatan Agitator dari 120 menjadi 60 rpm (FUP/PLG/PRD/1912/014)
+- Perubahan kode pack dari 2DM027-00 menjadi 2DM027-01 terkait perubahan logo B7 (FUP/PLG/MTL/1909/009)
+- Perubahan tumpukan maksimal karton dalam pallet dari 9 menjadi 10
+SPEC LBMAP-S03.0",Dikembalikan ke PD,,,CLOSED,2020
+9-Mar-20,PEJJE,PEJJE 07v0-01 v0,PEJJE 06v0-01 v0,"- Perubahan logo Bintang Toedjoe pada PPI
+- Perubahan DECain karton 3MB004030 menjadi 3MB004040
+- Penambahan 2 angka di belakang koma untuk perhitungan rendemen",Dikembalikan ke PD,,,CLOSED,2020
+9-Mar-20,LETSB,LETSB 04v0-03 v0,LETSB 03v0-03 v0,"- Perubahan note penulisan tanggal saat IPC menjadi setiap awal jalan dan pergantian hari 
+- perubahan kode karton dari 3ME021-02 menjadi 3ME021-03 terkait perubahan DECain (FUP/PLG/MTL/2001/003)
+- Penambahan note pada pemeriksaan karton per pallet 
+- Pencantuman nomor dokumen metode perunutan produk
+- SPEC-LETSB-S04 v0",DONE,,,CLOSED,2020
+30-Mar-20,LKCPA,LKCPA 03v0-03 v0,LKCPA 01v0-02 v4,"- Perubahan mesin filling menjadi ilapak (FUP/PLG/PRS/1907/012)
+- Perubahan logo B7 oada PPI (FUP/PLG/MTL/1909/009)
+- Penambahan IPC pemeriksaan agitator tiap 2 jam (FUP/PLG/PRS/1908/002)
+- Perubahan kode foil dari 1FK035-03 menjadi 1FK036-00 dan box dari 2DK040-02 menjadi 2DK040-03 terkait renewal registrasi Myanmar dan Cambodia, penghapusan no registrasi Vietnam (FUP/PLG/PRD/1909/013) serta foil menjadi 6 line (FUP/PLG/PRS/1901/012)
+- Perubahan kode brosur dari 4BK006-01 menjadi 4BK006-02 terkait penghapusan redaksi Vietnamese (FUP/PLG/PRD/1909/013)
+- Perubahan jumlah kemasan dalam rekonsiliasi menjadi 99% dari perhitungan teoritis (FUP/PLG/PRS/1711/012)
+SPEC-LKCPA-S02 v0",-,,,CLOSED,2020
+30-Mar-20,LKCPA,LKCPA 03v0-03 v2,LKCPA 02v0-02 v6,"- Perubahan mesin filling menjadi ilapak (FUP/PLG/PRS/1907/012)
+- Perubahan logo B7 oada PPI (FUP/PLG/MTL/1909/009)
+- Penambahan IPC pemeriksaan agitator tiap 2 jam (FUP/PLG/PRS/1908/002)
+- Perubahan kode foil dari 1FK035-03 menjadi 1FK036-00 dan box dari 2DK040-02 menjadi 2DK040-03 terkait renewal registrasi Myanmar dan Cambodia, penghapusan no registrasi Vietnam (FUP/PLG/PRD/1909/013) serta foil menjadi 6 line (FUP/PLG/PRS/1901/012)
+- Perubahan kode brosur dari 4BK006-01 menjadi 4BK006-02 terkait penghapusan redaksi Vietnamese (FUP/PLG/PRD/1909/013)
+- Perubahan jumlah kemasan dalam rekonsiliasi menjadi 99% dari perhitungan teoritis (FUP/PLG/PRS/1711/012)
+SPEC-LKCPA-S02 v0",-,,,CLOSED,2020
+24-Apr-20,LKXLA,LKXLA 08v0-03 v0,LKXLA 07v0-02 v2,"- Perubahan proses pengemasan sekunder menjadi cartoning Jih Cheng 
+- Perubahan kode pack dari 2DK053030 menjadi 2DK002000 terkait perubahan ukuran pack dan ukuran menyesuaikan dengan TD pack Jih Cheng 
+- Penambahan DECain QR code pada pack 
+- Perubahan range berat karton dari 4.83-5.37 Kg menjadi 4.93-5.38 Kg
+- Perubahan susunan karton pada pallet dan jumlah maksimum tumpukan karton terkait perubahan ukuran karton 
+- SPEC-LKXLA-S04",Dikembalikan ke PD,,,CLOSED,2020
+30-Apr-20,LKCLA,LKCLA 03v0-03 v1,LKCLA 02v0-02 v5,"- Perubahan mesin filling menjadi ilapak (FUP/PLG/PRS/1901/012)
+- Perubahan logo B7 pada PPI (FUP/PLG/MTL/1909/009)
+- Penambahan IPC pemeriksaan agitator tiap 2 jam (FUP/PLG/PRS/1908/002)
+- Perubahan kode foil dari 1FK034-03 menjadi 1FK037-00 serta box dari 2DK039-02 menjadi 2DK039-03 terkait renewal registrasi Myanmar, penghapusan no registrasi Cambodia dan Vietnam (FUP/PLG/PRD/1909/014) serta menjadi 6 line (FUP/PLG/PRS/1901/012)
+- Perubahan kode brosur dari 4BK005-01 menjadi 4BK005-02 terkait penghapusan redaksi Khmer dan Vietnamese (FUP/PLG/PRD/1909/014)
+- Perubahan jumlah kemasan dalam rekonsiliasi menjadi 99% dari perhitungan teoritis (FUP/PLG/PRS/1711/012)
+- SPEC-LKCLA-S02 v0",-,,,CLOSED,2020
+30-Apr-20,LKCLA,LKCLA 03v0-03 v0,LKCLA 02v0-02 v4,"- Perubahan mesin filling menjadi ilapak (FUP/PLG/PRS/1901/012)
+- Perubahan logo B7 pada PPI (FUP/PLG/MTL/1909/009)
+- Penambahan IPC pemeriksaan agitator tiap 2 jam (FUP/PLG/PRS/1908/002)
+- Perubahan kode foil dari 1FK034-03 menjadi 1FK037-00 serta box dari 2DK039-02 menjadi 2DK039-03 terkait renewal registrasi Myanmar, penghapusan no registrasi Cambodia dan Vietnam (FUP/PLG/PRD/1909/014) serta menjadi 6 line (FUP/PLG/PRS/1901/012)
+- Perubahan kode brosur dari 4BK005-01 menjadi 4BK005-02 terkait penghapusan redaksi Khmer dan Vietnamese (FUP/PLG/PRD/1909/014)
+- Perubahan jumlah kemasan dalam rekonsiliasi menjadi 99% dari perhitungan teoritis (FUP/PLG/PRS/1711/012)
+- SPEC-LKCLA-S02 v0",DONE,,,CLOSED,2020
+1-Mei-20,LKCGA,LKCGA 03v0-03 v0,LKCGA 02v0-02 v5,"- Perubahan mesin filling menjadi ilapak (FUP/PLG/PRS/1901/0)
+- Perubahan logo B7 pada PPI (FUP/PLG/MTL/1909/009)
+- Penambahan IPC pemeriksaan agitator tiap 2 jam (FUP/PLG/PRS/1908/002)
+- Perubahan kode foil dari 1FK033-03 menjadi 1FK038-00 serta box dari 2DK038-02 menjadi 2DK038-03 terkait renewal registrasi Myanmar, penghapusan no registrasi Cambodia dan Vietnam (FUP/PLG/PRD/1909/012) serta menjadi 6 line (FUP/PLG/PRS/1901/012)
+- Perubahan kode brosur dari 4BK004-01 menjadi 4BK004-02 terkait penghapusan redaksi Khmer dan Vietnamese (FUP/PLG/PRD/1909/014)
+- Perubahan jumlah kemasan dalam rekonsiliasi menjadi 99% dari perhitungan teoritis (FUP/PLG/PRS/1711/012)
+- SPEC-LKCGA-S02 v0",DONE,,,CLOSED,2020
+1-Mei-20,LKCGA,LKCGA 03v0-03 v1,LKCGA 02v0-02 v6,"- Perubahan mesin filling menjadi ilapak (FUP/PLG/PRS/1901/0)
+- Perubahan logo B7 pada PPI (FUP/PLG/MTL/1909/009)
+- Penambahan IPC pemeriksaan agitator tiap 2 jam (FUP/PLG/PRS/1908/002)
+- Perubahan kode foil dari 1FK033-03 menjadi 1FK038-00 serta box dari 2DK038-02 menjadi 2DK038-03 terkait renewal registrasi Myanmar, penghapusan no registrasi Cambodia dan Vietnam (FUP/PLG/PRD/1909/012) serta menjadi 6 line (FUP/PLG/PRS/1901/012)
+- Perubahan kode brosur dari 4BK004-01 menjadi 4BK004-02 terkait penghapusan redaksi Khmer dan Vietnamese (FUP/PLG/PRD/1909/014)
+- Perubahan jumlah kemasan dalam rekonsiliasi menjadi 99% dari perhitungan teoritis (FUP/PLG/PRS/1711/012)
+- SPEC-LKCGA-S02 v0",-,,,CLOSED,2020
+8-Mei-20,LBMAP,LBMAP 05v0-03 v0,new pengemasan pack manual,"New, pengemasan manual
+- SPEC-LBMAP-S03 v0",Dikembalikan ke PD,,,CLOSED,2020
+28-Mei-20,LNKOA,LNKOA 10v0-05 v0,LNKOA 09v0-05 v0,"- Perubahan kode foil menjadi 1FK044-05 dan box menjadi 2DK057-04 terkait perubahan logo B7 baru dengan ""A Kalbe Company "" (FUP/PLG/PRD/2002/007) serta penambahan 2D barcode pada box (FUP/PLG/MTL/1909/009)
+- SPEC-LNKOA-S03 v0",DONE,,,CLOSED,2020
+19-Jun-20,LKNTA,LKNTA 09v0-04 v0,LKNTA 08v0-03 v0,"- Perubahan kode foil menjadi 1FK004-07 dan box menjadi 2DK054-05 terkait perubahan logo B7 baru dengan ""A Kalbe Company"" (FUP/PLG/PRD/2002/007) serta penambahan 2D barcode pada box (FUP/PLG/MTL/1909/009)
+- SPEC-LKNTA-S03 v0",DONE,,,CLOSED,2020
+19-Jun-20,LKPTA,LKPTA 15v0-07 v0,LKPTA 14v0-05 v0,"- Perubahan kode foil menjadi 1FK006-07 dan box menjadi 2DK056-04 terkait perubahan logo B7 baru dengan ""A Kalbe Company"" (FUP/PLG/PRD/2002/007) serta penambahan barcode pada box (FUP/PLG/MTL/1909/009)
+- SPEC-LKPTA-S03 v0",DONE,,,CLOSED,2020
+14-Jul-20,LNKOD,LNKOD 03v0-01 v0,LNKOD 02v0-01 v0,"- Perubahan kode foil menjadi 1FK044-05 terkait perubahan logo B7 baru dengan ""A kalbe company""",29 Jun 2021,,,CLOSED,2020
+16-Jul-20,LBMAP,LBMAP 07v0-05 v0,LBMAP 05v0-03 v0,"- Perubahan kode foil menjadi 1FM017-02 serta pack menjadi 2DM003-01 terkait perubahan brand dari Bejo menjadi Bejo Herbal (FUP/PLG/PRD/2005/004)
+- Perubahan masa pakai mesin filling menjadi 7 hari (FUP/PLG/PRS/2006/014)
+- Perubahan batch size sachet, batch size pack, standar berat sachet + isi, standar berat karton dari 4.29-4.52 kg menajdi 4.12-4.46 kg, titik tengah formula dari 16.00 menjadi 15.00 mL, terkait perubahan formula ruah (FUP/PLG/PRD/1905/005)",,KTN,,OPEN,2020
+16-Jul-20,LBMAP,LBMAP 06v0-04 v0,LBMAP 04v0-02 v0,"- Perubahan kode foil menjadi 1FM017-02 serta pack menjadi 2DM027-02 terkait perubahan brand dari Bejo menjadi Bejo Herbal (FUP/PLG/PRD/2005/004)
+- Perubahan masa pakai mesin filling menjadi 7 hari (FUP/PLG/PRS/2006/014)
+- Perubahan batch size sachet, batch size pack, standar berat sachet + isi, standar berat karton dari 4.29-4.52 kg menajdi 4.12-4.46 kg, titik tengah formula dari 16.00 menjadi 15.00 mL, terkait perubahan formula ruah (FUP/PLG/PRD/1905/005)",,KTN,,OPEN,2020
+22-Jul-20,LBJAA,LBJAA 01v0-01 v1,LBJAA 01v0-01 v0,"Perubahan masa pakai mesin filling menjadi 7 hari
+Recipe ruah mengacu ke LBJA1 01v0-01
+SPEC-LBJAA-S01 v0",Batal,,,CLOSED,2020
+5-Agu-20,LBMAN,LBMAN 04v0-03 v0,LBMAN 03v0-02 v0,"- Perubahan kode foil menjadi 1FM017-02 terkait perubahan brand dari Bejo menjadi Bejo Herbal (FUP/PLGPRD/2005/004) serta perubahan klaim (FUP/PLG/PRD/2003/010)
+- Perubahan batch size sachet, standar berat sachet + isi, titik tengah formula dari 16.00 menjadi 15.00 mL, terkait perubahan formula ruah (FUP/PLG/PRD/1905/005)
+- Perubahan batch size pack, standar berat karton dari 4.33-4.55 menjadi 4.16-4.42 kg, titik tengah formula dari 16.00 menjadi 15.00 mL, terkait perubahan formula ruah (FUP/PLG/PRD/1905/005)
+- Perubahan masa pakai mesin filling menjadi 7 hari (FUP/PLG/PRD/2003/010)
+- SPEC-LBMAN-S04 v0",19 Mar 2021,,,CLOSED,2020
+19-Agu-20,LKXOD,LKXOD 05v0-02 v2,LKXOD 05v0-02 v1,"- Perubahan speed agitator 15 menit dan selama filling dari 120 rpm menjadi 60 rpm (FUP/PLG/PRS/2004/012)
+- Perubahan masa pakai mesin filling dan storage tank dari 3 hari menjadi 7 hari (FUP/PLG/PRS/2006/014)
+- Penghilangan note waktu pemeriksaan karton finish good pada pallet 
+- Penghilangan tabel perunutan produk 
+- Penambahan centang varian pada tahap pemeriksaan karton pada pallet
+- SPEC-LKXOD-S01 v0",18 Nov 2020,,,CLOSED,2020
+1-Sep-20,LKXPA,LKXPA 01v0-01 v3,LKXPA 01v0-01 v2,"- Perubahan speed agitator 15 menit dan selama filling dari 120 rpm menjadi 60 rpm (FUP/PLG/PRS/2004/012)
+- Perubahan masa pakai mesin filling dan storage tank dari 3 hari menjadi 7 hari (FUP/PLG/PRS/2006/014)
+- Penghilangan note waktu pemeriksaan karton finish good pada pallet 
+- Penghilangan tabel perunutan produk 
+- Penambahan centang varian pada tahap pemeriksaan karton pada pallet
+- SPEC-LKXOD-S01 v0",Dikembalikan ke PD,,,CLOSED,2020
+4-Sep-20,LKXJA,LKXJA 01v0-01 v2,LKXJA 01v0-01 v1,"- Perubahan masa pakai mesin filling dan storage tank dari 3 hari menjadi 7 hari (FUP/PLG/PRS/2006/014)
+- Penambahan keterangan pemeriksaan ulang keseragaman berat rata-rata tiap GT mesin yaitu hanya GT mesin yang berkaitan dengan system pengisian/berat sachet
+- Perubahan note penulisan tanggal saat IPC menjadi awal jalan, pergantian shift dan pergantian hari, serta penambahan note paraf dan inisial/ nama hanya dilakukan pasa setiap awal proses atau setiap awal untuk operator yang berbeda, selanjutnya hanya paraf saat IPC
+- Penambahan detail kode item pada pelampiran label packaging material (non dispense) pack dan karton serta label JO
+- Penghilangan note waktu pemeriksaan karton finish good pada pallet 
+- Penghilangan tabel perunutan produk
+- Penambahan centang varian pada tahap pemeriksaan karton pada pallet
+- SPEC-LKXJA-S01 v0",DONE,,,CLOSED,2020
+4-Sep-20,LKXNA,LKXNA 01v0-01 v3,LKXNA 01v0-01 v2,"- Perubahan masa pakai mesin filling dan storage tank dari 3 hari menjadi 7 hari (FUP/PLG/PRS/2006/014)
+- Penambahan keterangan pemeriksaan ulang keseragaman berat rata-rata tiap GT mesin yaitu hanya GT mesin yang berkaitan dengan system pengisian/ berat sachet
+- Perubahan note penulisan tanggal saat IPC menjadi awal jalan, pergantian shift dan pergantian hari, serta penambahan note paraf dan inisial/ nama hanya dilakukan pada setiap awal proses atau setiap awal untuk operator yang berbeda, selnjutnya hanya paraf saat IPC 
+- Penambahan detail kode item pada pelampiran label packaging material (non dispense) pack dan karton serta label JO 
+- Penghilangan note waktu pemeriksaan karton finish good pada pallet 
+- Penghilangan tabel perunutan produk 
+- Penambahan centang varian pada tahap pemeriksaan karton pada pallet
+- SPEC-LKXNA-S01 v0",26 Nov 2020,DSW,,CLOSED,2020
+17-Sep-20,LPRGF,LPRGF 06v0-03 v0,LPRGF 05v0-03 v0,"- Perubahan kecepatan agitator menjadi 60 rpm (FUP/PLG/PRS/2004/012)
+- Perubahan kode karton menjadi 3MP003-05 terikait perubahan DECain (FUP/PLG/PRD/2005/007)
+- Perubahan instruksi pda tahap setting suhu 
+- Perubahan standar warna menjadi coklat hitam sesuai dengan spesifikasi pada PPI ruah
+- Penambahan detail kode item pada pelampiran label packaging material (non dispense) dan label JO
+- Perubahan instruksi pada tahap 3WS
+- SPEC-LPRGF-S03 v0",DONE,,,CLOSED,2020
+21-Sep-20,LKXOB,LKXOB 11v0-03 v1,LKXOB 11v0-03 v0,"- Perubahan speed agitator sebelum dan selama filling dari 120 rpm menjadi 60 rpm (FUP/PLG/PRS/2004/012)
+- Penambahan detail kode item pda pelampiran label packaging material (non dispense) dan label JO
+- Penambahan jumlah tumpukan karton pada pallet dari 5 tumpukan menjadi 6 tumpukan (FUP/PLG/PRD/2007/005)
+- Pengurangan tabel baris pemeriksaan karton per pallet dari 13 pallet menjadi 11 pallet terkait dengan penambahan jumlah tumpukan karton pada pallet 
+- Perubahan posisi coding pada pack
+- SPEC-LKXOB-S03",DONE,,,CLOSED,2020
+23-Sep-20,LKXN1,LKXN1 01v0-01 v1,LKXN1 01v0-01 v0,"- Perubahan logo B7 sesuai dengan FUP/PLM/STM/1910/001
+- Simplifikasi proses sesuai FUP/PLG/PRS/2004/012
+- Perubahan menggunakan tanda ± terhadap volume air RO/PW yang ditambahkan bedasarkan masukan dari produksi pada poin 3.3, 3.4, 3.5, 4.3, 4.4
+- SPEC-LKXN1-01-S01-M01 v0",26 Nov 2020,VCS,GL084,CLOSED,2020
+23-Sep-20,LKXO2,LKXO2 01v0-02 v0,LKXO2 01v0-01 v1,"- Simplifikasi proses dan penghilangan intermediate mixing sesuai FUP/PLG/PRS/2004/012
+- Perubahan menggunakan tanda ± terhadap volume air RO/PW yang ditambahkan berdasarkan masukan dari produksi pada poin 3.3, 3.4, 3.5, 4.3, 4.4
+- SPEC-LKXO2-01-S03-M02 v0",18 Nov 2020,,,CLOSED,2020
+28-Sep-20,LKKSB,LKKSB 07v0-06 v0,LKKSB 06v0-05 v1,"- Penambahan masa pakai mesin filling (FUP/PLG/PRS/2009/002)
+- Perubahan kode foil menjadi 1FK031-07 terkait perubahan logo B7 (FUP/PLG/MTL/1909/009)
+- Penambahan IPC pemeriksaan agitator tiap 2 jam (FUP/PLG/PRS/1908/002)
+- Perubahan kode pack menjadi 2DK0161020 terkait perubahan logo B7 serta penambahan 2D barcode (FUP/PLG/MTL/1909/009)
+-SPEC-LKKSB-S03 v0",DONE,,,CLOSED,2020
+28-Sep-20,LNKKB,LNKKB 08v0-05 v0,LNKKB 07v0-05 v0,"- Penambahan masa pakai mesin filling (FUP/PLG/PRS/2009/002)
+- Perubahan kode foil menjadi 1FK045-05 terkait perubahan logo B7 dengan ""A Kalbe Company"" (FUP/PLG/PRD/2002/007)
+- Penambahan IPC pemeriksaan agitator tiap 2 jam (FUP/PLG/PRS/1908/002)
+- Perubahan kode pack menjadi 2DK060-03 terkait perubahan logo B7 dengan ""A Kalbe Company"" (FUP/PLG/PRD/2002/007) dan penambahan 2D barcode (FUP/PLG/MTL/1909/009)
+- SPEC-LNKKB-S03 v0",20 Feb 2021,,,CLOSED,2020
+8-Okt-20,LKJTA,LKJTA 11v0-05 v0,-,"- New, pengemasan sekunder manual (FUP/PLG/EQP/2004/006), DECain box dengan logo BBI (FUP/PLG/PRD/2009/006)
+- SPEC-LKJTA-S03 v0",DONE,,,CLOSED,2020
+9-Okt-20,LKXLA,LKXLA 08v0-03 v1,LKXLA 08v0-03 v0,"- Penambahan detail kode item pada pelampiran label packaging material (non dispense) dan label JO 
+- Penambahan jumlah tumpukan karton pada pallet dari 5 tumpukan menjadi 6 tumpukkan (FUP/PLG/PRD/2007/005)
+- Penambahan tahapan pemeriksaan sensor pack mesin wrapping di awal proses 
+- Pengurangan tabel baris pemeriksaan karton per pallet dari 13 pallet menjadi 11 pallet terkait dengan penambahan jumlah tumpukan karton pada pallet 
+- Perubahan posisi coding pada pack",8 Feb 2021,,,CLOSED,2020
+15-Okt-20,PEJJ1,PEJJ1 03v2-04 v1,PEJJ1 03v2-04 v1,"- Perubahan logo Bintang Toedjoe (FUP/PLM/STM/1910/001)
+- Perubahan istilah Transfer pump CFM menjadi transfer pump (FUP/PLG/PRD/2008/010)",Dikembalikan ke PD,,,CLOSED,2020
+21-Okt-20,LKPTA,LKPTA 16v0-07 v0,LKPTA 15v0-07 v0,"- Perubahan kode box menjadi 2DK056-05 terkait penambahan logo Bangga Buatan Indonesia (FUP/PLG/PRD/2009/006)
+- SPEC-LKPTA-S03 v0",17 Des 2020,,,CLOSED,2020
+16-Okt-20,LKCG1,LKCG1 01v0-03 v1,LKCG1 01V0-03 v0,"- Terlampir lampiran perubahan 
+Spesifikasi ruah = SPEC-LKCG1-01-S02-M02",-,,,CLOSED,2020
+16-Okt-20,LKCL1,LKCL1 01v1-03 v2,LKCL1 01v1-03 v1,"- Terlampir lampiran perubahan 
+Spesifikasi ruah = SPEC-LKCL1-01-S02-M02",DONE,,,CLOSED,2020
+16-Okt-20,LKCP1,LKCP1 01v1-03 v1,LKCP1 01v1-03 v0,"- Terlampir lampiran perubahan 
+Spesifikasi ruah = SPEC-LKCP1-01-S01-M02",26-Mar-21,,,CLOSED,2020
+20-Okt-20,LKXP1,LKXP1 01v0-01 v1,LKXP1 01v0-01 v0,"- Perubahan Logo B7 sesuai dengan FUP/PLM/STM/1910/001
+- Simplifikasi proses sesuai FUP/PLG/PRS/2004/012
+- Perubahan menggunakan tanda ± terhadap volume air RO/PW yang ditambahkan berdasarkan masukan dari produksi pada poin 3.3, 3.4, 3.5, 4.3, 4.4
+- SPEC-LKXP1-01S01-M01 v0",22 Mar 2021,,,CLOSED,2020
+30-Okt-20,LKMCA,LKMCA 05v0-03 v4,LKMCA 05v0-03 v3,"- Penambahan masa pakai mesin filling (FUP/PLG/PRS/2009/002)
+- SPEC-LKMCA-S02 v0",TIDAK DIPAKAI,,,CLOSED,2020
+3-Nov-20,LKNTA,LKNTA 10v0-04 v0,LKNTA 09v0-04 v0,"- Perubahan kode box menjadi 2DK054-06 terkait penambahan logo Bangga Buatan Indonesia (FUP/PLG/PRD/2009/006)
+- SPEC-LKNTA-S03 v0",17 Des 2020,DGN,,CLOSED,2020
+3-Nov-20,LNKOA,LNKOA 11v0-05 v0,LKNOA 10v0-05 v0,"- Perubahan kode box menjadi 2DK057-05 terkait penambahan logo Bangga Buatan Indonesia (FUP/PLG/PRD/2009/006)
+- SPEC-LNKOA-S03 v0",17 Des 2020,DGN,,CLOSED,2020
+9-Nov-20,LCLZC,LCLZC 04v0-03 v1,LCLZC 04v0-03 v0,"- Penambahan masa pakai mesin filling (FUP/PLG/PRS/2009/002)
+- SPEC-LCLZC-S02 v0",Dikembalikan ke TS,,,CLOSED,2020
+16-Nov-20,LKJTA,LKJTA 10v0-04 v0,LKJTA 09v0-04 v0,"- Penambahan instruksi pencatatan suhu pada saat dilakukan perubahan setting suhu ditengah proses filling
+- Perubahan kode box menjadi 2DK055-06 terkait penambahan logo BBI (FUP/PLG/PRD/2009/006)
+- Penmbahan instruksi setiap awal proses dan jik ada prgantian mesin cartoning pada tahap pemeriksaan range bobot checkweigher dan sensor box
+- SPEC-LKJTA-S03 v0",16 Des 2020,DGN,,CLOSED,2020
+24-Nov-20,LKCGA,LKCGA 03v0-03 v2,LKCGA 03v0-03 v0,"- Penambahan masa pakai mesin filling (FUP/PLG/PRS/2009/002)
+- Penambahan instruksi pencatatan suhu pada saat dilakukan perubahan setting suhu di tengah proses filling (FUP/PLG/PRD/2010/006)
+- SPEC-LKCGA-S02 v0",-,,,CLOSED,2020
+24-Nov-20,LKCPA,LKCPA 03v0-03 v4,LKCPA 03v0-03 v1,"- Penambahan masa pakai mesin filling (FUP/PLG/PRS/2009/002)
+- Penambahan instruksi pencatatan suhu pada saat dilakukan perubahan setting suhu di tengah proses filling (FUP/PLG/PRD/2010/006)
+- SPEC-LKCPA-S02 v0",26 Mar 2021,,,CLOSED,2020
+24-Nov-20,LKCPA,LKCPA 03v0-03 v3,LKCPA 03v0-03 v0,"- Penambahan masa pakai mesin filling (FUP/PLG/PRS/2009/002)
+- Penambahan instruksi pencatatan suhu pada saat dilakukan perubahan setting suhu di tengah proses filling (FUP/PLG/PRD/2010/006)
+- SPEC-LKCPA-S02 v0",-,,,CLOSED,2020
+24-Nov-20,LKCLA,LKCLA 03v0-03 v2,LKCLA 03v0-03 v0,"- Penambahan masa pakai mesin filling (FUP/PLG/PRS/2009/002)
+- Penambahan instruksi pencatatan suhu pada saat dilakukan perubahan setting suhu di tengah proses filling (FUP/PLG/PRD/2010/006)
+- SPEC-LKCLA-S02 v0",-,,,CLOSED,2020
+1-Des-20,LWPGA,LWPGA 01v0-01 v2,LWPGA 01v0-01 v1,"- Perubahan logo B7 pada PPI (FUP/PLG/MTL/1909/009)
+- Penambahan masa pakai mesin filling (FUP/PLG/PRS/2009/002)
+- Penambahan IPC pemeriksaan agitator tiap 2 jam (FUP/PLG/PRS/1908/002)
+- Penambahan instruksi pencatatan suhu pada saat dilakukan perubahan setting suhu di tengah proses filling (FUP/PLG/PRD/2010/006)
+- Perubahan jadwal sampling IPC kebocoran dari 3 sachet menjadi 2 sachet (FUP/PLG/PRS/1905/002)
+- SPEC-LWPGA-S02 v0",19 Jan 2021,,,CLOSED,2020
+5-Jan-21,LBMAN,LBMAN 05v0-03 v0,LBMAN 04v0-03 v0,"- Penambahan instruksi pencatatan suhu pada saat dilakukan perubahan setting suhu ditengah proses filling (FUP/PLG/PRD/2010/006)
+Perubahan kode pack menjadi 2DM028-03 terkait penambahan logo ""Bangga Buatan Indonesia""(FUP/PLG/PRD/2009/003)
+- Perubahan susunan karton terkait penghilangan karton ditengah layout palet dan penambahan jumlah palet (FUP/PLG/PRS/2012/003)
+- Perubahan kode karton terkait perubahan DECain Karton 2 IN 1 (FUP/PLG/MTL/2009/007)
+- Perubahan range berat karton dari 4.16 - 4.42 kg menjadi 4.18 - 4.43 karena perubahan ukuran dimensi dan karton menggunakan karton Bejo 2 IN 1 (FUP/PLG/MTL/2009/007)
+- SPEC-LBMAN-S04 v0",Dikembalikan ke PD,,,CLOSED,2021
+5-Jan-21,LBJAA,LBJAA 01v0-01 v2,LBJAA 01v0-01 v1,"- Penambahan instruksi pencatatan suhu pada saat dilakukan perubahan setting suhu ditengah proses filling (FUP/PLG/PRD/2010/006)
+- Perubahan susunan karton terkait penghilangan karton ditengah layout palet, dan penambahan jumlah palet (FUP/PLG/PRS/2012/003)",26 Jan 2021,,,CLOSED,2021
+26-Jan-21,LNKKB,LNKKB 09v0-05 v0,LNKKB 08v0-05 v0,"- Penambahan instruksi pencatatan suhu pada saat dilakukan perubahan setting suhu ditengah proses filling (FUP/PLG/PRD/2010/006)
+- Perubahan kode pack menjadi 2DK060-04 terkait penambahan logo ""Bangga Buatan Indonesia"" (FUP/PLG/PRD/2009/006)
+- Penghilangan kolom tanggal dan jam pada pemeriksaan karton per pallet (FUP/PLG/PRS/2011/010)
+- SPEC-LNKKB-S03 v0",12 Apr 2021,,,CLOSED,2021
+29-Jan-21,LKKSB,LKKSB 08v0-06 v0,LKKSB 07v0-06 v0,"- Penambahan tabel IPC pemeriksaan agitator 
+- Pnambahan instruksi pencatatan suhu pada saat dilakukan perubahan setting suhu ditengah proses filling (FUP/PLG/PRD/2010/006)
+- Penambahan perintah untuk pemastian pemasangan jalur transfer bulk ke mesin filling mengacu tabel rencana produksi 
+- Perubahan kode pack menjadi 2DK061030 terkait penambahan logo BBI (FUP/PLG/PRD/2009/006)
+- Penghilangan kolom tanggal dan jam pada pemeriksaan karton pallet (FUP/PLG/PRS/2011/010)
+- SPEC-LKKSB-S03 v0",-,,-,CLOSED,2021
+29-Jan-21,LPRGG,LPRGG 06v0-03 v0,LPRGG 05v0-03 v0,"- Penambahan masa pakai mesin filling menjadi 4 hari 
+- Penambahan instruksi pencatatan suhu pada saat dilakukan perunahan setting suhu ditengah proses filling (FUP/PLG/PRD/2010/006)
+- Perubahan kode dus dari 2DP003-07 menjadi 2DP003-08 terkait penambahan logo BBI (FUP/PLG/PRD/2010/009) 
+- Penghilangan kolom tanggal dan jam pada pemeriksaan pallet (FUP/PLG/PRS/2011/010)
+- SPEC-LPRGG-S03 v0",26 Mar 2021,,,CLOSED,2021
+1-Feb-21,POSKD,POSKD 02v0-02 v0,POSKD 01v01-01 v0,"- Penambahan paraf dan inisial atau nama pada kolom IPC
+- Penambahan interval waktu IPC untuk mesin OFF
+- Perubahan batch size dari 125 kg menjadi 675 kg (FUP/PLG/PRS/1911/004)
+- Perubahan logo Bintang Toedjoe pada PPI (FUP/PLM/STM/1910/001)
+- Perubahan DECign (1FP016010 menjadi 1FP002000 dan 2DP013000 menjadi 2DP001000) (FUP/PLG/PRS/1809/003)
+- Penghilangan tanggal penimbangan dan nama operator penimbangan pada label sampel
+- Penghilangan staples dengan plakban berlogo (FUP/PLG/PRS/1905/006)",27 Jul 2021,,,CLOSED,2021
+16-Okt-20,LKCG1,LKCG1 01v0-03 v1,LKCG1 01v0-03 v0,"- Penambahan point 4.4 terkait alternatif proses compounding terhadap material guaifenesin berbentuk bongkahan keras sesuai FUP/PLG/PRS/2006/001
+- Perubahan jumlah air RO / PW dari 1,000.0 Kg menjadi 950.0 Kg ketika proses transfer di awal
+- Perubahan penulisan ""Chlorpheniramine Maleate"" menjadi ""Chlorpenamine Maleate"" menyesuaikan INN sesuai FUP/PLG/MTL/1905/008
+- Penggabungan tahap preparasi premix flavour dengan Succus liquiritae Rad Liquid Extract A mengacu pada FUP/PLG/PRD/1902/002
+- Penambahan bilas wadah dengan ± 15 L air RO / PW pada point 3.3 dan ± 10 L air RO / PW pada point 4.3
+- Perubahan penulisan jumlah air RO / PW pada point 4.4 dan 4.8 menggunakan tanda ± terhadap volume air yang ditambahkan berdasarkan masukan dari produksi 
+- SPEC-LKCG1-01-S02-M02",,IDR,,OPEN,2020
+2-Feb-21,LWAPB,LWAPB 02v0-02 v2,LWAPB 02v0-02 v1,"- Perubahan logo B7 pada PPI (FUP/PLG/MTL/1909/009)
+- Penambahan IPC pemeriksaan agitator tiap 2 jam (FUP/PLG/PRS/1908/002)
+- Penambahan instruksi pencatatan suhu pada saat dilakukan perubahan setting suhu ditengah proses filling (FUP/PLG/PRD/2010/006)
+- Perubahan jumlah sampling IPC kebocoran dai 3 sachet menjadi 2 sachet (FUP/PLG/PRS/1905/002)
+- Penghilangan kolom tanggal dan jam pada pemeriksaan karton per pallet (FUP/PLG/PRS/2011/010)
+- SPEC-LWAPB-S02 v0",,DGN,,OPEN,2021
+2-Feb-21,LWAPA,LWAPA 03v0-02 v2,LWAPA 03v0-02 v1,"- Perubahan logo B7 pada PPI (FUP/PLG/MTL/1909/009)
+- Penambahan IPC pemeriksaan agitator tiap 2 jam (FUP/PLG/PRS/1908/002)
+- Penambahan instruksi pencatatan suhu pada saat dilakukan perubahan setting suhu ditengah proses filling (FUP/PLG/PRD/2010/006)
+- Perubahan jumlah sampling IPC kebocoran dai 3 sachet menjadi 2 sachet (FUP/PLG/PRS/1905/002)
+- Penghilangan kolom tanggal dan jam pada pemeriksaan karton per pallet (FUP/PLG/PRS/2011/010)
+- SPEC-LWAPB-S02 v0",,DGN,,OPEN,2021
+5-Feb-21,LBMAQ,LBMAQ 09v0-05 v0,LBMAQ 07v0-05 v0,"- Penambahan instruksi pencatatan suhu pada saat dilakukan perubahan setting suhu ditengah proses filling (FUP/PLG/PRD/2010/006)
+- Perubahan kode pack menjadi 2DM003-02 terkait penambahan logo ""Bangga Buatan Indonesia"" (FUP/PLG/PRD/2009/003)
+- Perubahan kode karton terkait perubahan DECain karton 2 in 1 (FUP/PLG/MTL/2009/007)
+- Penghilangan kolom tanggal dan jam pada pemeriksaan karton per pallet (FUP/PLG/PRS/2011/010)
+- SPEC-LBMAQ-S04 v0",9 Mar 2021,,,CLOSED,2021
+9-Feb-21,LKXOB,LKXOB 11v0-03 v2,LKXOB 11v0-03 v1,"- Penambahan perintah untuk pemastian pemasangan jalur transfer bulk ke mesin filling mengacu tabel rencana produksi 
+- Penambahan instruksi pencatatan suhu pada saat dilakukan perubahan setting suhu ditengah proses filling (FUP/PLG/PRD/2010/006)
+- Perubahan syarat dan metode IPC tube dari volume terpindahkan menjadi pengecekan keseragaman bobot 9FUP/PLG/PRS/2012/005)
+- Perubahan range berat karton dari 5.02 kg - 5.48 kg menjadi 5.03 kg - 5.49 kg karena perubahan syarat dan metode IPC tube dari volume terpindahkan menjadi pengecekan keseragaman bobot (FUP/PLG/PRS/2012/005)
+- Penghilangan kolom tanggal dan jam pada pemeriksaan pallet (FUP/PLG/PRS/2011/010) 
+- SPEC-LKXOB-S04 v0",3 Mar 2021,,,CLOSED,2021
+9-Feb-21,LKXLA,LKXLA 08v0-03 v2,LKXLA 08v0-03 v1,"- Penambahan perintah untuk pemastian pemasangan jalur transfer bulk ke mesin filling mengacu tabel rencana produksi 
+- Penambahan instruksi pencatatan suhu pada saat dilakukan perubahan setting suhu ditengah proses filling (FUP/PLG/PRD/2010/006)
+- Perubahan syarat dan metode IPC tube dari volume terpindahkan menjadi pengecekan keseragaman bobot 9FUP/PLG/PRS/2012/005)
+- Perubahan range berat karton dari 4.93 kg - 5.38 kg menjadi 4.94 kg - 5.39 kg karena perubahan syarat dan metode IPC tube dari volume terpindahkan menjadi pengecekan keseragaman bobot (FUP/PLG/PRS/2012/005)
+- Penghilangan kolom tanggal dan jam pada pemeriksaan pallet (FUP/PLG/PRS/2011/010) 
+- SPEC-LKXLA-S04 v0",DIKEMBALIKAN KE RND,DSW,,CLOSED,2021
+4-Mar-21,LKCG1,LKCG1 01v0-03 v2,LKCG1 01v0-03 v1,"- Tambahan ""Note"" pada point 3.1 berdasarkan masukan dari produksi sesuai FUP/PLG/PRS/2011/009
+- Perubahan tahap preparasi bahan pada point 3.3 sesuai FUP/PLG/PRS/2011/009
+- Perubahan spesifikasi bulk dari ""Coklat Muda"" menjadi ""Coklat Muda (Jernih hingga Keruh)"" sesuai FUP/PLG/PRS/2011/009
+- Perubahan posisi sampling dari storage tank ke mixing tank sesuai FUP/PLG/PRS/2011/002
+- SPEC-LKCG1-01-S02-M02",DONE,,,CLOSED,2021
+8-Mar-21,LKJTA,LKJTA 12v0-04 v0,LKJTA 10v0-04 v0,"- Perubahan kode karton dari 3MK042-00 menjadi 3MK042-01 terkait penghilangan checklist produk Komix OBH pada DECain karton (FUP/PLG/MTL/2101/004)
+- Penghilangan kolom tanggal dan jam pada pemeriksaan karton di pallet (FUP/PLG/PRS/2011/010)
+- SPEC-LKJTA-S03 v0",Dikembalikan ke PD,,,CLOSED,2021
+8-Mar-21,LKJTA,LKJTA 13v0-05 v0,LKJTA 11v0-05 v0,"- Perubahan kode karton dari 3MK042-00 menjadi 3MK042-01 terkait penghilangan checklist produk Komix OBH pada DECain karton (FUP/PLG/MTL/2101/004)
+- Penghilangan kolom tanggal dan jam pada pemeriksaan karton di pallet (FUP/PLG/PRS/2011/010)
+- SPEC-LKJTA-S03 v0",Dikembalikan ke PD,,,CLOSED,2021
+8-Mar-21,LKPTA,LKPTA 17v0-07 v0,LKPTA 16v0-07 v0,"- Perubahan kode karton dari 3MK042-00 menjadi 3MK042-01 terkait penghilangan checklist produk Komix OBH pada DECain karton (FUP/PLG/MTL/2101/004)
+- Penghilangan kolom tanggal dan jam pada pemeriksaan karton di pallet (FUP/PLG/PRS/2011/010)
+- SPEC-LKPTA-S03 v0",2 Jun 2021,,,CLOSED,2021
+8-Mar-21,LKNTA,LKNTA 11v0-04 v0,LKNTA 10v0-04 v0,"- Perubahan kode karton dari 3MK042-00 menjadi 3MK042-01 terkait penghilangan checklist produk Komix OBH pada DECain karton (FUP/PLG/MTL/2101/004)
+- Penghilangan kolom tanggal dan jam pada pemeriksaan karton di pallet (FUP/PLG/PRS/2011/010)
+- SPEC-LKNTA-S03 v0",17 Mei 2021,,,CLOSED,2021
+26-Mar-21,LKXLA,LKXLA 09v0-03 v0,LKXLA 08v0-03 v2,"- Perubahan DECain karton terkait penambahan centang variasi untuk produk komix Herbal Kids (FUP/PLG/MTL/2101/005)
+- SPEC-LKXLA-S04 v0",1 Apr 2021,,,CLOSED,2021
+29-Apr-21,LKXKA,LKXKA 01v0-01 v0,-,"- Produk baru
+- SPEC-LKXK1 -01-S01-M01 v0",22-Jul-21,,,CLOSED,2021
+29-Apr-21,LKXK1,LKXK1 01v0-01 v0,-,"- Produk baru
+- SPEC-LKXKA-S01-v0",DONE,,,CLOSED,2021
+5-Mei-21,LKJTA,LKJTA 12v0-04 v1,LKJTA 12v0-04 v0,"- Perubahan standar warna pada pemeriksaan warna bulk menjadi Coklat Muda (jernih hingga keruh) (FUP/PLG/PRS/2011/009)
+- SPEC-LKJTA-S03 v0",24 Mei 2021,,,CLOSED,2021
+5-Mei-21,LKJTA,LKJTA 13v0-05 v1,LKJTA 13v0-05 v0,"- Perubahan standar warna pada pemeriksaan warna bulk menjadi Coklat Muda (jernih hingga keruh) (FUP/PLG/PRS/2011/009)
+- SPEC-LKJTA-S03 v0",TIDAK DIPAKAI,,,CLOSED,2021
+7-Mei-21,LKCGA,LKCGA 03v0-03 v3,LKCGA 03v0-03 v2,"- Perubahan standar warna pada pemeriksaan warna bulk menjadi Coklat Muda (jernih hingga keruh) (FUP/PLG/PRS/2011/009)
+- Penghilangan kolom tanggal dan jam pada pemeriksaan karton per pallet (FUP/PLG/PRS/2011/010)
+- SPEC-LKCGA-S02 v0",-,,,CLOSED,2021
+7-Mei-21,PWSNH,PWSNH 05v0-01 v1,PWSNH 05v0-01v0,"- Perubahan standar rendemen bila ada bulk rework (FUP/PLG/PRS/1905/007)
+- SPEC-PWSNH-S02",27 Mei 2021,,,CLOSED,2021
+17-Mei-21,TFVDA,TFVDA 01v0-01 v1,TFVDA 01v0-01 v0,"- Perubahan terkait range berat karton dari 3.55 - 3.66 Kg menjadi 2.58 - 2.65 Kg (FUP/PLG/PRD/2104/014)
+- Perubahan kalimat pada pencatatan NC produk 
+- Penghilangan jumlah kemasan sekunder yang digunakan pada tabel rekonsiliasi kemasan sekunder (FUP/PLG/PRD/2104/014)
+- Perubahan standar rendemen dari 31,050 - 35,708 Box
+- SPEC-TFVDA-S01 v0",2 Jun 2021,,,CLOSED,2021
+22-Apr-21,LKKS1,LKKS1 01v1-04 v0,LKKS1 01v0-04 v0,"- Perbesaran batch size dari 1.925 L menjadi 2.000 L sesuai (FUP/PLG/PRS/2001/004)
+- Tambahan ""Note"" pada point 3.1 berdasarkan masukan dari produksi 
+- Perubahan tahap preparasi bahan pada point 3.3 sesuai (FUP/PLG/PRS/2011/009)
+- Perubahan posisi sampling dari storage tank menjadi mixing tank sesuai (FUP/PLG/PRS/2011/002)
+- SPEC-LKKS1-01-S2-MO3",DONE,,,CLOSED,2021
+22-Apr-21,LKKSB,LKKSB 09v0-07 v0,LKKSB 08v0-06 v0,ket perubahan tidak ditulis,DONE,,,CLOSED,2021
+27-Mei-21,LBMAQ,LBMAQ 09v0-05 v1,LBMAQ 09v0-05 v0,"- Perubahan range bobot sachet menjadi 19.50 - 21.36 g dengan titik tengah (target) 20.43 g tekait perubahan BJ (FUP/PLG/PRD/2103/009)
+- Perubahan range bobot karton pada bagian penimbangan bobo 3WS menjadi 4.08 - 4.42 kg terkait perubahan BJ (FUP/PLG/PRD/2103/009)
+- SPEC-LBMAQ-S04 v0",8 Jun 2021,,,CLOSED,2021
+27-Mei-21,LBMAQ,LBMAQ 08v0-04 v1,LBMAQ 08v0-04 v0,"- Perubahan range bobot sachet menjadi 19.50 - 21.36 g dengan titik tengah (target) 20.43 g terkait perubahan BJ (FUP/PLG/PRD/2103/009)
+- Perubahan range bobot karton pada bagian penimbangan bobot 3WS menjadi 4.08 - 4.42 kg terkait perubahan BJ (FUP/PLG/PRD/2103/009)
+- SPEC-LBMAQ-S04 v0",2 Jun 2021,,,CLOSED,2021
+18-Jun-21,LKXNA,LKXNA 01v0-01 v5,LKXNA 01v0-01 v4,"- Perubahan setting potongan sachet menjadi renceng per 6 sachet (FUP/PLG/PRD/2104/007)
+- Penambahan pemeriksaan perforasi pada tabel pemeriksaan fisik sachet (FUP/PLG/PRD/2104/007)
+- SPEC-LKXNA-S01 v0",5 Jul 2021,,,CLOSED,2021
+18-Jun-21,LKXPA,LKXPA 01v0-01 v5,LKXPA 01v0-01 v4,"- Perubahan setting potongan sachet menjadi renceng per 6 sachet (FUP/PLG/PRD/2104/007)
+- Penambahan pemeriksaan perforasi pada tabel pemeriksaan fisik sachet (FUP/PLG/PRD/2104/007)
+- SPEC-LKXPA-S01 v0",13 Jul 2021,,,CLOSED,2021
+18-Jun-21,LKXJA,LKXJA 01v0-01 v4,LKXJA 01v0-01 v3,"- Perubahan setting potongan sachet menjadi renceng per 6 sachet (FUP/PLG/PRD/2104/007)
+- Penambahan pemeriksaan perforasi pada tabel pemeriksaan fisik sachet (FUP/PLG/PRD/2104/007)
+- SPEC-LKXJA-S01 v0",30 Jun 2021,,,CLOSED,2021
+21-Jun-21,LKNTA,LKNTA 12v0-04 v0,LKNTA 11v0-04 v0,"- Perubahan qty foil dan OPP pada formula dan rekonsiliasi sesuai data actual PPIC (FUP/PLG/PRD/2104/004)
+- SPEC-LKNTA-S03 v0 (tidak ada perubahan spec)",DONE,,,CLOSED,2021
+25-Agu-21,PWSNH,PWSNH 05v0-01 v2,PWSNH 05v0-01 v1,"- Penambahan jumlah tabel IPC kebocoran (FUP/PLG/PS/2107/003)
+- SPEC-PWSNH-S02 v0",25 Agu 2021,,,CLOSED,2021
+5-Agu-21,LKXL1,LKXL1 02v0-03 v0,LKXL1 01v1-02 v0,"Rasionalisasi jumlah pemanis berdasarkan hitungan ratio, perubahan titik tengah dan simplifikasi proses bedasarkan FUP/PLG/PRD/2007/004
+SPEC LKXL1-02-S01-M01 v0
+SPEC LKXLA-S06 v0",2-Feb-22,,,CLOSED,2021
+9-Agu-21,LBMAN,LBMAN 05v0-03 v1,LBMAN 05v0-03 v0,"- Perubahan range bobot sachet menjadi 19.50 - 21.36 g dengan titik tengah (target) 20.43 g range bobot karton pada bagian penimbangan bobot 3WS menjadi 4-14 - 4.39 kg terkait perubahan BJ (FUP/PLG/PRD/2103/009)
+- SPEC-LBMAN-S05 v0 (tidak ada perubahan spec)",15 Sep 2021,,,CLOSED,2021
+8-Sep-21,LKCPA,LKCPA 04v0-04 v1,LKCPA 03v0-03 v4,"- Perubahan kode foil menjadi 1FK036-01 terkait perubahan layout DECain (FUP/PLG/PRD/2013/013)
+- Perubahan metode pengemasan sekunder menjadi kartoning (FUP/PLG/PRS/1901/012)
+- Penghilangan tanggal jam pada pemeriksaan karton di pallet (FUP/PLG/PRS/2011/010)
+- Perubahan kode box menjadi 2DK005-00 terkait proses kartoning (FUP/PLG/PRS/1901/012)
+- Penghilangan brosur (redaksi brosur tercetak di inner box)
+- Perubahan kode karton menjadi 3MK004-00 terkait proses kartoning (FUP/PLG/PRS/1901/012)
+- Perubahan komposisi karton menjadi single wall (FUP/PLG/MTL/2008/005)
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan berat karton menjadi 16.20 - 16.49 kg
+- SPEC-LKCPA-S02 v0 (tidak ada perubahan spec)",9 Okt 2021,,,CLOSED,2021
+8-Sep-21,LKCPA,LKCPA 04v0-04 v0,LKCPA 03v0-01 v3,"- Perubahan kode foil menjadi 1FK036-01 terkait perubahan layout DECain (FUP/PLG/PRD/2103/013)
+- Perubahan metode pengemasan sekunder menjadi cartoning (FUP/PLG/PRS/1901/012)
+- Penghilangan tanggal jam pada pemeriksaan karton di pallet (FUP/PLG/PRS/2011/010)
+- Perubahan kode box menjadi 2DK005-00 terkait proses cartoning (FUP/PLG/PRS/1901/012)
+- Penghilangan brosur (redaksi brosur tercetak di inner box) 
+- Perubahan kode karton menjadi 3MK004-00 terkait proses cartoning (FUP/PLG/PRS/1901/012)
+- Perubahan komposisi karton menjadi single wall (FUP/PLG/MTL/2008/005)
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan berat karton menjadi 16.20 - 16.49 kg
+- SPEC-LKCPA-S02 v0 (tidak ada perubahan spec)",9 Okt 2021,,,CLOSED,2021
+17-Sep-21,LKCLA,LKCLA 04v0-04 v0,LKCLA 03v0-03 v2,"- Perubahan kode foil menjadi 1FK036-01 terkait perubahan layout DECain (FUP/PLG/PRD/2103/013)
+- Perubahan metode pengemasan sekunder menjadi cartoning (FUP/PLG/PRS/1901/012)
+- Penghilangan tanggal jam pada pemeriksaan karton di pallet (FUP/PLG/PRS/2011/010)
+- Perubahan kode box menjadi 2DK005-00 terkait proses cartoning (FUP/PLG/PRS/1901/012)
+- Penghilangan brosur (redaksi brosur tercetak di inner box) 
+- Perubahan kode karton menjadi 3MK004-00 terkait proses cartoning (FUP/PLG/PRS/1901/012)
+- Perubahan komposisi karton menjadi single wall (FUP/PLG/MTL/2008/005)
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan berat karton menjadi 16.20 - 16.49 kg
+- SPEC-LKCPA-S02 v0 (tidak ada perubahan spec)",11 Okt 2021,,,CLOSED,2021
+23-Sep-21,LPRGF,LPRGF 07v0-03 v0,LPRGF 06v0-03 v0,"- Perubahan kode foil menjadi 1FP014080 terkait perubahan brand menjadi Promag Herbal (FUP/PLG/PRD/2101/006)
+- Perubahan settingan potongan menjadi per 6 sachet (FUP/PLG/PRD/2107/004) serta penambahan IPC pemeriksaan perforasi sachet
+- Penambahan instruksi pencatatan suhu pada saat dilakukan perubahan setting suhu di tengah proses filling (FUP/PLG/PRD/2010/006)
+- Perubahan kode pack menjadi 2DP002070 serta karton menjadi 3MP003060 terkait perubahan brand menjadi Promag Herbal (FUP/PLG/PRD/2101/006)
+- Penghilangan tanggal jam pada pemeriksaan karton di pallet (FUP/PLG/PRS/2011/010)
+SPEC-LPRGFH-S04 v0 (tidak ada perubahan spec)",3 Des 2021,,,CLOSED,2021
+23-Sep-21,LKXLA,LKXLA 10v0-03 v0,LKXLA 09v-03 V0,"- Perubahan kode Pack menjadi 2DK002010 terkait perubahan DECain yaitu pencantuman gambar jahe merah, penambahan logo BBI dan informasi lemon flavour pada komposisi produk (FUP/PLG/PRD/2104/001)",7 Okt 2021,,,CLOSED,2021
+1-Okt-21,LKMCB,LKMCB 02v0-01 v0,LKMCB 01v0-01 v1,"- Perubahan kode karton menjadi 3MK00400 terkait komposisi single wall (FUP/PLG/MTL/2008/005)
+- Pengalihan proses sstaples pada karton serta perubahan plakban menjadi plakben berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan berat karton dari 14.80 - 15.06 kg menjadi 14.67 - 14.93 kg",11 Okt 2021,,,CLOSED,2021
+19-Okt-21,LKNTA,LKNTA 13v0-04 v0,LKNTA 12v0-04 v0,"- Perubahan formula kemasan sekunder terkait penambahan qty box dan karton mengacu ke batch size teoritis (FUP/PLG/PRD/2108/002)
+- SPEC-LKNTA-S03 v0",25 Okt 2021,,,CLOSED,2021
+19-Okt-21,LNKOA,LNKOA 12v0-05 v0,LNKOA 11v0-05 v0,"- Perubahan formula kemasan sekunder terkait penambahan qty box dan karton mengacu ke batch size teoritis (FUP/PLG/PRD/2108/002)
+- Penghilangan kolom tanggal dan jam pada pemeriksaan karton di pallet (FUP/PLG/PRS/2011/010)
+- SPEC-LNKOA-S03 v0",25 Okt 2021,,,CLOSED,2021
+19-Okt-21,LKJTA,LKJTA 14v0-04 v0,LKJTA 12v0-04 v1,"- Perubahan formula kemasan sekunder terkait penambahan qty box dan karton mengacu ke batch size teoritis (FUP/PLG/PRD/2108/002)
+- SPEC-LKJTA-S03 v0",25 Okt 2021,,,CLOSED,2021
+19-Okt-21,LKPTA,LKPTA 19v0-07 v0,LKPTA 18v0-07 v0,"- Perubahan formula kemasan sekunder terkait penambahan qty box dan karton mengacu ke batch size teoritis (FUP/PLG/PRD/2108/002)
+- SPEC-LKPTA-S03 v0",26 Okt 2021,,,CLOSED,2021
+21-Okt-21,LKXJA,LKXJA 01v0-01 v5,LKXJA 01v0-01 v4,"Penyesuaian range timbang bobot karton dengan aktualnya (FUP/PLG/PRD/2106/001)
+SPEC-LKXJA-S02 v0",2-Nov-21,,,CLOSED,2021
+21-Okt-21,LKXNA,LKXNA 01v0-01 v6,LKXNA 01v0-01 v5,"Penyesuaian range timbang bobot karton dengan aktualnya (FUP/PLG/PRD/2106/001)
+SPEC-LKXNA-S02 v0",3-Nov-21,,,CLOSED,2021
+5-Nov-21,LKCGA,LKCGA 04v0-04 v0,LKCGA 03v0-03 v3,"- Perubahan kode foil menjadi 1FK038-01 terkait perubahan layout DECain (FUP/PLG/PRD/2103/013)
+- Perubahan metode pengemasan menjadi Cartoning (FUP/PLG/PRS/1901/012)
+- Perubahan kode box menjai 2DK016-00 terkait proses cartoning (FUP/PLG/PRS/1901/012)
+- Perubahan kode karton menjadi 3MK004-00 terkait proses cartoning (FUP/PLG/PRS/1901/012)
+- Perubahan komposisi karton menjadi single wall (FUP/PLG/MTL/20008/005)
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan berat karton dari 15.56-16.14 Kg menjadi 15.95-16.23 Kg
+SPEC-LKCGA-S02 v0 (tidak ada perubahan spec)",-,,,CLOSED,2021
+11-Nov-21,LETSB,LETSB 04v0-03 v1,LETSB 04v0-03 v0,"- Perubahan setting potongan sachet menjadi renceng per 6 sachet (FUP/PLG/PRD/2107/004) serta penambahan IPC pemeriksaan perforasi sachet
+- Penambahan intruksi pencatatan suhu pada saat dilakukan setting suhu ditengah proses filling (FUP/PLG/PRD/2010/006)
+- Penghilangan tanggal jam pada pemeriksaan karton di pallet (FUP/PLG/PRS/2011/010)
+SPEC-LETSB-S05 v0",6 Des 2021,,,CLOSED,2021
+3-Des-21,LPRG1,LPRG1 02V2-04 v1,LPRG1 02V2-04 v0,"Perubahan Nama Produk Menjadi Promag Herbal Sesuai Dengan (FUP/PLG/PRD/2101/006)
+SPEC-LPRG1-03-S01-N03",3 Des 2021,,,CLOSED,2021
+23-Des-21,LBMAQ,LBMAQ 11v0-05 v0,LBMAQ 09v0-05 v0,"- Perubahan kode foil menjadi 1FM017030 dan pack menjadi 2DM003-03 terkait perubahan redaksi aturan pakai (FUP/PLG/PRD/2104/002)
+- SPEC-LBMAQ-S05 v0 (tidak ada perubahan spec)",21 Jan 2022,,,CLOSED,2021
+23-Des-21,LBMAN,LBMAN 06v0-03 v0,LBMAN 05v0-03 v1,"- Perubahan kode foil menjadi 1FM017030 dan pack menjadi 2DM028-04 terkait perubahan redaksi aturan pakai (FUP/PLG/PRD/2104/002)
+- SPEC-LBMAN-S05 v0 (tidak ada perubahan spec)",27 Jan 2022,,,CLOSED,2021
+24-Des-21,LKCPA,LKCPA 04v0-04 v3,LKCPA 04v0-04 v1,"- Perubahan range berat box pada checkweigher perhitungan mengacu Komix Lokal 
+- Penambahan instruksi kesesuaian / double crosscheck pada stempel karton disetujui oleh supervisor / operator yang berbeda (FUP/PLG/PRS/2111/004)
+- SPEC-LKCPA-S03 v0",8 Mar 2022,,,CLOSED,2021
+24-Des-21,LKCPA,LKCPA 04v0-04 v2,LKCPA 04v0-04 v0,"- Perubahan range berat box pada checkweigher perhitungan mengacu Komix Lokal 
+- Penambahan instruksi kesesuaian / double crosscheck pada stempel karton disetujui oleh supervisor / operator yang berbeda (FUP/PLG/PRS/2111/004)
+- SPEC-LKCPA-S03 v0",-,,,CLOSED,2021
+24-Des-21,LKCLA,LKCLA 04v0-04 v1,LKCLA 04v0-04 v0,"- Perubahan range berat box pada checkweigher perhitungan mengacu Komix Lokal 
+- Penambahan instruksi kesesuaian / double crosscheck pada stempel karton disetujui oleh supervisor / operator yang berbeda (FUP/PLG/PRS/2111/004)
+- SPEC-LKCLA-S03 v0",8 Mar 2022,,,CLOSED,2021
+24-Des-22,LPRGF,LPRGF 07v0-03 v1,LPRGF 07v0-03 v0,Perubahan durasi awal pengadukan bulk dari 15 menit menjadi mimal 15 menit pada tahap jalankan agitator sebelum proses filling serta perubahan kolom jam selesai menjadi jam mulai filling,28-Jan-22,,,CLOSED,2022
+24-Des-21,LWPGA,LWPGA 01v0-01 v3,LWPGA 01v0-01 v2,"- Penambahan instruksi kesesuaian / double crosscheck pada stempel karton disetujui oleh supervisor / operator yang berbeda (FUP/PLG/PRS/2111/004)
+- Penghilangan kolom tanggal dan jam pada pemeriksaan karton per pallet (FUP/PLG/PRS/2011/010)
+- SPEC-LWPGA-S02 v0",28 Sep 2022,,EJ001,CLOSED,2021
+24-Des-21,LKCGA,LKCGA 04v0-04 v1,LKCGA 04v0-04 v0,"- Perubahan range berat box pada checkweigher perhitungan mengacu Komix Lokal 
+- Penambahan instruksi kesesuaian / double crosscheck pada stempel karton disetujui oleh supervisor / operator yang berbeda (FUP/PLG/PRS/2111/004)
+- SPEC-LKCGA-S03 v0",8 Mar 2022,,,CLOSED,2021
+24-Des-21,LCLZC,LCLZC 04v0-03 v2,LCLZC 04v0-03 v1,"- Penambahan instruksi kesesuaian / double crosscheck pada stempel karton disetujui oleh supervisor / operator yang berbeda (FUP/PLG/PRS/2111/004)
+- Penghilangan kolom tanggal dan jam pada pemeriksaan karton per pallet (FUP/PLG/PRS/2011/010)
+- SPEC-LCLZC-S02 v0",Dikembalikan ke TS,,,CLOSED,2021
+23-Nov-21,LEHD1,LEHD1 01v0-01 v0,-," - New Product 
+ - SPEC-LEHD1-01-S01-M01 v0",23-Nov-21,DSW,BL001,CLOSED,2021
+23-Nov-21,LEHDA,LEHDA 01v0-01 v0,-," - New Product 
+ - SPEC-LEHDA-S01 v0",23-Nov-21,DSW,BL001,CLOSED,2021
+19-Apr-21,LPRG2,LPRG2 02v1-02 v1,LPRG2 02v1-02 v0," - Perubahan logo B7 sesuai dengan FUP/PLM/STM/1910/001
+ - Penyesuaian lebar kolom label timbang pada tabel l.B
+ - Tambahan pengecekan point 8c berdasarkan masukan dari produksi 
+ - Perubahan menggunakan tanda ± terhadap volume air RO/PW yang ditambahkan berdasarkan masukan dari produksi 
+ - SPEC-LPRG2-02-S02-M03",Juni 2021,AZL,BF001,CLOSED,2021
+4-Jan-21,LBJAB,LBJAB 01v0-01 v1,LBJAB 01v0-01 v0," - Penambahan instruksi pencatatan suhu pada saat dilakukan perubahan setting suhu ditengah proses filling (FUP/PLG/PRD/2010/006)
+ - Perubahan susunan karton terkait penghilangan karton ditengah layout pallet, dan penambahan jumlah palet (FUP/PLG/PRS/2012/003)
+ - SPEC-LBJAB-S01 v0",4 Jan 2021,DSW,BA001,CLOSED,2021
+4-Jan-22,LNKKB,LNKKB 09v0-05 v1,LNKKB 09v0-05 v0,"- Perubahan durasi awal pengadukan bulk dari selama 10 menit menjadi minimal 10 menit pada tahap jalankan agitator sebelum proses filling serta perubahan kolom jam selesai menjadi jam mulai filling
+- Perubahan kalimat instruksi IPC pemeriksaan agitator setiap 2 jam menjadi setiap tidak lebih dari 2 jam
+- SPEC-LNKKB-S03 v0",22 Jan 2022,,,CLOSED,2022
+12-Jan-22,LBMAQ,LBMAQ 10v0-04 v0,LBMAQ 08v0-04 v1,"- Perubahan kode foil menjadi 1FM017030 dan pack menjadi 2DM027-04 terkait perubahan redaksi aturan pakai (FUP/PLG/PRD/2104/002)
+- SPEC-LBMAQ S05 v0 (tidak ada perubahan spec)",di kembalikan ke rnd,,di kembalikan ke rnd,CLOSED,2022
+12-Jan-22,LNKOE,LNKOE 01v0-01 v0,-,"- Produk baru, Komix OBH (PE) pack isi 6 sachet
+- SPEC-LNKOE-S01 v0",-,DSW,Dikembalikan ke RND ,CLOSED,2022
+31-Jan-22,LCLZI,LCLZI 01v0-02 v1,LCLZ1 01v0-02 v0,"- Perubahan titik sampling dari storage tank ke mixing tank sesuai FUP/PLG/PRS/2011/002
+- Perubahan ukuran kolom penempelan label bahan baku dan label ruang / alat /mesin
+- Perubahan transfer premix 2 menjadi metode vacuum 
+- SPEC-LCLZ1-01-S01-M03",10 Agu 2022,,EH001,CLOSED,2022
+31-Jan-22,LWAP1,LWAP1 03v0-02 v1,LWAP1 03v0-02 v0,"- Perubahan logo Bintang Toedjoe sesuai FUP/PLG/MTL/1909/009
+- Perubahan penulisan jumlah air RO/PW pada point 4.2 dan 4.4 menggunakan tanda ± terhadap volume air RO/PW yang ditambahkan berdasarkan masukan dari produksi
+- Perubahan titik samping dari storage tank ke mixing tank berdasarkan FUP/PLG/PRS/2011/002
+- Perubahan ukuran kolom penempelan label bahan baku
+- SPEC-LWAP1-03-S02-M01",,IDR,,OPEN,2022
+31-Jan-22,LWPG1,LWPG1 01v1-01 v0,LWPG1 01v0-01 v2,"- Perubahan urutan RMFR mengikuti urutan proses compounding dan perubahan posisi sampling bUlk FM pada Mixing tank sesuai FUP/PLG/PRS/2011/002
+- Perubahan ukuran kolom penempelan label bahan baku
+- SPEC-LWPG1-01-S02-M03",28-Sep-22,,EJ001,CLOSED,2022
+22-Feb-22,LPRGH,LPRGH 05v0-03 v0,LPRGH 04v0-03 v0,"- Perubahan kode karton dari 3MP01400 (Doubel wall) menjadi 3MP01400 (Single wall) (FUP/PLG/MTL/2008/005)
+- Perubahan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan standar berat karton dari 4.71 - 4.90 Kg menjadi 4.68 - 4.85 Kg (mohon diinfokan ke R&D sebelum batch perdana berjalan ,agar dapat dilakukan perubahan range di 3WS terlebih dahulu)
+- SPEC-LPRGH-S02 v0 (tidak ada perubahan spec)",19 Sep 2022,,EJ004,CLOSED,2022
+25-Feb-22,LCLZC,LCLZC 05v0-04 v0,LCLZC 04v0-03 v2,"- Perubahan kode foil menjadi 1FC022-01 terkait perubahan logo B7 pada DECain foil (FUP/PLG/PRS/1909/009)
+- Perubahan kode box menjadi 2DC012-00 terkait proses cartoning (FUP/PLG/PRS/1901/012)
+- Perubahan metode pengemasan menjadi kartoning (FUP/PLG/PRS/1901/012)
+- Perubahan kode kerton menjadi 3MK004-00 terkait proses cartoning (FUP/PLG/PRS/1901/012)
+- Perubahan komposisi karton menjadi single wall (FUP/PLG/MTL/2008/005)
+- Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+- Perubahan range berat karton dari 14.82 - 15.37 menjadi 15.19 - 15.46 Kg (mohon diinfokan ke R&D sebelum batch perdana berjalan ,agar dapat dilakukan perubahan range di 3WS terlebih dahulu)
+- SPEC-LCLZC-S02 v0 (tidak ada perubahan spec)",10 Agu 2022,,EH001,CLOSED,2022
+30-Mar-22,LETS1,LETS1 03v0-03 v0,LETS1 02v1-03 v0,"- Perubahan Formula dan speed agitator ( dari 100 rpm menjadi 70 rpm ) sesuai FUP/PLG/PRD/2008/009
+- SPEC-LETS1-03-S01-M01",23 Mei 2022,,,CLOSED,2022
+30-Mar-22,LETSB,LETSB 05v0-03 v0,LETSB 04v0-03 v2,"- Perubahan kode foil menjadi 1FE045-05 terkait perubahan DECain,penambahan logo halal dan 2D barcode (FUP/PLG/PRD/2103/003)
+- Perubahan kode pack menjadi 2DK046-07 terkait perubahan DECain , penambahan logo halal ,2D barcode dan logo Bangga Buatan Indonesia (FUP/PLG/PRD/2103/003)
+- Perubahan kode karton menjadi 3ME021-04 terkait perubahan DECain (FUP/PLG/PRD/2103/003)
+-SPEC-LETSB-S07 v0",23 Mei 2022,,,CLOSED,2022
+5-Apr-22,LKXOD,LKXOD 06v0-03 v0,LKXOD 05v0-02 v4,"- Perubahan kode ruah menjadi LKXO1 (formula 2 in 1, sachet dan tube), perubahan batch size sachet, pack, dan standar rendemen dalam unit karena perubahan BJ dan volume tertinggal (FUP/PLG/PRD/2007/004)
+- Perubahan standar berat sachet + isi (FUP/PLG/PRD/2007/004)
+- Perubahan standar berat karton dari 4.25 - 4.47 kg menjadi 4.01 - 4.37 kg (FUP/PLG/PRD/2007/004)
+- Perubahan jumlah formula pack dan karton (FUP/PLG/PRD/2007/004)
+
+- SPEC-LKXOD-S04 v0",7 Apr 2022,,,CLOSED,2022
+12-Apr-22,LKPT1,LKPT1 02v0-030 v0,LKPT1 01v1-02 v1,"- Rasionalisasi chremophore (FUP/PLG/PRD/2001/008)
+- Perubahan batch size menjadi 2000 L,simplifikasi vacuum all premix dan penghilangan agitasi pada tahap intermediate mixing dan prefilling (FUP/PLG/PRS/2001/004)
+- Perubahan ukruan mesh dari 75 menjadi 200 mikron (FUP/PLG/PS/2202/004)
+- SPEC-LKPT1-02-S01-M01
+",20 Apr 2022,,,CLOSED,2022
+12-Apr-22,LKPTA,LKPTA 20v0-08 v0,LKPTA 19v0-07 v0,"- Perubahan batch size menjadi 2000 L (FUP/PLG/PRS/2001/004)
+- Perubahan standar berat sachet dari 8.41 - 9.06 gram menjadi 8.40 - 9.05 gram
+- Perubahan jumlah formula box,hotmelt,OPP dan karton (FUP/PLG/PRS/2001/004)
+- Perubahan standar berat checkweigher box dari 270 - 295 gram menjadi 271 - 294 gram (FUP/PLG/PRS/2001/004)
+- Perubahan standar berat karton dari 14.70 - 14.98 kg menjadi 14.77 - 15.02 kg (FUP/PLG/PRS/2001/004)
+- SPEC-LKPTA-S04",20 Apr 2022,,,CLOSED,2022
+21-Apr-22,LNKO1,LNKO1 02v0-02 v1,LNKO1 02v0-02 v0,"- Perubahan posisi sampling bulk FM pada Mixing tank sesuai FUP/PLG/PS/2011/002
+- Perubahan ukuran kolom penempelan label bahan baku
+- Perubahan ukuran mesh sesuai FUP/PLG/PRS/2202/004
+- SPEC-LNKO1-02-S01-M01",21-Apr-22,,,CLOSED,2022
+29-Apr-22,LKPT1,LKPT1 02v0-03 v0,LKPT1 01v1-02 v1,"- Rasionalisasi chremophore (FUP/PLG/PRD/2007/008)
+- Perubahan batch size menjadi 2000 L,simplifikasi vacuum all premix dan penghilangan agitasi pada tahap intermediate mixing dan prefilling (FUP/PLG/PRS/2001/004)
+- Perubahan ukruan mesh dari 75 menjadi 200 mikron (FUP/PLG/PRS/2202/004)
+- SPEC-LKPT1-02-S01-M01 v0",29 Apr 2022,,,CLOSED,2022
+28-Apr-22,LKCPA,LKCPA 05v0-05 v1,LKCPA 04v0-04 v3,"- Perubahan kode ruah dari LKCP1 menjadi LKPT1 (FUP/PLG/PRD/1912/004)
+- Perubahan batch size menjadi 2000 L (FUP/PLG/PRS/2001/004)
+- Perubahan jumlah formula foil, box, hotmelt, OPP dan karton (FUP/PLG/PRS/2001/004)
+- Perubahan standar berat sachet dari 9.26 - 10.11 gram menjadi 8.40 - 9.05 gram (FUP/PLG/PRS/2001/004)
+- Perubahan standar berat checkweigher box dari 299 - 326 gram menjadi 271 - 294 gram (FUP/PLG/PRS/2001/004)
+- Perubahan standar berat karton dari 16.20 - 16.49 kg menjadi 14.77 - 15.02 kg (FUP/PLG/PRS/2001/004)
+- MYANMAR",20 Apr 2022,,,CLOSED,2022
+28-Apr-22,LKNT1,LKNT1 02v0-05 v0,LKNT1 01v2-04 v1,"- Rasionalisasi chremophore dna take out pewarna (FUP/PLG/PRD/2007/008)
+- Perubahan batch size menjadi 2,000 L ,simplifikasi vacuum all premix dan penghilangan agitasi pada tahap intermediate mixing dan prefilling (FUP/PLG/PRS/2001/004)
+- Perubahan ukuran mesh dari 75 menjadi 200 mikron /9FUP/PLG/PRS/2202/004)
+- Perubahan RMFR mengikuti urutan compuonding dan posisi sampling dari mixing tank (FUP/PLG/PRS/2011/002)
+",9 Mei 2022,,,CLOSED,2022
+28-Apr-22,LKCLA,LKCLA 05v0-05 v0,LKCLA 04v0-04 v1,"- Rasionalisasi perubahan ruah dengan Komix Jeruk Nipis lokal LKNT1 (FUP/PLG/PRD/1912/004)
+- Perubahan batch size serta standar berat sachet + isi dari 9.11 - 9.94 menjadi 8.46 - 9.11 gram (FUP/PLG/PRD/1912/004)
+- Perubahan jumlah formula foil ,box,hotmelt,OPP dan karton (FUP/PLG/PRD/1912/004)
+- Perubahan batch size dan standar rendeman dalam unit (FUP/PLG/PRD/1912/004)
+- Perubahan standar berat checkweigher dari 295 - 321 menjadi 273 - 296 gram (FUP/PLG/PRD/1912/004)
+- Perubahan standar berat karton dari 15.9 16.25 menjadi 14.85 - 15.11 kg (FUP/PLG/PRD/1912/004)
+- SPEC-LKCLA-S04 v0",9 Mei 2022,,,CLOSED,2022
+10-Mei-22,LGRG1,LGRG1 01v0-01 v0,-,"- New product
+- SPEC-LGRG1 01-S01-M01",12 Mei 2022,,,CLOSED,2022
+10-Mei-22,LGRGA,LGRGA 02v0-02 v0,-,"- New product
+- SPEC-LGRGA-S01",12 Mei 2022,,,CLOSED,2022
+11-Mei-22,LKXL1,LKXL1 02v0-03 v1,LKXL1 02v0-03 v0,- Perubahan ukuran mesh sesuai FUP/PLG/PRS/2202/004,10-Jun-22,,,CLOSED,2022
+13-Mei-22,LKXNA,LKXNA 02v0-01 v0,LKXNA 01v0-01 v6,"- Perubahan kode foil menjadi 1FK053010 terkait DECain penambahan gambar jahe merah dan logo MUI halal (FUP/PLG/PRD/2104/001)
+- Perubahan kode pack menjadi 2DK072-01 terkait perubahan DECain penambahan logo ""Bangga Buatan Indonesia"" (FUP/PRG/PRD/2009/006) dan penambahan gambar jahe merah serta logo MUI halal (FUP/PLG/PRD/2104/001)
+- SPEC-LKXNA-S02 v0
+- MANUAL",22 Jun 2022,,,CLOSED,2022
+18-Mei-22,LKNT1,LKNT1 02v0-05 v0,LKNT1 01v2-04 v1,"- Rasionalisasi chremophore dan take out pewarna (FUP/PLG/PRD/2007/008)
+- Perubahan batch size menjadi 2,000 L,simplifikasi vacuum all premix dan penghilangan agitasi pada tahap intermediate mixing dan prefilling (FUP/PLG/PRS/2001/004)
+- Perubahan ukuran mesh dari 75 menjadi 200 mikron (FUP/PLG/PRS/2202/004)
+- Perubahan RMFR mengikuti urutan compounding dan posisi sampling dari mixing tank (FUP/PLG/PRS/2011/002)
+- SPEC-LKNT1-02-S01-M01 v0",27 Mei 2022,,,CLOSED,2022
+18-Mei-22,LKNTA,LKNTA 14v0-05 v0,LKNTA 13v0-04 v0,"- Perubahan batch size menjadi 2000 L (FUP/PLG/PRS/2001/004)
+- Perubahan standar berat sachet dari 8.45 - 9.10 gram menjadi 8.46 - 9.11 gram (FUP/PLG/PRS/2001/004)
+- Perubahan jumlah formula box ,hotmelt,OPP dan karton (FUP/PLG/PRS/2001/004)
+- Perubahan standar berat checkweigher box dari 271 - 296 gram menjadi 273 - 296 gram (FUP/PLG/PRS/2001/004)
+- Perubahan standar berat karton dari 14.83 - 15.09 kg menjadi 14.85 - 15.11 kg (FUP/PLG/PRS/2001/004),mohon infokan ke R&D sebelum batch perdana berjalan , agar dilakukan perubahan 3WS terlebih dahulu
+- SPEC-LKNTA-S04 v0 ",27 may 202,,,CLOSED,2022
+21-Mei-22,LKXJ1,LKXJ1 01v1-01 v0,LKXJ1 01v0-01 v0,"- Perubahan urutan RMFR (FUP/PLG/PRS/2011/002)
+- Perubahan ukuran kolom penempelan label
+- Perubahan ukuran mesh (FUP/PLG/PRS/2202/004)
+- Perubahan terhadap masa pakai storage tank ≤ 7 hari (FUP/PLG/PRS/2006/014) 
+- SPEC-LKXJ1-01.S01-M01",22 Jun 2022,WEI,HD113,CLOSED,2022
+31-Mei-22,LNKOD,LNKOD 04v0-01 v0,LNKOD 03v0-01 v0,"- Perubahan kode pack menjadi 2DK069-01 menjadi 2DK069-02 terkait penambahan logo BBI (FUP/PLG/PRD/2009/006)
+- Penghilangan kolom tanggal dan jam pada pemeriksaan karton per pallet (FUP/PLG/PRS/2011/010)
+- Penambahan instruksi pemeriksaan bobot jenis pada awal proses filling 
+- SPEC-LNKOD-S02 v0",7 Jun 2022,,,CLOSED,2022
+13-Mei-2022,LEJS1,LEJS1 01v0-01 v0,-,"- Produk baru 
+- SPEC-LEJS1-01-S01-M01 v0",13 Mei 2022,,,CLOSED,2022
+13-Mei-2022,LEJSA,LEJSA 01v0-01 v0,-,"- Produk baru 
+- SPEC-LEJSA-S01 v0",13 Mei 2022,,,CLOSED,2022
+28-Apr-22,LKXPA,LKXPA 02v0-01 v0,LKXPA 01v0-01 v6,"- Perubahan kode foil menjadi 1FK008000 terkait perubahan komposisi (FUP/PLG/MTL/2006/011),penambahan gambar jahe merah,logo B7,2D barcode dan logo halal (FUP/PLG/PD/2104/001)
+- Perubahan standar berat sachet dari 19.77 - 22.52 menjadi 19.57 - 22.32 gram karena komposisi foil berubah (FUP/PLG/MTL/2006/011)
+- Perubahan kode pack menjadi 2DK071010 terkait penambahan gambar jahe merah ,logo B7 ,2D barcode ,logo halal dan logo BBI (FUP/PLG/PRD/2104/001)
+- Perubahan standar berat karton dari 4.31 - 4.66 menjadi 4.25 - 4.63 kg karena komposisi foil berubah (FUP/PLG/MTL/2006/011)
+- SPEC-LKXPA-S02 v0
+- MANUAL",21 Jul 2022,,CG001,CLOSED,2022
+31-Mei-22,LKXJA,LKXJA 02v0-01 v0,LKXJA 01v0-01 v5,"- Perubahan kode foil menjadi 1FK007000 terkait perubahan komposisi (FUP/PLG/MTL/2006/011),penambahan gambar jahe merah , logo B7, 2D barcode dan logo halal ,(FUP/PLG/PRD/2104/001)
+- Perubahan standar berat sachet dari 19.60 - 22.34 menjadi 19.40 - 22.14 gram karena komposisi foil berubah (FUP/PLG/MTL/2006/011)
+- Perubahan kode pack menjadi 2DK073010 terkait penambahan gambar jahe merah , logo B7 ,2D barcode ,logo halal dan logo BBI (FUP/PLG/PRD/2104/001)
+- Perubahan standar berat karton dari 4.28 - 4.63 menjadi 4.22 - 4.60 kg karena komposisi foil berubah (FUP/PLG/MTL/2006/011),mohon infokan ke R&D sebelum batch pedana berjalan ,agar dilakukan prubahan 3WS terlebih dahulu
+- SPEC-LKXJA-S02 v0",16 Jun 2022,,,CLOSED,2022
+10-Jun-22,LBMA2,LBMA2 02v0-02 v2,LBMA2 02v0 -02 v1,"- Perubahan lokasi sampling bulk dari storage tank menjadi mixing tank sesuai FUP/PLG/PRS/2011/002
+- Perubahan ukuran mesh sesuai FUP/PLG/PRS/2202/004
+- Perubahan ukuran kolom penempelan label bahan baku 
+- SPEC-LBMA2-02-S01-M01",24-Jun-22,,,CLOSED,2022
+25-Jul-22,LEJSA,LEJSA 02v0-01 v0,LEJSA 01v0-01 v0,"- Perubahan masa expired produk menjadi 2 tahun (sesuai spec)
+- Perubahan masa pakai bulk dari 5 hari menjadi 3 hari
+- Perubahan contoh penomoran nomor batch (FUP/PLG/LLN/2205/001)
+- Penambahan instruksi pemeriksaan bobot jenis pada awal proses filling
+- Perubahan kode karton menjadi 3ME014000 terkait perubahan ukuran karton (FUP/PLG/MTL/2206/007)
+- Perubahan susunan pack dalam karton (FUP/PLG/MTL/2206/007)
+- Perubahan jumlah tumpukkan maksimal karton menjadi maks 9 tumpuk (FUP/PLG/MTL/2206/007)
+- Perubahan berat karton dari 4.40 - 4.71 kg menjadi 4.42 - 4.73 kg (FUP/PLG/MTL/2206/007) mohon infokan ke R&D sebelum batch perdana berjalan,agar dilakukan perubahan 3WS terlebih dahulu",3 Agu 2022,,EH004,CLOSED,2022
+25-Jul-22,LPRG1,LPRG1 02v3-05 v0,LPRG1 02v3-04 v0,"- Penambahan proses pemanasan dan pendinginan sebelum final mixing (FUP/PLG/PRS/2206/003)
+- Menambahan proses intermediet mixing (FUP/PLG/PRS/2206/003)
+-Penambahan proses premix 4 yaitu pencampuran Polyoxyl 40 Hydrogenated Castor Oil dan Swiss Herb 506608T
+- Penambahan masa pakai storage tank di catatan pada poin 8 (FUP/PLG/PRS/2206/003)
+- Perubahan waktu maksimal proses filling setelah proses compounding pada poin 8
+- Perubahan waktu final mixing dari 15 menit menjadi 10 menit FUP/PLG/PRS/2206/003
+- Penambahan proses Sirkulasi dan Agitasi (setting agitator (70 RPM) dan Homogenizer (3000 RPM) ON during proses heating dan cooling (FUP/PLG/PRS/2206/003)
+- SPEC-LPRG1-03-S02-M03",4 Agu 2022,,EH012,CLOSED,2022
+25-Jul-22,LPRGF,LPRGF 07v0-03 v2,LPRGF 07v0-03 v1,"- Waktu maksimal bulk selesai filling 3 hari setelah mixing (FUP/PLG/PRS/2206/003)
+- SPEC-LPRGF-S06",4 Agu 2022,,EH012,CLOSED,2022
+9-Agu-22,LKKS1,LKKS1 01v1-04 v1,LKKS1 01v1-04 v0,"- Perubahan ukuran mesh sesuai FUP/PLG/PRS/2207/005
+- SPEC-LKKS1-01-S03-M04",8-Sep-22,,EJ004,CLOSED,2022
+4-Agu-22,LHRBA,LHRBA 02v0-01 v0,LHRBA 01v0-01 v0,"- Perubahan kode foil menjadi 1FH001-01 terkait take out N25
+- Penambahan instruksi pemeriksaan bobot jenis pada awal proses filling
+- SPEC-LHRBA-S01 v0",21 Sep 2022,,EJ128,CLOSED,2022
+9-Agu-22,LNKK1,LNKK1 01v3-02 v1,LNKK1 01v3-02 v0,"- Perubahan ukuran mesh sesuai FUP/PLG/PRS/2207/005
+- SPEC-LNKK1-01-S03-M05",1-Sep-22,,EJ010,CLOSED,2022
+12-Agu-22,LKXP1,LKXP1 01v0-01 v2,LKXP1 01v0-01 v1,"- Perubahan terhadap masa pakai storage tank selama ≤ 7 hari sesuai FUP/PLG/PRS/2006/014
+- Perubahan titik sampling dari storage tank ke mixing tank sesuai FUP/PLG/PRS/2011/002
+- Perubahan ukuran kolom penempelan label bahan baku
+- Perubahan ukuran mesh sesuai FUP/PLG/PRS/2207/005 
+- SPEC-LKXP1-01-S01-M02",26 Agu 2022,,EH004,CLOSED,2022
+12-Agu-22,LKXN1,LKXN1 01v0-01 v2,LKXN1 01v0-01 v1,"- Perubahan terhadap masa pakai storage tank selama ≤ 7 hari sesuai FUP/PLG/PRS/2006/014
+- Perubahan titik sampling dari storage tank ke mixing tank
+- Perubahan ukuran kolom penempelan label bahan baku
+- Perubahan ukuran mesh sesuai FUP/PLG/PRS/2207/005
+- SPEC-LKXN1-01-S01-M02",23 Agu 2022,,EH007,CLOSED,2022
+12-Agu-22,LKXO1,LKXO1 02v0-04 v1,LKXO1 02v0-04 v0,"- Perubahan terhadap masa pakai storage tank selama ≤ 7 hari sesuai FUP/PLG/PRS/2006/014
+- Perubahan ukuran kolom penempelan label bahan baku 
+- Perubahan ukuran mesh sesuai FUP/PLG/PRS/2207/005
+- SPEC-LKXO1-02-S01-M01",23 Agu 2022,,EH040,CLOSED,2022
+18-Jul-22,LKXOD,LKXOD 07v0-03 v0,LKXOD 06v0-03 v0,"- Perubahan kode foil menjadi 1FK003000 terkait perubahan komposisi (FUP/PLG/MTL/2006/011) dan penambahan gambar jahe merah (FUP/PLG/PRD/2104/001)
+- Penambahan instruksi pemeriksaan bobot jenis pada awal proses filling
+- Perubahan standar berat sachet dari 18.32 - 20.91 gram menjadi 18.12 - 20.71 gram karena komposisi foil berubah (FUP/PLG/MTL/2006/011)
+- Perubahan kode pack menjadi 2DK059040 terkait penambahan gambar jahe merah dan logo BBI (FUP/PLG/PRD/2104/001)
+- Perubahan standar berat karton dari 4.01 - 4.37 kg menjadi 3.99 - 4.34 kg karena komposisi foil berubah (FUP/PLG/MTL/2006/011) mohon infokan ke R&D sebelum batch perdana berjalan , agar dilakukan perubahan 3WS terlebih dahulu 
+- SPEC-LKXOD-S04 v0
+- MANUAL",10 Mar 2023,,FC166,CLOSED,2022
+29-Agu-22,LEJSA,LEJSA 03v0-01 v0,LEJSA 02v0-01 v0,"- Perubahan kode foil menjadi 1WE002010 terkait penambahan 1 layer warna kuning (FUP/PLG/MTL/2207/004)
+- Penambahan kolom Pre Heating 4 (Bottom) pada setting suhu dan kecepatan mesin (DEV/QMT/PLG/PC/0822/002)
+- SPEC-LEJSA-S01-v0",5 Okt 2022,,EK011,CLOSED,2022
+2-Sep-22,LNKKB,LNKKB 10v0-06 v0,LNKKB 09v0-05 v0,"- Perubahan proses kemas dari cartoning menjadi manual dan menggunakan cellotape berlogo terkait penghilangan mesin Jih Cheng pada Ilapak 1 (FUP/PLG/PRS/2204/004)
+- Perubahan format penulisan batch number tahun 2022 sebelumnya diawali dengan huruf ''C'' menjadi huruf ''E'' (FUP/PLG/LLN/2205/001)
+- SPEC-LNKKB-S03-v0",5 Sep 2022,,EJ011,CLOSED,2022
+6-Sep-22,LKKSB,LKKSB 10v0-08 v0,LKKSB 09v0-07 v0,"- Perubahan proses kemas dari cartoning menjadi manual dan menggunakan cellotape berlogo terkait penghilangan mesin Jih Cheng pada Ilapak 1 (FUP/PLG/PRS/2204/004)
+- Perubahan format penulisan batch number tahun 2022 sebelumnya diawali dengan huruf ''C'' menjadi huruf ''E'' (FUP/PLG/LLN/2205/001)
+- SPEC-LKKSB-S03-v0",8 Sep 2022,,EJ004,CLOSED,2022
+6-Sep-22,LKMCB,LKMCB 03v0-01 v0,LKMCB 02v0-01 v0,"- Perubahan kode kemasan terkait take out gambar orang pada DECian foil (FUP/PLG/PRD/2104/003)
+- Perubahan format penulisan batch number tahun 2022 sebelumnya diawali dengan huruf ''C'' menjadi huruf ''E'' (FUP/PLG/LLN/2205/001)
+- Perubahan kode kemasan terkait take out gambar orang pada DECain box (FUP/PLG/PRD/2104/003)
+- Penghilangan kolom tanggal dan jam pada pemeriksaan karton per pallet 
+- SPEC-LKMCB-S02-v0",5 Okt 2022,,EK066,CLOSED,2022
+9-Sep-22,LEHD1,LEHD1 01v0-01 v1,LEHD1 01v0-01 v0,"- Perubahan ukuran mesh sesuai (FUP/PLG/PRS/2207/005)
+- SPEC-LEHD1-01-S01-M01",15 Sep 2022,,EJ005,CLOSED,2022
+8-Sep-22,LKCPA,LKCPA 05v0-05 v0,LKCPA 04v0-04 v2,"- Perubahan kode ruah dari LKCP1 menjadi LKPT1 (FUP/PLG/PRD/1912/004)
+- Perubahan batch size menjadi 2000 L (FUP/PLG/PRS/2001/004)
+- Perubahan jumlah formula foil
+- Perubahan format penulisan batch number tahun 2022 sebelumnya diawali dengan huruf ''C'' menjadi huruf ''E'' (FUP/PLG/LLN/2205/001)
+- Perubahan standar berat sachet dari 9.26 - 10.11 gram menjadi 8.40 - 9.05 gram
+- Perubahan jumlah formula box ,hotmelt, OPP dan karton (FUP/PLG/PRS/2001/004)
+- Perubahan standar berat checkweigher box dari 299 - 326 gram menjadi 271-294 gram (FUP/PLG/PRS/2001/004)
+- Perubahan standar berat karton dari 16.20 - 16.49 kg menjadi 14.77 - 15.02 kg (FUP/PLG/PRS/2001/004)
+- SPEC-LKCPA-S04-v0
+- CAMBODIA",29 Des 2022,,EM182,CLOSED,2022
+9-Sep-22,LBJAB,LBJAB 01v0-01 v2,LBJAB 01v0-01 v1,"- Perubahan format penulisan batch number tahun 2022 sebelumnya diawali dengan huruf ''C'' menjadi huruf ''E'' (FUP/PLG/LLN/2205/001)
+- Perubahan range bobot karton 2.87 - 3.10 kg menjadi 2.85 - 3.10 kg (FUP/PLG/PRS/2111/010)
+- SPEC-LBJAB-S01-v0",,BGW,,OPEN,2022
+12-Sep-22,LCLZ1,LCLZ1 01v1-02 v0,LCLZ1 01v0-02 v1,"- Perubahan urutan material bahan baku, pre treatment material ammonium chloride
+- Perubahan suhu target cooling sesuai DEV/QPR/PLG/TS/0822/050
+- SPEC-LCLZ1-01-S01-M03",14-Sep-22,,EJ052,CLOSED,2022
+1-Sep-22,LGRG1,LGRG1 01v0-02 v0,LGRG1 01v0-01 v0,- Penambahan proses sirkulasi pada proses pemanasan & pendinginan bulk (FUP/PG/PRS/2206/002),21-Nov-23,NRS,FL001,CLOSED,2022
+24-Mar-22,LKJTA,LKJTA 17v0-07 v0,LKJTA 15v0-05 v0,"- Perubahan batch size menjadi 2000 L (FUP/PLG/PRS/2001/004)
+- Perubahan jumlah formula box, OPP dan karton 
+- Perubahan standar berat karton dari 14.74 - 15.00 kg menjadi 14.75 - 15.01 kg
+- Perubahan standar rendeman dalam unit
+- MANUAL",15 Sep 2022,,EJ176,CLOSED,2022
+9-Sep-22,LBMAN,LBMAN 07v0-03 v0,LBMAN 06v0-03 v0,"- Perubahan kode foil menjadi 1FM017-04 dan pack menjadi 2DM028-05 terkait penambahan QR code (FUP/PLG/MTL/2204/002) serta perubahan komposisi menjadi 270 gsm (FUP/PLG/MTL/2206/005)
+- Perubahan contoh penomoran nomor batch (FUP/PLG/LLN/2205/001)
+- Penambahan instruksi pemeriksaan bobot jenis pada awal proses filling
+- Perubahan standar berat karton dari 4.14 - 4.39 menjadi 4.10 - 4.35 kg (karena komposisi pack berubah) (FUP/PLG/MTL/2206/005)
+- SPEC-LBMAN-S05 v0",3 Jan 2023,,FA235,CLOSED,2022
+9-Sep-22,LBMAQ,LBMAQ 12v0-05 v0,LBMAQ 11v0-05 v0,"- Perubahan kode foil menjadi 1FM017-04 dan pack menjadi 2DM003-04 terkait penambahan QR code (FUP/PLG/MTL/2204/002) serta perubahan komposisi menjadi 270 gsm (FUP/PLG/MTL/2206/005)
+- Perubahan contoh penomoran nomor batch (FUP/PLG/LLN/2205/001)
+- Penambahan instruksi pemeriksaan bobot jenis pada awal proses filling
+- Perubahan standar berat karton dari 4.08 - 4.42 menjadi 4.05 - 4.39 kg (karena komposisi pack berubah) (FUP/PLG/MTL/2206/005)
+- SPEC-LBMAN-S05 v0",29 Des 2022,,EM226,CLOSED,2022
+3-Okt-22,POSN1,POSN1 01v2-02 v3,POSN1 01v2-02 v2,"- Penambahan proses premix Caffein - Starch pada proses ""PREPARASI FINAL MIXING"" sesuai FUP/PLG/PRS/2210/001
+- Penambahan informasi setting speed 10 RPM pada final mixing sesuai kondisi actual di produksi 
+- Perubahan spesifikasi suhu dan RH ruangan pada tahap final mixing sesuai (FUP/PLG/INF/2110/011)
+- SPEC-POSN1-01-S01-M03 v0",4 Okt 2022,,EK089,CLOSED,2022
+12-Sep-22,LETS1,LETS1 03v0-04 v0,LETS1 03v0-03 v0,"- Penambahan proses heating-cooling sebelum proses final mixing (FUP/PLG/PRS/2006/001)
+- Spek produk mengikuti SPEC-LETS1-03-S02-M01",7 Nov 2022,,EL020,CLOSED,2022
+9-Sep-22,LBXT1,LBXT1 01v0-01 v0,-,"- Produk baru (Bejo Herbal Extra Pack isi 6 Sachet)
+- SPEC-LBXT1-01-S01-M01",11 Okt 2022,,EK001,CLOSED,2022
+9-Sep-22,LKXTA,LKXTA 01v0-01 v0,-,"- Produk baru (Bejo Herbal Extra Pack isi 6 Sachet)
+- SPEC-LKXTA-S01 v0",11 Okt 2022,,EK001,CLOSED,2022
+13-Okt-22,LNKOA,LNKOA 13v0-05 v0,LNKOA 12v0-05 v1,"- Perubahan format penulisan batch number tahun 2022 sebelumnya diawali dengan huruf ""C"" menjadi huruf ""E"" (FUP/PLG/LLN/2205/001)
+- Perubahan kode karton dari 3MK044000 menjadi 3MK044010 terkait resize tinggi karton (FUP/PLG/MTL/2207/006)
+- SPEC-LNKOA-S04-v0",25 Okt 2022,,EK215,CLOSED,2022
+8-Nov-22,LKJT1,LKJT1 02v0-04 v0,LKJT1 01v1-03 v2,"- Rasionalisasi chremophore (FUP/PLG/PRD/2007/008)
+- Penggantian succus menjadi caramel colour dan penghilangna eucalyptus oil 
+- Perubahan batch size menjadi 2000L, simplifikasi vacum all premix dan penghilangan agitasi pada tahap intermediate mixing dan prefilling
+- Perubahan ukuran mesh dari 75 menjadi 200 mikron",29 Mar 2022,,CC068,CLOSED,2022
+8-Nov-22,LKJTA,LKJTA 16v0-06 v0,LKJTA 14v0-04 v0,"- Perubahan batch size menjadi 2000L
+- Perubahan jumlah formula Box, Hotmelt, OPP dan Karton
+- Perubahan standar berat karton dari 14.74-15.00 kg menjadi 14.75-15.01 kg
+- Perubahan standar rendemen dalam unit
+-KARTONING",29 Mar 2022,,CC068,CLOSED,2022
+8-Nov-22,POSKD,POSKD 02v0-02 v1,POSKD 02v0-02 v0,- Perubahan susunan karton pada pallet,14-Mar-22,,CC013,CLOSED,2022
+17-Nov-22,LEJS1,LEJS1 01v1-02 v0,LEJS1 01v0-01 v0,"- Perubahan pencatatan Quantity display ""Load Cell"" Mixing tank di awal sesuai actual quantity bulk campaign batch sesudah ditara
+- Durasi mixing 2AM005000 dan 2AD003000 pada tahapan 4.2 urutan 2 sampai 15 dari 5 menit menjadi 3 menit
+- Intermediate mixing diubah dari 15 menit menjadi 20 menit 
+- Interval cek gumpalan (buka tutup mainhole) di reduce dari tiap step menjadi berkala sesuai step di PPI
+- Simplifikasi tahapan 4.2 melalui penghilangan step 25 sd 30, dilebur ke dalam step 2 sd step 13 (dari 2 kantong RM menjadi 3 kantong RM setiap step)
+- Perubahan setting RPM selama staging pada storage tank dari 100 RPM menjadi 60 RPM
+- SPEC-LEJS1-01-S01-M01",22 Nov 2022,,EL027,CLOSED,2022
+22-Nov-22,LPRGH,LPRGH 06v0-03 v0,LPRGH 05v0-03 v0,"- Perubahan kode foil menjadi 1FP005000 terkait perubahan DECain foil untuk penyelarasan DECain promag global dan penambahan logo halal (FUP/PLG/PRD/2209/001)
+- Perubahan format penulisan batch number tahun 2022 sebelumnya diawali dengan huruf ""C"" menjadi huruf ""E"" (FUP/PLG/LLN/2205/001)
+- Perubahan kode dus menjadi 2DP006000 terkait perubahan DECain dus untuk penyelarasan DECain promag global dan penambahan logo halal (FUP/PLG/PRD/2209/001)
+- Perubahan kode karton menjadi 3MP014020 terkait perubahan DECain karton untuk penyelarasan DECain promag global (FUP/PLG/PRD/2209/001)
+- SPEC-LPRGH-S02-V0",30 Jan 2023,,FA008,CLOSED,2022
+6-Des-22,LBJA1,LBJA1 02v0-01 v0,LBJA1 01v0-01 v0,"- Perubahan formula Bejo Anak sesuai FUP/PLG/PRD/2201/001
+- Perubahan ukuran mesh menjadi 500 mikron sesuai FUP/PLG/PRD/2202/004
+- SPEC-LBJA1-02-S01-M01",5 Des 2022,,EM001,CLOSED,2022
+28-Des-22,LPRG4,LPRG4 01v0-01 v0,NA,"- New, Promag Suspensi volume 10 ml
+- SPEC-LPRG4-01-S01-M01",19 Des 2022,,EM002,CLOSED,2022
+28-Des-22,LPRGP,LPRGP 01v0-01 v0,NA,"- New, Promag Suspensi volume 10 ml
+- SPEC-LPRGP-S01 v0",19 Des 2022,,EM022,CLOSED,2022
+22-Des-22,LNKOD,LNKOD 05v0-01 v0,LNKOD 04v0-01 v0,"- Perubahan format penulisan batch number tahun 2022 sebelumnya diawali dengan huruf ""C"" menjadi huruf ""E"" (FUP/PLG/LLN/2205/001)
+- Perubahan kode karton dari 3MK044000 menjadi 3MK044010 terkait resize tinggi karton (FUP/PLG/MTL/2207/006)
+- SPEC-LNKOD-S02-v0",18 Jan 2023,,FA406,CLOSED,2022
+15-Des-22,LEJSA,LEJSA 03v0-01 v1,LEJSA 03v0-01 v0,"- Perubahan kecepatan agitator menjadi 60 rpm (FUP/PLG/PRS/2211/001)
+- SPEC-LEJSA-S01-v0",3 Jan 2023,,FA031,CLOSED,2022
+13-Des-22,LPRG3,LPRG3 01v0-02 v0,NA,"- New, Promag Herbal volume 15 ml
+- SPEC-LPRG3-S01-M01",27 Des 2022,,EM001,CLOSED,2022
+13-Des-22,LPRGQ,LPRGQ 01v0-01 v0,NA,"- New, Promag Herbal volume 15 ml
+- SPEC-LPRGQ-S01 v0",27 Des 2022,,EM001,CLOSED,2022
+28-Des-22,LKJT1,LKJT1 02v0-04 v0,LKJT1 01v1-03 v2,"- Rasionalisasi chremophore (FUP/PLG/PRD/2007/008)
+- Penggantian Succus menjadi Caramel Colour dan penghilangan Eucalyptus Oil (FUP/PLG/PRS/2001/004)
+- Perubahan batch size menjadi 2,000 L, simplifikasi vacuum all premix dan penghilangan agitasi pada tahap intermediate mixing dan prefilling (FUP/PLG/PRS/2001/004)
+- Perubahan ukuran mesh dari 75 menjaid 200 mikron (FUP/PLG/PRS/2202/004)
+- SPEC-LKJT1-02-S01-M01 v0
+
+
+",29 Mar 2022,,CC068,CLOSED,2022
+28-Des-22,LKCGA,LKCGA 05v0-05 v0,LKCGA 04v0-04 v1,"- Perubahan kode ruah dari LKCG1 menjadi LKJT1 (FUP/PLG/PRD/1912/004)
+- Perubahan batch size menjadi 2000 L (FUP/PLG/PRS/2001/004)
+- Perubahan jumlah formula foil, box, hotmelt, OPP dan karton (FUP/PLG/PRS/2001/004)
+- Perubahan standar berat sachet dari 9.11 – 9.94 gram menjadi 8.40 – 9.05 gram (FUP/PLG/PRS/2001/004)
+- Perubahan standar berat checkweigher dari 295 - 321 kg menjadi 270 – 294 kg (FUP/PLG/PRS/2001/004)
+- Perubahan standar berat karton dari 15.95 - 16.23 kg menjadi 14.75 – 15.01 kg (FUP/PLG/PRS/2001/004)
+- Perubahan standar rendemen dalam unit (FUP/PLG/PRS/2001/004)
+- SPEC-LKCGA-S04 v0
+",29 Des 2022,,em482,CLOSED,2022
+18-Jan-22,LKMCA,LKMCA 06v0-04 v0,LKMCA 05v0-03 v4," - Perubahan metode pengemasan menjadi cartoning (FUP/PLG/PRS/1901/012)
+ - Perubahan kode box menjadi 2DK014-00 terkait perubahan bentuk dan ukuran menjadi cartoning (FUP/PLG/PRS/1901/012)
+ - Perubahan kode karton menjadi 3MK004-00 terkait poses cartoning (FUP/PLG/PRS/2008/005) dan komposisi menjadi single wall (FUP/PLG/MTL/2008/005)
+ - Penambahan instruksi kesesuaian/double crosscheck pdaa stempel karton disetujui oleh supervisor/operator yang berbeda (FUP/PLG/PRS/2111/004)
+ - Penghilangan kolom tanggal dan jam pada pemeriksaan karton per pallet (FUP/PLG/PRS/2011/010)
+ - Penghilangan proses staples pada karton serta perubahan plakban menjadi plakban berlogo (FUP/PLG/PRS/1905/006)
+ - Perubahan berat karton dari 14.31 - 14.84 Kg menjadi 14.67 - 14.93 Kg (mohon diinfokan ke R&D sebelum batch perdana berjalan agar dapat dilkukan perubahan range 3WS terlebih dahulu)
+ - SPEC-LKMCA-S03 v0",14 Feb 2022,DSW,CB001,CLOSED,2022
+10-Mar-22,LKMC1 ,LKMC1 01v1-02 v1,LKMC1 01v1-02 v0," - Revisi penulisan pada point 4.6 kolom checklist &/Paraf operator yang sebelumnya ""waktu mixing (jam s/d jam)"" diganti menjadi ""pressure vacuum (Psi /  bar)"" 
+ - SPEC-LKMC1-01-S01-M03 v0",17 Mar 2022,IDR,CC001,CLOSED,2022
+3-Jan-23,POSNA,POSNA 06v0-02 v1,POSNA 06v0-02 v0,"- Perubahan format penulisan batch number tahun 2022 sebelumnya diawali dengan huruf ""C"" menjadi huruf ""E"" (FUP/PLG/LLN/2205/001)
+- Perubahan instruksi pengemasan (setelah instruksi langsung gambar)
+- Penghilangan kolom tanggal dan jam pada pemeriksaan karton di pallet (FUP/PLG/PRS/2011/010)
+- Penghilangan tabel perunutan produk 
+- Penambahan detail kode item pada pelampiran label packaging material (non dispense)
+- SPEC-POSNA-S03-v0",9 Jan 2023,BGW,FA167,CLOSED,2023
+3-Jan-23,LBMAQ,LBMAQ 13v0-06 v0,LBMAQ 10v0-04 v0,"- Penghilangan instruksi sachet dalam bentuk renceng terkait perubahan proses kemas menggunakan mesin jinsung (FUP/PLG/EQP/2203/002)
+- Penambahan instruksi pemeriksaan bobot jenis setelah proses cuci mesin
+- Perubahan kode pack menjadi 2DM010000 terkait perubahan proses kemas menggunakan mesin jinsung (FUP/PLG/EQP/2203/002)
+- Penambahan instruksi setting checkweigher (FUP/PLG/EQP/2203/002)
+- Perubahan routing karena menggunakan mesin kartoning jinsung (FUP/PLG/EQP/2203/002)
+- SPEC-LBMAQ-S05-v0",16 Jan 2023,BGW,FA258,CLOSED,2023
+17-Jan-23,LKXNA,LKXNA 03v0-02 v0,LKXNA 02v0-01 v0,"- Perubahan format penulisan batch number tahun 2022 sebelumnya diawali huruf ""C"" menjadi huruf ""E"" (FUP/PLG/LLN/2205/001)
+- Perubahan kode pack menjadi 2DK025000 terkait perubahan proses kemas menggunakan jinsung (FUP/PLG/EQP/2203/002) 
+- Perubahan kode karton menjadi 3MK005000 terkait perubahan ukuran dimensi karton menjadi 395x250x124 mm terkait penyesuaian jinsung (FUP/PLG/EQP/2203/002)
+- Penambahan hot melt pada formula terkait perubahan proses kemas menjadi kartoning jinsung (FUP/PLG/EQP/2203/002)
+- Perubahan range bobot karton menjadi 4.38 - 4.73 kg (FUP/PLG/EQP/2203/002)
+- Penambahan instruksi setting checkweigher (FUP/PLG/EQP/2203/002)
+- Perubahan routing karena menggunakan mesin kartoning jinsung (FUP/PLG/EQP/2203/002)
+- SPEC-LKXNA-S03-v0",18 Jan 2023,BGW,FA025,CLOSED,2023
+27-Jan-23,LKXK1,LKXK1 01v0-01 v1,LKXK1 01v0-01 v0,"- Perubahan ukuran mesh sesuai FUP/PLG/MTA/2212/005M
+- SPEC-LKXK1-01-S01-M01",12 Mei 2023,BGW,FE008,CLOSED,2023
+13-Feb-23,LBMAN,LBMAN 08v0-04 v0,LBMAN 07v0-03 v0,"- Penghilangan instruksi sachet dalam bentuk renceng terkait perubahan proses kemas menggunakan mesin jinsung (FUP/PLG/EQP/2203/002)
+- Penghilangan instruksi pemeriksaan perforasi sachet
+- Perubahan proses kemas dari manual menjadi kartoning (FUP/PLG/EQP/2203/0002), yang menyebabkan :
+- Perubahan kode pack menjadi 2DM011000
+- Penambahan hot melt pada formula 
+- Penambahan instruksi setting checkweigher
+- Perubahan range bobot karton menjadi 4.22 - 4.72 kg
+- Perubahan kode karton menjadi 3MM004000 334x245x156 mm (FUP/PLG/MTL/2301/008M), yang menyebabkan :
+- Perubahan jumlah maksimal tumpukan karton pada pallet 
+- Perubahan pola susunan wrapping dalam karton
+- SPEC-LBMAN-S05-v0",15 Feb 2023,BGW,FB345,CLOSED,2023
+27-Feb-23,LKXOD,LKXOD 08v0-04 v0,LKXOD 07v0-03 v0,"- Perubahan format penulisan batch number tahun 2022 sebelumnya diawali huruf ""C"" menjadi huruf ""E"" (FUP/PLG/LLN/2205/001)
+- Penghilangan instruksi sachet dalam bentuk renceng terkait perubahan proses kemas menggunakan mesin jinsung (FUP/PLG/EQP/2203/002)
+- Penghilangan instruksi pemeriksaan perforasi sachet 
+- Perubahan proses kemas dari manual menjadi kartoning (FUP/PLG/PRS/2212/012M) yang menyebabkan : 
+- Perubahan routing 
+- Perubahan kode pack menjadi 2DK027000
+- Penambahan instruksi setting checkweigher 
+- Penambahan hot melt pada formula 
+- Perubahan posisi wrapping saat dimasukkan dalam karton 
+- Perubahan kode karton menjadi 3MK006000 (FUP/PLG/MTL/2301/008M), yang menyebabkan :
+- Perubahan range bobot karton menjadi 4.13 - 4.44 kg
+- Perubahan jumlah maksimal tumpukan karton pada pallet 
+- SPEC-LKXOD-S04",8 Mar 2023,GAA,FC152,CLOSED,2023
+27-Feb-23,LKXPA,LKXPA 03v0-02 v0,LKXPA 02v0-01 v0,"- Perubahan format penulisan batch number (FUP/PLG/LLN/2205/001)
+- Penghilangan instruksi sachet dalam bentuk renceng terkait perubahan proses kemas menggunakan mesin jinsung (FUP/PLG/PRS/2212/012M)
+- Penghilangan pemeriksaan perforasi pada sachet 
+- Perubahan proses kemas dari manual menjadi kartoning (FUP/PLG/PRS/2212/012M) yang menyebabkan : 
+- Perubahan routing 
+- Perubahan kode pack menjadi 2DK024000
+- Penambahan instruksi setting checkweigher 
+- Penambahan hot melt pada formula 
+- Perubahan posisi wrapping saat dimasukkan dalam karton 
+- Perubahan kode karton menjadi 3MK006000 (FUP/PLG/MTL/2301/008M), yang menyebabkan :
+- Perubahan range bobot karton menjadi 4.40 - 4.73 kg
+- Perubahan jumlah maksimal tumpukan karton pada pallet 
+- SPEC-LKXPA-S03
+- CARTONING",11 Mei 2023,GAA,FE020,CLOSED,2023
+27-Feb-23,LBXTA,LBXTA 02v0-02 v0,LBXTA 01v0-01 v0,"- Penghilangan instruksi sachet dalam bentuk renceng terkait perubahan proses kemas menggunakan mesin jinsung (FUP/PLG/PRS/2212/012M)
+- Penghilangan instruksi pemeriksaan perforasi sachet
+- Perubahan proses kemas dari manual menjadi kartoning (FUP/PLG/PRS/2212/012M), yang menyebabkan :
+- Perubahan kode pack menjadi 2DM012000
+- Penambahan hot melt pada formula 
+- Penambahan instruksi setting checkweigher 
+- Perubahan range bobot karton menjadi 4.33 - 4.65 kg
+- Perubahan kode karton menjadi 3MM003000 334x245x156 mm (FUP/PLG/MTL/2301/008M), yang menyebabkan : 
+- Perubahan jumlah maksimal tumpukan karton pada pallet
+- Perubahan pola susunan wrapping dalam karton
+- SPEC-LBXTA-S01-v0",17 Mei 2023,GAA,FE068,CLOSED,2023
+27-Feb-23,LKXNA,LKXNA 04v0-02 v0,LKXNA 03v0-02 v0,"- Perubahan qty hot melt sesuai kebutuhan aktual di produksi 
+- Perubahan kode karton menjadi 3MK006000 (FUP/PLG/MTL/2301/008M), yang menyebabkan : 
+- Perubahan range bobot karton menjadi 4.40 - 4.72 kg
+- Perubahan jumlah maksimal tumpukan karton pada pallet
+- SPEC-LKXNA-S03
+- CARTONING",13 Mar 2023,GAA,FC036,CLOSED,2023
+9-Mar-23,LKJTA,LKJTA 18v0-06 v0,LKJTA 16v0-06 v0,"- Perubahan kode box menjadi 2DK018000 terkait perubahan komposisi menjadi duplex 270 gsm (FUP/PLG/MTL/2301/009M)
+- Perubahan range berat box dari 270 - 294 gram menjadi 270 - 291 gram (FUP/PLG/MTL/2301/009M)
+- Perubahan berat karton dari 14.75 - 15.01 kg menjadi 14.65 - 14.91 kg (FUP/PLG/MTL/2301-009M)
+- SPEC-LKJTA-S04 v0
+- KARTONING",26 Mei 2023,DSW,FE796,CLOSED,2023
+30-Mar-23,LKXL1,LKXL1 02v1-03 v0,LKXL1 02v0-03 v1,"- Perubahan jumlah air RO/PW pada point 2 dari sebelumnya ""400 kg"" menjadi ""600 kg"" sesuai masukan dari produksi 
+- Penambahan point 3.3 untuk pelunakan sodium chloride sesuai FUP/PLG/PRS/2303/006M
+- Perubahan urutan masuk material (RMFR)
+- SPEC-LKXL1-02-S01-M01",12 Apr 2023,IDR,FD025,CLOSED,2023
+4-Apr-23,LKKS1,LKKS1 01v2-04 v0,LKKS1 01v1-04 v1,"- Penambahan proses untuk pelunakan sodium chloride sesuai FUP/PLG/PRS/2303/006M
+- Perubahan urutan masuk material (RMFR)
+- SPEC-LKKS1-01-S03-M04 v0",12 Apr 2023,IDR,FD022,CLOSED,2023
+5-Apr-23,LEJS1,LEJS1 01v2-03 v0,LEJS1 01v1-02 v0,"- Improvement proses sesuai FUP/PLG/PRS/2304/001M sebagai berikut 
+1. Perubahan JLP material 2AD003000 (Dextrose monohydrate) & 2AM005000 (Maltodextrin) dan perubahan penimbangan dari wadah kantong plastik menjadi bak kuning
+2. Perubahan urutan masuk material saat proses (RMFR)
+3. Simplifikasi proses dengan penghilangan intermediate mixing
+- SPEC-LEJS1-01-S01-M01 v0",5 Apr 2023,IDR,FD046,CLOSED,2023
+10-Apr-23,POSK1,POSK1 01v2-02 v1,POSK1 02v1-02 v0,"- Penambahan proses premix Caffein - Starch pada proses ""PREPARASI FINAL MIXING"" sesuai ( FUP/PLG/PRS/2303/007M )
+- Penambahan informasi setting speed 10 RPM pada final mixing sesuai kondisi actual di produksi 
+- Perubahan ukuran kolom penempelan label
+- History revisi penamaan PPI dari POSK1 02v0-02 v0 seharusnya POSK1 01v1-02 v0 (terkait perbesaran batch)
+- History revisi penamaan PPI dari POSK1 02v1-02 v0 seharusnya POSK1 01v2-02 v0 (perubahan qty starch - tapioka)
+- Perubahan urutan penomoran kode PPI yang baru menjadi POSK1 01v2-02 v1
+- SPEC-POSK1-01-S01-M03 v0",6 Jun 2023,IDR,FF026,CLOSED,2023
+13-Apr-23,LKXO1,LKXO1 02v1-04 v0,LKXO1 02v0-04 v1,"- Perubahan jumlah air RO / PW pada point 2 dari sebelumnya ""610 kg"" menjadi ""900 kg"" sesuai masukan dari produksi 
+- Penambahan point 3.3 untuk pelunakan sodium chloride sesuai dengan FUP/PLG/PRS/2303/006M
+- Perubahan urutan masuk material (RMFR)
+- Penghilangan keterangan waktu selesai preparasi bahan dan pengadukan sesuai koordinasi QA - Produksi 
+- SPEC-LKX01-02-S01-M01 v0",13 Apr 2023,IDR,FD181,CLOSED,2023
+9-Mei-23,LKXN1,LKXN1 01v1-01 v0,LKXN1 01v0-01 v2,"- Penambahan point 3.3 untuk pelunakan sodium chloride sesuai dengan FUP/PLG/PRS/2303/006M
+- Perubahan urutan masuk material (RMFR) mengikuti urutan proses compounding sesuai FUP/PLG/PRS/2011/002
+- Penghilangan keterangan waktu selesai preparasi bahan dan pengadukan sesuai koordinasi QA - Produksi 
+- SPEC-LKXN1-01-S01-M02",29 Mei 2023,IDR,FE042,CLOSED,2023
+19-Mei-23,LKJTA,LKJTA 19v0-07 v0,LKJTA 17v0-07 v0,"- Perubahan kode box menjadi 2DK021000 terkait perubahan komposisi menjadi duplex 270 gsm ( FUP/PLG/MTL/2301/009M )
+- Perubahan berat karton dari 14.75 - 15.01 kg menjadi 14.65 - 14.91 kg ( FUP/PLG/MTL/2301/009M )
+- SPEC-LKJTA-S04 v0
+- MANUAL",19 Mei 2023,KTN,FE780,CLOSED,2023
+24-Mei-23,LBXT1,LBXT1 01v0-01 v1,LBXT1 01v0-01 v0,"- Penghilangan agitasi selama proses staging di storage tank sesuai FUP/PLG/PRD/2304/005M
+- Penghilangan keterangan waktu selesai preparasi 
+- SPEC-LBXT1-01-S01-M01",25 Mei 2023,GAA,FE080,CLOSED,2023
+24-Mei-23,LBXTA,LBXTA 02v0-02 v1,LBXTA 02v0-02 v0,"- Penambahan proses pre agitasi 20 menit dengan kecepatan 60 rpm sebelum proses filling , karena adanya penghilangan agitasi selama proses staging di storage tank (FUP/PLG/PRD/2304/005M) 
+- SPEC-LBXTA-S01-v0
+- kartoning",25 Mei 2023,GAA,FE080,CLOSED,2023
+19-Mei-23,LKCGA,LKCGA 05v0-05 v1,LKCGA 05v0-05 v0,"- Perubahan format penulisan batch number tahun 2022 sebelumnya diawali dengan huruf ""C"" menjadi huruf ""E"" (FUP/PLG/LLN/2205/001)
+- SPEC-LKCGA-S04-v0",,GAA,,OPEN,2023
+26-Mei-23,LWPGA,LWPGA 01v0-01 v4,LWPGA 01v0-01 v3,"- Perubahan format penulisan batch number tahun 2022 sebelumnya diawali dengan huruf ""C"" menjadi huruf ""E"" (FUP/PLG/LLN/2205/001) 
+- SPEC-LWPGA-S02-v0",1 Oktober 2024,GAA,GA006,CLOSED,2023
+30-Mei-23,LBMA2,LBMA2 02v0-02 v3,LBMA2 02v0-02 v2,"- Penghilangan agitasi selama proses staging di storage tank sesuai FUP/PLG/PRD/2304/005M
+- Penghilangan keterangan waktu selesai preparasi bahan
+- SPEC-LBMA2-02-S01-M01",8 Jun 2023,IDR,FF472,CLOSED,2023
+5-Jun-23,LKXOB,LKXOB 14v0-04 v1,LKXOB 14v0-04 v0,"- Perubahan batch size ( oracle ) dari 31948 menjadi 32425 pack terkait perubahan titik tengah pengisian (FUP/PLG/PRD/2007/004)
+- SPEC-LKXOB-S05 v0",5 Jun 2023,DSW,FF215,CLOSED,2023
+5-Jun-23,LKXOD,LKXOD 08v0-04 v1,LKXOD 08v0-04 v0,"- Perbaikan range bobot jenis dari 1.16 - 1.26 g/ml menjadi 1.14 - 1.18 g/ml sesuai dengan perubahan yang telah diimplementasikan berdasarkan FUP/PLG/PRD/2007/004
+- Penambahan kolom paraf saat pemeriksaan pack pada halaman 2 PPI kemas sekunder 
+- SPEC-LKXOD-S04 v0
+- CARTONING",8 Agu 2023,GAA,FH228,CLOSED,2023
+5-Jun-23,LBMAN,LBMAN 08v0-04 v1,LBMAN 08v0-04 v0,"- Penambahan proses pre agitasi 20 menit dengan kecepatan 60 rpm sebelum proses filling , karena adanya penghilangan agitasi selama proses staging di storage tank (FUP/PLG/PRD/2304/005M) 
+- SPEC-LBMAN-S05 v0",8 Jun 2023,GAA,FF472,CLOSED,2023
+5-Jun-23,LKNTA,LKNTA 15v0-05 v0,LKNTA 14v0-05 v0,"- Perubahan kode box menjadi 2DK017000 terkait perubahan komposisi menjadi duplex 270 gsm (FUP/PLG/MTL/2301/009M)
+- Perubahan range berat box dari 273 - 296 gram menjadi 272 - 293 gram (FUP/PLG/MTL/2301/009M)
+- Perubahan berat karton dari 14.85 - 15.11 menjadi 14.75 - 15.02 kg (FUP/PLG/MTL/2301/009M)
+- SPEC-LKNTA-S04 v0",24-Jul-24,DSW,GG903,CLOSED,2023
+12-Jun-23,LEJSA,LEJSA 04v0-02 v0,LEJSA 03v0-01 v1,"- Perubahan kode foil menjadi 1WE003000 terkait perubahan DECign dan nama brand (FUP/PLG/MTL/2211/002M)
+- Perubahan kode pack menjadi 2DE025000 terkait perubahan DECign dan nama brand, ukuran, material menjadi ivory 300 gsm + laminasi OPP dan penambahan partisi (FUP/PLG/MTL/2211/002M, serta perubahan DECign logo halal terbaru (FUP/PLG/PRD/2302/018M)
+- Perubahan kode karton menjadi 3ME015000 terkait perubahan DECign dan nama brand (FUP/PLG/MTL/2211/002M, serta perubahan DECign logo halal terbaru (FUP/PLG/PRD/2302/018M)
+- Perubahan range berat karton menjadi 4.47 - 4.79 kg (FUP/PLG/MTL/2211/002M)
+- SPEC-LEJSA-S01 v0",13 Jun 2023,KTN,FF049,CLOSED,2023
+13-Jun-23,LBMAQ,LBMAQ 13v0-06 v1,LBMAQ 13v0-06 v0,"- Penambahan proses pre agitasi 20 menit dengan kecepatan 60 rpm sebelum filling, karena adanya penghilangan agitasi selama proses staging di storage tank (FUP/PLG/PRD/2304/005M)
+- SPEC-LBMAQ-S06-v0",14 Jun 2023,GAA,FF481,CLOSED,2023
+21-Jun-23,LEJS1,LEJS1 01v2-03 v1,LEJS1 01v2-03 v0,"- Perubahan nama BRAND EXTRA JOSS SPORT LIQ menjadi EJ SPORT GEL LIQ
+- SPEC-LEJS1-01-S01-M01 v0",21-Jun-23,IDR,FF055,CLOSED,2023
+21-Jun-23,LKXKA,LKXKA 02v0-01 v0,LKXKA 01v0-01 v0,"- Perubahan kode pack terkait penambahan logo halal (FUP/PLG/PRD/2302/018M)
+- SPEC-LKXKA-S01-v0",Dikembalikan ke TS ( karena tidak jadi di pakai dan sudah ada recipe pengganti),GAA,-,CLOSED,2023
+16-Jun-23,LNKOA,LNKOA 14v0-05 v0,LNKOA 13v0-05 v0,"- Perubahan kode box menjadi 2DK020000 terkait perubahan komposisi menjadi duplex 270 gsm (FUP/PLG/MTL/2301/009M)
+- Perubahan range berat box dari 294-321 gram menjadi 295-317 gram (FUP/PLG/MTL/2301/009M)
+- Perubahan berat karton dari 16.02-16.31 kg menjadi 15.93-16.21 kg (FUP/PLG/MTL/2301/009M)
+- SPEC-LNKOA-S04 v0",13 Des 2023,DSW,FM754,CLOSED,2023
+27-Jul-23,LEJSA,LEJSA 04v0-02 v1,LEJSA 04v0-02 v0,"- Penghilangan instruksi ""tutup menggunakan selotip"" (FUP/PLG/PRD/2307/009M)
+- SPEC-LEJSA-S02-v0",3 Agu 2023,GAA,FH064,CLOSED,2023
+31-Agu-23,LNKO1,LNKO1 02v1-03 v0,LNKO1 02v0-02 v1,"- Perubahan urutan material dan proses pelarutan Propyl p-Hydroxybenzoate sesuai FUP/PLG/PRS/2308/005M
+- Perubahan waktu final mixing sesuai FUP/PLG/PRS/2308/005M
+- SPEC-LNK01-02-S01-M01",1 Sep 2023,WINDA,FJ711,CLOSED,2023
+22-Sep-23,LCLZC,LCLZC 05v0-04 v1,LCLZC 05v0-05 v0,"- Perubahan format penulisan batch number tahun 2022 sebelumnya diawali dengan huruf ""C"" menjadi huruf ""E"" (FUP/PLG/LLN/2205/001)
+- Penyesuaian kode resources mesin dari G02 menjadi G12 
+- SPEC-LCLZC-S03-V0",25 Sep 2023,GAA,FJ058,CLOSED,2023
+22-Sep-23,LEJSC,LEJSC 01v0-01 v0,N/A,"- Produk baru (00027/FUPB/08/2023/KCHD) 
+- SPEC-LEJSC-S01 v0",26 Sep 2023,KTN,FJ073,CLOSED,2023
+6-Sep-23,LEJO1,LEJO1 01v0-01 v0,N/A,"- Produk baru (00006/FUPB/04/2023/KCHD)
+- SPEC-LEJS1-01-S01-M01 v0",14-Nov-23,BGN,FL001,CLOSED,2023
+6-Sep-23,LEJOA,LEJOA 01v0-01 v0,N/A,"- Produk baru (00006/FUPB/04/2023/KCHD)
+- SPEC-LEJOA-S01 v0",14-Nov-23,BGN,FL001,CLOSED,2023
+4-Okt-23,LPRG4,LPRG4 02v0-01 v0,LPRG4 01v0-01 v0,"- Perubahan kode item Xanthan Gum (keltrol) 2AX003000 menjadi Xanthan Gum (Xantural) 2AX0040000 sesuai (FUP/PLG/MTA/2308/010 M)
+- SPEC-LPRG4-01-S01-M01",24 Okt 2023,IDR,FK003,CLOSED,2023
+9-Okt-23,LETSB,LETSB 05v0-03 v1,LETSB 05v0-03 v0,"- Perubahan ketentuan masa pakai mesin filling dari 3 hari menjadi 4 hari (FUP/PLG/PRS/2309/004M)
+- Perubahan format penulisan batch number tahun 2022 sebelumnya diawali dengan huruf ""C "" menjadi huruf ""E"" (FUP/PLG/LLN/2205/001)
+- SPEC-LETSB-S08-v0",11 Okt 2023,GAA,FK059,CLOSED,2023
+25-Sep-23,LKPTA,LKPTA 21v0-08 v0,LKPTA 20v0-08 v0,"- Perubahan kode foil menjadi 1FK006080 terkait perubahan logo halal baru pada kemasan sachet (FUP/PLG/PRD/2302/018M)
+- Perubahan kode box menjadi 2DK019000 terkait perubahan komposisi menjadi duplex 270 gsm (FUP/PLG/MTL/2301/009M) dan logo halal baru (FUP/PLG/PRD/2302/018M)
+- Perubahan kode karton menjadi 3MK042020 terkait resize tinggi karton (FUP/PLG/MTL/2207/006)
+- Perubahan range berat box dari 271 - 294 gram menjadi 271 - 291 gram (FUP/PLG/MTL/2301/009M)
+- Perubahan berat karton dari 14.77 - 15.02 kg menjadi 14.66 - 14.92 kg (FUP/PLG/MTL/2301/009M)
+- SPEC-LKPTA-S05 v0",DIKEMBALIKAN KE RND,DSW,,CLOSED,2023
+15-Nov-23,LGRGA,LGRGA 03v0-03 v0,LGRGA 02v0-02 v0," - Perubahan proses kemas dari manual menjadi kartoning dengan mesin Jinsung (FUP/PLG/PRS/2212/012M) yang menyebabkan : 
+    - Perubahan formula packaging (perubahan ukuran dan kode item pack, perubahan kode item OPP, penambahan hot melt)
+    - Penambahan range bobot checkweigher menjadi 253 g - 272 g
+    - Perubahan range berat karton dari 4.07 kg - 4.57 kg menjadi 4.11 kg - 4.38 kg
+ - Perubahan format nomor batch menyesuaikan regulasi Fillipina (FUP/CKR/PRD/2307/006M) yang menyebabkan :
+    - Kemasan primer : pemberian spasi setelah nomor batch setelah kode mesin (Ex : FJ001 A)
+    - Kemasan primer dan sekunder : Take out Mfg date dan perubahan format tanggal menjadi ED(spasi)DDMMMYY (Ex : ED 31SEP25)
+ - Perubahan desain sesuai FUP/PLG/PRS/2207/001 :
+    - Penambahan nutrition fact, ingredient, logo halal baru dan perubahan desain redaksi ""NO APPROVED THERAPEUTIC CLAIMS"" dari hollow menjadi full white pada pack dan foil
+    - Perubahan desain karton terkait take out  Herbasip dan warna dari merah menjadi hitam
+ - SPEC-LGRGA-S01-v0",21-Nov-23,GAA,FL001,CLOSED,2023
+16-Nov-23,LEHDA,LEHDA 01v0-01 v1,LEHDA 01v0-01 v0," - Penyesuaian proses filling maksimal setelah compounding dari 5 hari menjadi 7 hari sesuai dengan PPI ruah
+ - Perubahan terkait masa pakai mesin filling dari 3 hari menjadi 4 hari (FUP/PLG/PRS/2309/004)
+ - Perubahan format penulisan batch number tahun 2022 sebelumnya diawali dengan huruf ""C"" menjadi huruf ""E"" (FUP/PLG/LLN/2205/001)
+ - SPEC-LEHDA-S01 v0",5-Des-23,GAA,FM021,CLOSED,2023
+4-Des-23,LKMCC,LKMCC 01v0-01 v0,-,"- New Negara Ghana
+
+Spec FG : SPEC-LKMCC-S01 v0 
+
+Note : Hingga per 4 Desember 2023, CPR (Certificate Product Registration) belum diterima dan Patient Information Leaflet belum disetujui FDA. Hanya FDA registration letter yang baru diterbitkan dan diterima ",6-Des-23,DSW,FM222,CLOSED,2023
+11-Des-23,LBXT1,LBXT1 01v1-01 v0,LBXTA 01v0-01 v1," - Perubahan urutan masuk material ( RMFR )
+ - Preparasi premix 3 dilakukan pada saat proses pendinginan bulk
+ - SPEC-LBXT1-01-S01-M01",DIKEMBALIKAN KE TS,WEI,-,CLOSED,2023
+12-Jan-24,LKKSB,LKKSB 11v0-08 v0,LKKSB 10v0-08 v0," - Perubahan kode foil menjadi 1FK031080 terkait perubahan desian logo halal (FUP/PLG/PRD/2302/018M)
+ - Perubahan perhitungan roll foil menjadi kelipaan 0.25
+ - Perubahan kode pack menjadi 2DK28000 terkait perubahan desain logo halal (FUP/PLG/PRD/2302/018M)
+ - Perubahan bentuk pack dari cartoning menjadi manual crashlock (FUP/PLG/PRS/2209/004)
+ - Perubahan perhitungan roll OPP menjadi kelipatan 0.25
+ - SPEC-LKKSB-S05-v0",26-Mar-24,GAA,GC050,CLOSED,2024
+19-Jan-24,POSNA,POSNA 08v0-02 v0,POSNA 07v0-02 v0,"Perubahan yang sudah dilakukan di PPI POSNA 07v0-02 v0 (ditulis kembali karena PPI tidak dipakai) : 
+   - Perubahan kode foil menjadi 1FP001-12 terkait perubahan desain (penambahan pemerian & eksipien) serta komposisi dan panjang mengikuti foil Waisan (FUP/PLG/PRD/2303/001M), perubahan logo halal (FUP/PLG/PRD/2302/018M)
+   - Perubahan jumlah kebutuhan foil karena menyesuaikan dengan panjang foil dalam 1 roll yang berbeda (FUP/PLG/PRD/2303/001M)
+   - Perubahan range berat karton menjadi 6.11 - 6.37 Kg (FUP/PLG/PRD/2303/001M)
+
+Perubahan yang sudah dilakukan di PPI POSNA 08v0-02 v0 :
+   - Perubahan kode box menjadi 2DP008-13 terkait perubahan desain (penambahan pemerian & eksipien) (FUP/PLG/PRD/2310/002M) serta perubahan logo halal (FUP/PLG/PRD/2302/018M)
+
+SPEC-POSNA-S04 v0",25-Jan-24,RCN,GA506,CLOSED,2024
+23-Jan-24,LBMAQ,LBMAQ 14v0-06 v0,LBMAQ 13v0-06 v1," - Menghilangkan proses pengujian sensory apabila agitator storage tank berhenti
+ - Perubahan kode OPP menjadi 4VW003020 terkait perubahan ukuran OPP menjadi 205x2000 mm (FUP/PLG/PRD/2303/003M)
+ - Penyesuaian penyempitan checkweigher menjadi 253-272 gram,yang akan terdampak pada penyesuaian pada range bobot karton menjadi 4.09-4.37 kg (FUP/PLG/PRS/2312/007M)
+ - SPEC-LBMAQ-S06-v0",2-Feb-24,BRU,GB676,CLOSED,2024
+7-Feb-24,LKXOB,LKXOB 15v0-04 v0,LKXOB 14v0-04 v1, Perubahan kode karton menjadi 3MK007000 terkait penurunan tinggi karton dari 196 mm menjadi 190 mm,22-Mar-24,GAA,GC305,CLOSED,2024
+8-Mar-24,LHRBA,LHRBA 03v0-02 v0,LHRBA 02v0-01 v0," - Penghilangan agitasi selama proses staging di storage tank menyesuaikan FUP/PLG/PRD/2304/005M,yang menyebabkan :
+   - Penambahan proses pre agitasi selama 20 menit dengan kecepatan 60 rpm sebelum proses filling,
+   - Perubahan waktu pada instruksi jalankan kembali agitator dari 30 menit menjadi 20 menit dan menghilangkan proses pengujian sensory apabila agitator storage tank berhenti 
+ - Perubahan kode pack menjadi 2DH002000 terkait perubahan proses kemas menggunakan mesin jinsung (FUP/PLG/EQP/2203/002), yang menyebabkan :
+   - Penambahan setting checkweigher 253 - 272  gram dan penyesuaian range bobot karton menjadi 4.09-4.37 kg
+   - Perubahan kode OPP menjadi 4VW003020 terkait perubahan ukuran OPP menjadi 205x2000 mm (FUP/PLG/PRD/2303/003M)
+ - SPEC-LHRBA-S02-v0",18-Mar-24,GAA,GC749,CLOSED,2024
+19-Mar-24,LBMAN,LBMAN 08v0-04 v2,LBMAN 08v0-04 v1," - Menghilangkan proses pengujian sensory apabila agitator storage tank berhenti
+ - SPEC-LBMAN-S06 v0",22-Mar-24,BRU,GC765,CLOSED,2024
+20-Mar-24,LNKKB,LNKKB 11v0-06 v0,LNKKB 10v0-06 v0," - Perubahan kode foil menjadi 1FK045060 terkait logo halal BPJPH (FUP/PLG/PRD/2302/018M), penambahan eksipien dan pemerian (FUP/PLG/PRD/2310/002M)
+ - Perubahan kode pack menjadi 2DK023010 terkait logo halal BPJPH (FUP/PLG/PRD/2302/018M), penambahan eksipien dan pemerian (FUP/PLG/PRD/2310/002M), dan proses pengemasan cartoning menjadi manual dengan crashlock (FUP/PLG/PRS/2209/004)
+ - SPEC-LNKKB-S04 v0",07 Mei 2024,GAA,GE100,CLOSED,2024
+16-Apr-24,LKXKA,LKXKA 03v0-01 v0,LKXKA 02v0-01 v0," - Penambahan kalimat instruksi tube dalam chamber saat pengecekan kebocoran dengan posisi tidur (tahap 11 C PPI Primer)
+ - Perubahan kode karton menjadi 3MK007000 terkait perubahan tinggi karton dari 196 mm menjadi 190 mm (FUP/PLG/MTL/2311/006M)
+ - Penambahan deskripsi syarat fisik tube hasil filling pada tahap 5 meliputi hasil coding, hasil sealing (body and seal), potekan, potongan per tube, redaksi tube, dan kebocoran. Menyasuaikan redaksi pada PPI LKXOB 15v0-04 v0
+ - SPEC-LKXKA-S02-v0",3-Jun-24,GAA,GF012,CLOSED,2024
+16-Apr-24,LKXOB,LKXOB 16v0-04 v0,LKXOB 15v0-04 v0," - Perubahan kode item foil menjadi 1WK008030 terkait penambahan parameter jarak tepi foil ke sisi luar eyemark 19.0-20.5 mm (FUP/PLG/MTL/2308/006M)
+ - Penambahan kalimat instruksi tube dalam chamber saat pengecekan kebocoran dengan posisi tidur (tahap 11 C)
+ - Perubahan nomor PPI sekunder menyesuaikan perubahan PPI Primer
+ - SPEC-LKXOB-S06-v0",13-Mei-24,GAA,GE345,CLOSED,2024
+29-Apr-24,LPRGQ,LPRGQ 02v0-01 v0,LPRGQ 01v0-01 v0," - Perubahan recipe menyesuaikan perubahan pada PPI sekunder
+ - Perubahan redaksi terkait jalankan agitator saat proses filling (Tahap 3) menjadi  ""Sebelum filling dimulai, lakukan pengadukan di tanki storage agitator 60 Rpm minimal 15 menit. Selama proses filling jalankan agitator 60 Rpm"".
+ - Perubahan nomor formula terkait penambahan quantity kemasan pack dan karton menyesuaikan batch size teoritis (100%) (FUP/PLG/PRD/2402/012M)
+ - SPEC-LPRGQ-S01-v0",2-Mei-24,GAA,GE167,CLOSED,2024
+4-Mei-24,LBXT1,LBXT1 01v1-01 v1,LBXT1 01v1-01 v0," - Perubahan nama produk ruah Bejo Extra Herbal Liq menjadi Bejo Herbal Liq (FUP/PLG/PRD/2312/002M)
+ - SPEC-LBXT1-01-S01-M01 v0",6-Mei-24,RCN,GE101,CLOSED,2024
+4-Mei-24,LBMAV,LBMAV 01v0-01 v0,N/A," - New, formula ruah Bejo Extra, secara brand menggunakan Bejo Herbal (FUP/PLG/PRD/2312/002M)
+ - SPEC-LBMAV-S01 v0",6-Mei-24,RCN,GE101,CLOSED,2024
+4-Mei-24,LBMAT,LBMAT 01v0-01 v0,N/A," - New, formula ruah Bejo Extra, secara brand menggunakan Bejo Herbal (FUP/PLG/PRD/2312/002M)
+ - SPEC-LBMAT-S01 v0",12-Agu-24,RCN,GH142,CLOSED,2024
+11-Jun-24,LBMAV,LBMAV 01v0-01 v1,LBMAV 01v0-01 v0," - Penghilangan uji sensory ulang apabila agitator di storage tank berhenti di tengah proses filling (FUP/PLG/PRD/2304/005M)
+ - Perubahan tinggi tumpukan karton maksimal dari 10 menjadi 9 tumpuk (FUP/PLG/PRD/2405/001M)
+ - SPEC-LBMAV-S01 v0",DIKEMBALIKAN KE RND,DSW,-,CLOSED,2024
+19-Jun-24,POSKD,POSKD 02v0-02 v2,POSKD 02v0-02 v1," - Perubahan format penulisan batch number tahun 2022 sebelumnya diawali dengan huruf ""C"" menjadi huruf ""E"" (FUP/PLG/LLN/2205/001)
+ - Penambahan detail kode item pada pelampiran label packaging material (non dispense) dan label JO
+ - Perubahan instruksi pengemasan (setelah instruksi langsung gambar)
+ - Penghilangan kolom tanggal dan jam pada pemeriksaan karton di pallet (FUP/PLG/PRS/2011/010)
+ - Penghilangan tabel perunutan produk
+ - Perubahan design susunan karton Finish Good pada palet (FUP/PLG/PRD/2405/001M)
+ - Penambahan baris pada kolom pemeriksaan karton per pallet (tahap 10)
+ - SPEC-POSKD-S02-v0",20-Sep-24,BRU,GJ078,CLOSED,2024
+25-Jun-24,POSK1,POSK1 01v2-02 v2,POSK1 01v2-02 v1," - Perubahan spesifikasi suhu dan RH ruangan pada tahap final mixing sesuai FUP/PLG/INF/2110/011
+ - SPEC-POSK1-01-S01-M03",20-Sep-24,WEI,GJ078,CLOSED,2024
+2-Jul-24,LPRGH,LPRGH 07v0-04 v0,LPRGH 06v0-03 v0," - Perubahan pemakaian mesin dari Yonan ke ilapak (FUP/PLG/EQP/2401/002M)
+ - Perubahan kode foil menjadi 1FP006000 terkait develop foil untuk dimensi mesin ilapak
+ - Perubahan kode dus menjadi 2DP006010 terkait penyelarasan key country (FUP/PLG/PRD/2209/001) dan take out area coding (FUP/PLG/MTL/2401/005M)
+ - Perubahan tabel setting suhu dan kecepatan mesin mengacu ke PPI LKJTA-P 19v0-07 v0
+ - Perubahan IPC kebocoran dari 1 Sonhle untuk pemeriksaan 2 sachet menjadi 3 sachet
+ - Perubahan setting suhu mesin berdasarkan data aktual di ilapak 1
+ - SPEC-LPRGH-S04-v0",22-Jul-24,BRU,GG015,CLOSED,2024
+8-Jul-24,LKXOD,LKXOD 08v0-04 v2,LKXOD 08v0-04 v1," - Perubahan di PPI kemas primer, instruksi pada point 11C hasil pemeriksaan kebocoran yang memenuhi syarat (tidak bocor) bisa dikemas (FUP/PLG/PRS/2405/008M)
+ - SPEC-LKXOD-S05 v0",12-Jul-24,GAA,GG364,CLOSED,2024
+9-Jul-24,LETSB,LETSB 06v0-03 v0,LETSB 05v0-03 v1," - Perubahan kode foil menjadi 1FE045060 terkait penambahan logo halal baru (FUP/PLG/PRD/2302/018M) dan penambahan informasi bahan tambahan (FUP/PLG/PRD/2311/008M)
+ - Perubahan kode pack menjadi 2DE046080 terkait penambahan logo halal baru (FUP/PLG/PRD/2302/018M) dan penambahan informasi bahan tambahan (FUP/PLG/PRD/2311/008M)
+ - SPEC-LETSB-S08-v0",25-Jul-24,BRU,GG091,CLOSED,2024
+16-Jul-24,LKXOB,LKXOB 17v0-04 v0,LKXOB 16v0-04 v0," - Perubahan kode item pack menjadi 2DK001020 terkait take out perforasi (FUP/PLG/MTL/2402/008M)
+ - Perubahan range bobot karton dari 4.70 - 5.13 kg menjadi 4.71 - 5.14 kg karena perubahan pada parameter berat pack menjadi 9.03 ± 5% (8.58 - 9.48) dan gramature menjadi 278 ± 5% (264.10 - 291.90) berdasarkan tren kedatangan
+ - SPEC-LKXOB-S06 v0",30-Jul-24,GAA,GG379,CLOSED,2024
+18-Jul-24,LKXLA,LKXLA 11v0-03 v0,LKXLA 10v0-03 v0," - Perubahan kode pack menjadi 2DK002020 terkait penghilangan perforasi (FUP/PLG/MTL/2402/008M) dan perubahan logo halal baru (FUP/PLG/PRD/2302/018M)
+ - Perubahan kode karton menjadi 3MK007000 terkait perubahan tinggi karton dari 196 mm menjadi 190 mm (FUP/PLG/MTL/2311/006M)
+ - SPEC-LKXLA-S07 v0",15-Agu-24,GAA,GH043,CLOSED,2024
+18-Jul-24,LKPTA,LKPTA 22v0-08 v0,LKPTA 21v0-08 v0," - Perubahan kode foil dari 1FK006080 menjadi 1FK006070 (kembali ke kode lama, karena kode baru belum akan dipakai).
+ - Perubahan kode box menjadi 2DK019000 terkait perubahan komposisi menjadi duplex 270 gsm (FUP/PLG/MTL/2301/009M). Keterangan perubahan pada PPI LKPTA 21v0-08 v0 direvisi karena PPI belum dipakai dan 2DK019000 dengan design halal baru belum dicetak. Sehingga 2DK019000 hanya berubah komposisi, secara design tidak ada perubahan.
+ - Perubahan kode karton dari 3MK042020 menjadi 3MK042010 (kembali ke kode lama, karena kode baru akan dievaluasi kembali).
+
+Perubahan yang sudah dilakukan di PPI LKPTA 21v0-08 v0 (ditulis kembali karena PPI sebelumnya tidak dipakai) :
+ - Perubahan range berat box menjadi 271 – 291 gram (FUP/PLG/MTL/2301/009M)
+ - Perubahan berat karton menjadi 14.66 – 14.92 kg (FUP/PLG/MTL/2301/009M
+
+",29-Jul-24,DSW,GG482,CLOSED,2024
+22-Jul-24,LBMAV,LBMAV 01v0-01 v2,LBMAV 01v0-01 v1," - Perubahan instruksi pada point 11C hasil pemeriksaan kebocoran yang memenuhi syarat (tidak bocor) bisa dikemas (FUP/PLG/PRS/2405/008M)
+ - SPEC-LBMAV-S01 v0",26-Jul-24,BRU,GG122,CLOSED,2024
+8-Agu-24,LKMCA,LKMCA 07v0-04 v0,LKMCA 06v0-04 v0," - Perubahan quantity foil dari 4.50 menjadi 4.75 rol (FUP/PLG/PRS/2405/006M)
+ - Perubahan quantity pack dari 8,822 menjadi 8,912 EA dan karton 177 ke 179 EA (FUP/PLG/PRS/2405/006M)
+ - Perubahan nama sensor box pada tahap 5 menjadi ""Sensor Box (Conveyor ke Mesin Wrapping)
+ - Perubahan nama sensor sachet pada Tahap 6C menjadi ""Sensor Vacuum""
+ - SPEC-LKMCA-S04-v0",28-Feb-25,BRU,HB344,CLOSED,2024
+12-Agu-24,LKMCB,LKMCB 04v0-01 v0,LKMCB 03v0-01 v0," - Perubahan quantity foil dari 4.50 menjadi 4.75 rol (FUP/PLG/PRS/2405/006M)
+ - Perubahan quantity pack dari 8,822 menjadi 8,912 EA dan karton 177 ke 179 EA (FUP/PLG/PRS/2405/006M)
+ - Perubahan nama sensor box pada tahap 5 menjadi ""Sensor Box (Conveyor ke Mesin Wrapping)
+ - Perubahan nama sensor sachet pada Tahap 6C menjadi ""Sensor Vacuum""
+ - SPEC-LKMCB-S03-v0",25-Feb-25,BRU,HB335,CLOSED,2024
+2-Sep-24,LEJS1,LEJS1 01v2-03 v2,LEJS1 01v2-03 v1," Improvement proses sesuai FUP/PLG/PRS/2408/007M sebagai berikut :
+ - Perubahan terhadap masa simpan bulk ≤ 3 hari menjadi  ≤ 7 hari
+ - Penghilangan agitasi selama proses staging storage tank (agitasi ON selama 20 menit sebelum filling)
+ - SPEC-LEJS1-01-S01-M02",22-Okt-24,WEI,GK119,CLOSED,2024
+2-Sep-24,LEJO1,LEJO1 01v0-01 v1,LEJO1 01v0-01 v0," - Perubahan terhadap masa simpan bulk ≤ 3 hari menjadi ≤ 7 hari sesuai dengan FUP/PLG/PRS/2408/007M
+ - SPEC-LEJO1-01-S01-M01",18-Nov-24,WEI,gl021,CLOSED,2024
+3-Sep-24,LKXJ1,LKXJ1 01v1-01 v1,LKXJ1 01v1-01 v0," - Penghilangan kolom keterangan waktu selesai preparasi bahan dan pengadukan sesuai koordinasi QA dengan produksi pada point 3.5
+ - Perubahan ukuran mesh dari 500 mikron menjadi 200 mikron sesuai FUP/PLG/PRS/2402/001M
+ - SPEC-LKXJ1-01-S01-M02",18-Sep-24,WEI,GJ088,CLOSED,2024
+3-Sep-24,LKXP1,LKXP1 01v0-01 v3,LKXP1 01v0-01 v2," - Penghilangan kolom keterangan waktu selesai preparasi bahan dan pengadukan sesuai koordinasi QA dengan produksi pada point 3.5
+ - Perubahan ukuran mesh dari 500 mikron menjadi 200 mikron sesuai FUP/PLG/PRS/2402/001M
+ - SPEC-LKXP1-01-S01-M02",5-Sep-24,WEI,GJ044,CLOSED,2024
+3-Sep-24,LKXL1,LKXL1 02v1-03 v1,LKXL1 02v1-03 v0," - Perubahan terhadap masa pakai storage tank dari  3 hari menjadi  7 hari berdasarkan risk assessment study cleaning storage tank yang dilakukan QA pada produk herbal
+ - Perubahan ukuran mesh dari 500 mikron menjadi 200 mikron sesuai FUP/PLG/PRS/2402/001M
+ - SPEC-LKXL1-02-S01-M02",1-Okt-24,WEI,GK045,CLOSED,2024
+2-Sep-24,LBMAT,LBMAT 01v0-01 v1,LBMAT 01v0-01 v0," - Penghilangan uji sensory ulang apabila agitator di storage tank berhenti di tengah proses filling (FUP/PLG/PRD/2304/005M)
+ - Penghilangan manufacturing date (MD) pada coding foil/sachet & pack (FUP/PLG/PRD/2406/004M)
+ - Perubahan instruksi pada point 11C hasil pemeriksaan kebocoran yang memenuhi syarat (tidak bocor) bisa dikemas (FUP/PLG/PRS/2405/008M)
+ - Perubahan point 5 pada pemeriksaan sensor box dari sensor box (mesin wrapping) menjadi sensor box (conveyor ke mesin wrapping)
+ - Perubahan point 7 pada IPC pemeriksaan sensor sachet menjadi sensor vacuum
+ - SPEC-LBMAT-S01 v0",6-Sep-24,DSW,GJ162,CLOSED,2024
+27-Agu-24,LKXO1,LKXO1 02v1-04 v1,LKXO1 02v1-04 v0," - Perubahan ukuran stainer / mesh yang digunakan saat transfer bulk dari mixing tank ke storage tank dari 500 mikron menjadi 300 mikron sesuai  FUP/PLG/PRS/2402/001M
+ - SPEC-LKXO1-02-S01-M02 v0",9-Sep-24,GAA,GJ396,CLOSED,2024
+27-Agu-24,LBMA2,LBMA2 02v0-02 v4,LBMA2 02v0-02 v3," - Perubahan ukuran stainer / mesh yang digunakan saat transfer bulk dari mixing tank ke storage tank dari 500 mikron menjadi 300 mikron sesuai  FUP/PLG/PRS/2402/001M
+ - SPEC-LBMA2-02-01-M02",4-Des-24,GAA,GM809,CLOSED,2024
+22-Agu-24,LPRG3,LPRG3 01v0-02 v1,LPRG3 01v0-02 v0," - Perubahan ukuran stainer / mesh yang digunakan saat transfer bulk dari mixing tank ke storage tank dari 500 mikron menjadi 300 mikron sesuai  FUP/PLG/PRS/2402/001M
+ - SPEC-LPRG3-01-S01-M01",27-Sep-24,GAA,GJ231,CLOSED,2024
+11-Sep-24,LETS1,LETS1 03v1-04 v0,LETS1 03v0-04 v0," - Penambahan prosedur preparasi Fructose 55% liquid syrup (HFS) dan Zingiber off.Rosch Rubrum LE (Gin 0.3 - 1%) pada point 3.3 sesuai dengan aktual proses di produksi 
+ - Penambahan kolom label penimbangan sucrose sesuai dengan JLP (Jumlah Lot Penimbangan)
+ - Perubahan urutan preparasi premix 3 dari sebelum menjadi setelah proses pendinginan sesuai aktual proses compounding di produksi
+ - Perubahan ukuran mesh semula 500 mikron menjadi 200 mikron sesuai FUP/PLG/PRS/2402/01M
+",24-Sep-24,WEI,GJ102,CLOSED,2024
+25-Sep-24,LKXPA,LKXPA 04v0-02 v0,LKXPA 03v0-02 v0," - Perubahan kode foil menjadi 1FK008010 terkait perubahan logo halal sesuai BPJPH (FUP/PLG/PRD/2302/018M), nomor halal masih di dalam kotak
+ - Penghilangan manufacturing date (MD) pada coding foil/sachet & pack (FUP/CKR/PRD/2407/005M)
+ - Perubahan instruksi pada point 11C hasil pemeriksaan kebocoran yang memenuhi syarat (tidak bocor) bisa dikemas (FUP/PLG/PRS/2405/008M)
+ - Perubahan kode pack menjadi 2DK034000 terkait :
+    - Perubahan komposisi menjadi 270 gsm (FUP/PLG/MTL/2402/003M), menyebabkan :
+    - Perubahan standar checkweigher menjadi 129 – 145 gram
+    - Perubahan standar berat karton / 3WS menjadi 4.35 – 4.68 Kg
+    - Penambahan logo made from recycle paper (FUP/PLG/PRD/2311/011M)
+    - Perubahan logo halal sesuai BPJPH (FUP/PLG/PRD/2302/018M), nomor halal masih di dalam kotak
+    - Penghilangan perforasi (FUP/PLG/MTL/2407/003M)
+ - Perubahan point 5 pada pemeriksaan sensor pack dari sensor pack (mesin wrapping) menjadi sensor pack (conveyor ke mesin wrapping)
+ - Perubahan point 6 pada IPC pemeriksaan sensor sachet menjadi sensor vacuum 
+ - SPEC-LKXPA-S03 v0
+",23-Okt-24,DSW,GK048,CLOSED,2024
+25-Sep-24,LKXJA,LKXJA 03v0-02 v0,LKXJA 02v0-01 v0," - Perubahan kode foil menjadi 1FK007010 terkait perubahan logo halal sesuai BPJPH (FUP/PLG/PRD/2302/018M), nomor halal sudah di luar kotak
+ - Penghilangan manufacturing date (MD) pada coding foil/sachet & pack (FUP/CKR/PRD/2407/005M)
+ - Perubahan proses kemas sekunder dari manual ke cartoning jinsung (FUP/PLG/PRS/2212/012M ), menyebabkan :
+    - Penghilangan instruksi sachet dalam bentuk renceng
+    - Penghilangan pemeriksaan perforasi pada sachet
+    - Perubahan routing
+    - Perubahan kode pack menjadi 2DK032000
+    - Penambahan instruksi setting checkweigher
+    - Penambahan hot melt pada formula
+    - Perubahan posisi wrapping saat dimasukkan dalam karton
+ - Perubahan instruksi pada point 11C hasil pemeriksaan kebocoran yang memenuhi syarat (tidak bocor) bisa dikemas (FUP/PLG/PRS/2405/008M)
+ - Perubahan kode pack menjadi 2DK032000 terkait :
+    - Perubahan komposisi menjadi 270 gsm (FUP/PLG/MTL/2402/003M)
+    - Penambahan logo made from recycle paper (FUP/PLG/PRD/2311/011M)
+    - Perubahan logo halal sesuai BPJPH (FUP/PLG/PRD/2302/018M), nomor halal sudah di luar kotak
+ - Perubahan kode karton menjadi 3MK006000 (FUP/PLG/MTL/2301/008M), yang menyebabkan:
+    - Perubahan standar berat karton / 3WS menjadi 4.32 – 4.65 Kg
+    - Perubahan jumlah maksimal tumpukan karton pada pallet
+- SPEC-LKXJA-S03 v0",20-Nov-24,DSW,GL095,CLOSED,2024
+30-Sep-24,LMHG1,LMHG1 01v0-01 v0,N/A," - Produk baru sesuai dengan FUPPB : 00002/FUPPB/03/2024/KCHD
+ - SPEC LMHG1-01-S01-M01 v0",3-Okt-24,MUK / DSW,GK001,CLOSED,2024
+30-Sep-24,LMHGA,LMHGA 01v0-01 v0,N/A," - Produk baru sesuai dengan FUPPB : 00002/FUPPB/03/2024/KCHD
+ - SPEC LMHGA-S01 v0",3-Okt-24,MUK / DSW,GK001,CLOSED,2024
+15-Okt-24,LBMAV,LBMAV 01v0-01 v3,LBMAV 01v0-01 v2," - Penghilangn manufacturing date (MD) pada coding foil/sachet dan pack (FUP/PLG/PRD/2406/004M) 
+ - Perubahan point 5 pada pemeriksaan sensor pack dari sensor pack (mesin wrapping) menjadi sensor pack (conveyor ke mesin wrapping) 
+ - perubahan point 6 pada IPC pemeriksaaan sensor sachet menjadi sensor vacuum 
+ - SPEC-LBMAV-S01 v0",18-Okt-24,BRU ,GK217,CLOSED,2024
+16-Okt-24,LBJAA,LBJAA 02v0-01 v0,LBJAA 01v0-01 v2," - Perubahan logo halal BPJPH (FUP/PLG/PRD/2302/018M)
+ - Perubahan design bejo anak (FUP/PLG/PRD/2401/011M) 
+ - Takeout MFG Date (FUP/CKR/PRD/2407/005M) 
+ - Penambahan 2D Barcode (FUP/PLG/MTL/2204/002)
+ - Penambahan Website Perusahaan 
+ - Perubahan instruksi pada point 11C hasil pemeriksaan kebocoran  yang memenuhi syarat (tidak bocor) bisa dikemas (FUP/PLG/PRS/2405/008M)
+ - Penambahan logo recycle (FUP/PLG/PRD/2311/001M) 
+ - Penambahan logo BBWI ""Bangga Berwisata di Indonesia dan logo Wonderfull Indonesia (FUP/PLG/PRD/2408/001M)
+ - Penghilangan kolom tanggal dan jam pada pemeriksaan pallet (FUP/PLG/PRS/2011/010) 
+ - SPEC-LBJAA-S02-v0",21-Okt-24,BRU,GK010,CLOSED,2024
+18-Okt-24,LKXK1,LKXK1 01v0-01 v2,LKXK1 01v0-01 v1," - Perubahan ukuran strainer / mesh yang digunakan saat transfer bulk dari mixing tank ke storage tank dari 500 mikron menjadi 200 mikron sesuai FUP/PLG/PRS/2402/001M 
+ - Perubahan terhadap masa pakai storage tank dari  3 hari menjadi  7 hari berdasarkan risk assessment study cleaning storage tank yang dilakukan QA pada produk herbal 
+ - SPEC-LKXK1-01-S01-M02
+",13-Feb-25,GAA,HB014,CLOSED,2024
+16-Okt-24,LKXOD,LKXOD 08v0-04 v3,LKXOD 08v0-04 v2," - Penghilangan Manufacturing Date (MD) pada coding pack dan sachet (FUP/CKR/PRD/2407/005M)
+ - Perubahan redaksi pada PPI sekunder : 
+ - Perubahan point 5 pada pemeriksan sensor pack dari sensor pack (mesin wrapping) menjadi sensor pack (conveyor ke mesin wrapping) 
+ - Perubahan point 6 pada IPC pemeriksaan sensor sachet menjadi sensor vacuum
+ - SPEC-LKXOD-S05 v0",4-Nov-24,GAA,GL414,CLOSED,2024
+21-Okt-24,LEJSA,LEJSA 04v0-02 v2,LEJSA 04v0-02 v1," - Perubahan masa simpan bulk di storage tank dari 3 hari menjadi 7 hari serta penambahan proses preagitasi selama 20 menit dengan kecepatan 60 rpm sebelum proses filing karena adanya penghilangan agitasi selama proses staging di storage tank (FUP/PLG/PRS/2408/007M) 
+ - Penambahan intruksi mesin filing hanya dapat digunakan untuk proses filing selama 3 hari atau 5 BN ( kondisi mana yang lebih dulu tercapai ) (FUP/PLG/EQP/2407/009M) 
+ - Takeout MFG date pada coding tube dan pack (FUP/CKR/PRD/2407/005M) 
+ - Penambahan kalimat intruksi tube dalam chamber dalam posisi tidur saat pengecekan kebocoran (tahap 11 C) 
+ - Perubahan design susunan karton finish good pada pallet dan penambahan baris pemeriksaan karton per pallet (tahap 7) (FUP/PLG/PRD/2405/001M) ",25-Okt-24,BRU,gk122,CLOSED,2024
+23-Okt-24,LBJA1,LBJA1 02v1-01 v0,LBJA1 02v0-01 v0," - Perubahan ukuran mesh dari 500 mikron menjadi 200 mikron sesuai FUP/PLG/PRS/2402/001M
+ - Perubahan urutan Raw Material pada Raw Material Formula Report (RMFR) 
+ - SPEC-LBJA1-02-S01-M01",,WEI,,OPEN,2024
+23-Okt-24,LKXN1,LKXN1 01v1-01 v1,LKXN1 01v1-01 v0," - Perubahan ukuran mesh dari 500 mikron menjadi 200 mikron sesuai FUP/PLG/PRS/2402/001M
+ -SPEC-LKXN1-01-S01-M02",08-Nov-24,WEI,GL084,CLOSED,2024
+23-Okt-24,LEHD1,LEHD1 01v0-01 v2,LEHD1 01v0-01 v1," - Keterangan waktu selesai preparasi bahan dan pengadukan sesuai koordinasi QA dengan produksi pada point 3.3
+ - Perubahan ukuran mesh dari 500 mikron menjadi 200 mikron sesuai FUP/PLG/PRS/2402/001M 
+ - SPEC-LEHD1-01-S01-M02",18-Des-24,WEI,GM036,CLOSED,2024
+24-Okt-24,LKJTA,LKJTA 20v0-08 v0,LKJTA 18v0-06 v0," - Perubahan kode foil menjadi 1FK002080 dan box menjadi 2Dk018010 terkait : 
+ - Perubahan logo halal baru (FUP/PLG/PRD/2302/018M)
+ - Penambahan pemerian & eksipien (FUP/PLG/PRD/2310/002M) 
+ - Penambahan logo recycled pada box (FUP/PLG/PRD/2311/001M)
+ - Penambahan kode karton menjadi 3MK042030 terkait npenambahan barcode komix adult isi 6 (FUP/PLG/PRG/2409/001M) 
+ - Perubahan redaksi pada PPI sekunder : 
+ - Pada point 5 pada pemeriksaan sensor box dari sensor box (mesin wrapping) menjadi sensor box (conveyor ke mesin wrapping) 
+ - Point 6 pada IPC pemeriksaan sensor sachet menjadi sensor vacuum 
+ - Perubahan standar loss dari 2% menjadi 1%, yang menyebabkan perubahan total output quantity dari 9,073 menjadi 9,166 box
+ - SPEC-LKJTA-S05 v0",3-Des-24,GAA,GM659,CLOSED,2024
+25-Okt-24,LKXLA,LKXLA 12v0-03 v0,LKXLA 11v0-03 v0," - Penghilangan Manufacturing Date (MD) pada coding tube dan pack (FUP/CKR/PRD/2407/005M)
+ - Perubahan kode foil menjadi 1WK009010 terkait: 
+ - Penambahan parameter jarak tepi foil ke sisi luar eyemark 19.0-20.5 mm dan menggeser redaksi ""tekuk ke dalam lalu putar"" kebawah (FUP/PLG/MTL/2308/006M)  
+ - Jumlah sambungan foil menjadi maksimal 2 (FUP/PLG/MTL/2209/007)
+ - Perubahan point 4 pada pemeriksaan sensor pack dari sensor pack (mesin wrapping) menjadi sensor pack (conveyor ke mesin wrapping)",6-Feb-25,GAA,HB050,CLOSED,2024
+23-Okt-24,LKJTC,LKJTC 01v0-01 v0,NA, - Produk Baru (00016/FUPB/02/2024/KCHD,30-Okt-24,DSW,GK597,CLOSED,2024
+25-Okt-24,LEJOA,LEJOA 01v0-01 v1,LEJOA 01v0-01 v0," - Perubahan masa simpan bulk di storage tank 3 hari menjadi 7 hari serta penambahan poses pre agitasi selama 20 menit dengan kcepatan 60 rpm sebelum poses filling karena adanya penghilangan agitasi selama proses staging di storage tank (FUP/PLG/PRS/2408/007M)
+ - Penambahan intruksi mesin filling hanya dapat digunakan untuk proses filling selama 3 hari atau 5 BN (Kondisi mana yang terlebih dahulu tercapai) (FUP/PLG/EQP/2408/009M)
+ - Takeout MFG Date pada cooding tube dan Coding Pack (FUP/CKR/PRD/2407/005M)
+ - Penambahan kalimat intruksi tube dalam chamber dalam posisi tidur saat pengecekan kebocoran (tahap 11 C) 
+ - Perubahan design susunan karton finished good pada pallet dan penambahan baris pemeriksaan karton per pallet (tahap 7) (FUP/PLG/PRD/2405/001M)
+ - SPEC-LEJOA-S01-v0",18-Nov-24,BRH,gl021,CLOSED,2024
+11-Nov-24,LMHG1,LMHG1 01v1-01 v1,LMHG1 01v0-01 v0, - Perubahan tahapan proses berdasarkan aktual proses produksi sesuai FUP/PLG/PRS/2410/013M,11-Nov-24,MUK / DSW,GL018,CLOSED,2024
+7-Nov-24,LKXNA,LKXNA 05v0-02 v0,LKXNA 04v0-02 v0,"- Penambahan logo halal BPJH diluar kotak (FUP/PLG/PRD2302/018M
+- ⁠Penghilangan Manufacturing Date (MD) pada coding foil/sachet (FUP/CKR/PRD/2407/005M)
+- ⁠Penambahan teks BPOM RI
+- ⁠Perubahan intruksi pada point 11C hasil pemeriksaan kebocoran yang memenuhi syarat (tidak bocor) bisa dikemas (FUP/PLG/PRS/2405/008)
+- ⁠Penambahan logo recycle (FUP/PLG/PRD/2311/001M)
+- ⁠Penghilangan manufacturing date (MD) pada coding pack (FUP/CKR/PRD/2407/005M) 
+- ⁠Perubahan gramature ke 270 gsm mengakibatkan perubahan range berat pack menjadi 129-145 gram dan perubahan berat karton pada 3WS menjadi 4.35 - 4.67 Kg (FUP/PLG/MTL/2402/003M)
+- ⁠Takeout perforasi  (FUP/PLG/MTL/2402/003M)
+- ⁠Perubahan detail pada pemeriksaan sensor pack dari sensor pack (Mesin Wrapping) menjadi sensor pack (conveyor ke mesin wrapping) 
+- ⁠Perubahan detail pada IPC pemeriksaan sensor sachet menjadi sensor Vacuum
+- ⁠SPEC-LKXNA-S03-v0",11-Des-24,BRH,gm087,CLOSED,2024
+14-Nov-24,LBMAV,LBMAV 01v0-01 v4,LBMAV 01v0-01 v3, - Perubahan masa simpan bulk di storage tank dari 3 hari menjadi 7 hari dan perubahan masa pakai mesin filling dari 3 hari menjadi 7 hari (FUP/PLG/PRS/2410/011M),21-Nov-24,BRH,GL253,CLOSED,2024
+14-Nov-24,LBMAT,LBMAT 01v0-01 v2,LBMAT 01v0-01 v1, - Perubahan masa simpan bulk di storage tank dari 3 hari menjadi 7 hari dan perubahan masa pakai mesin filling dari 3 hari menjadi 7 hari (FUP/PLG/PRS/2410/011M),26-Des-24,BRH,GM081,CLOSED,2024
+14-Nov-24,LEJSC,LEJSC 01v0-01 v1,LEJSC 01v0-01 v0," - Perubahan masa simpan bulk di storage tank dari 3 hari menjadi 7 hari serta penambahan proses pre agitasi selama 20 menit (FUP/PLG/PRS/2408/007M)
+ - Penambahan intruksi mesin filling hanya dapat digunakan untuk proses filling selama 3 hari atau 5 BN ( kondisi mana yang lebih dulu tercapai ) (FUP/PLG/EQP/2408/009M) 
+ - Takout MFG date pada coding tube dan coding pack (FUP/CKR/PRD/2407/005M) 
+ - Penambahan kalimat intruksi tube dalam chamber dalam posisi tidur saat pngecekan kebocoran (tahap 11 C)
+ -SPEC-LEJSC-S010v0",28-Nov-24,BRH,GL125,CLOSED,2024
+11-Nov-24,LMHGA,LMHGA 01v0-01 v1,LMHGA 01v0-01 v0,"-Penghilangan manufacturing date (MD) pada coding foil/sachet dan pack (MRM/QA/OTS/1024/001) 
+-Perubahan posisi coding pack mengikuti posisi aktual pada mesin jinsung (FUP/PLG/PRS/2410/013M)
+-SPEC FG: SPEC-LMHGA-S01 v0",28-Nov-24,MUK / DSW,GL045,CLOSED,2024
+2-Des-24,LKCPA,LKCPA 06v0-05 v1,LKCPA 05v0-05 v1,"-Perubahan kode item foil menjadi 1FK036020 terkait penghilangan nomor registrasi pada sachet (FUP/PLG/PRD/2410/001M)
+-Perubahan kode item box menjadi 2DK005010 terkait perubahan nomor registrasi Mynmar dari R2402AA1331 menjadi R2902AA1331 terkait renewal sesuai dengan FUP/PLG/PRD/2410/001M
+-Nomor registrasi Cambodia perubahan redaksi pada tahap 6.C dari ""Sensor sachet"" menjadi ""Sencor Vacuum"" 
+-SPEC-LKCPA-S04 v0",5-Des-24,GAA,GM548,CLOSED,2024
+2-Des-24,LKCPA,LKCPA 06v0-05 v0,LKCPA 05v0-05 v0,"-Perubahan kode item foil menjadi 1FK036020 terkait penghilangan nomor registrasi pada sachet (FUP/PLG/PRD/2410/001M) 
+-Perubahan kode item box menjadi 2DK005010 terkait Perubahan nomor registrasi Cambodia dari CAM R25642IP-08 Menjadi CAM R35542IP-08 terkait renewal sesuai dengan FUP/PLG/PRD/2410/001M
+-Nomor Registrasi Cambodia perubahan redaksi pada tahap 6.C dari ""Sensor sachet"" menjdi ""sensor Vacuum""
+-SPEC-LKCPA-S04 v0",5-Des-24,GAA,GM552,CLOSED,2024
+5-Des-24,LBXT1,LBXT1 02v0-02 v0,LBXT1 01v1-01 v1,"-Perubahan kode item RM Honey Liquid dari 2AH001000 Menjadi 2AH001000J dan JLP dari 1 mnjadi 5 ( akibat prubahan Vat Honey dari kemasan jerigen 25 kg mnjadi tong 100 kg ) sesuai FUP/PLG/MTL/2411/001M
+-Penghilangan proses heating cooling; perubahan masa simpan bulk dari maksimal 3 hari mnjadi 7 hari;
+-Perubahan masa pakai storage tank dari maksimal 3 hari menjadi 7 hari sesuai FUP/PLG/PRS/2410/011M
+-Perubahan ukuran mesh dari 500 mikron sesuai FUP/PLG/PRS/2402/001M
+-SPEC-LBXT1-01-S01-M02",18-Des-24,WEI,GM269,CLOSED,2024
+20-Des-24,LETSB,LETSB 06v0-03 v1,LETSB 06v0-03 v0,"-Penghilangan manufacturing date (MD) pada coding foil/sachet dan pack (FUP/CKR/PRD/2407/005M)
+-SPEC-LETSB-S09-v1",26-Des-24,BRH,GM106,CLOSED,2024
+20-Des-24,LPRGQ,LPRGQ 02v0-01 v1,LPRGQ 02v0-01 v0,"-Perubahan Manufacturing Date (MD) pada coding sachet dan pack (FUP/CKR/PRD/2407/005M)
+-SPEC-LPRGQ-S01-v0",7-Jan-25,GAA,HA261,CLOSED,2024
+20-Des-24,LEHDA,LEHDA 01v0-01 v2,LEHDA 01v0-01 v1,"-Perubahan Manufacturing Date (MD) pada coding sachet dan pack (FUP/CKR/PRD/2407/005M)
+-SPEC-LEHDA-S02-v0",,BRH,,OPEN,2024
+13-Jan-25,LMHGA,LMHGA 02v0-01 v0,LMHGA 01v0-01 v1,"-Perubahan design font type dan font size pada foil , pack dan karton (FUP/PLG/PRD/2409/005M)
+-Spec LMHGA-S01-v0",14-Jan-25,BRH,HA066,CLOSED,2025
+14-Nov-24,LKXOB,LKXOB 17v0-04 v1,LKXOB 17v0-04 v0,"-Penghilangan Manufacturing Date (MD) pada coding pack dan Tube  (FUP/CKR/PRD/2407/005M)
+-Perubahan point 4 pada pemeriksaan sensor pack dari sensor pack (mesin wrapping) menjadi sensor pack (conveyor ke mesin wrapping)
+-Spec-LKXOB-S06 v0",22-Jan-25,GAA,HA468,CLOSED,2024
+17-Jan-25,LKXN1,LKXN1 02v0-01 v0,LKXN1 01v1-01 v1,"-Perubahan kode item RM Honey liquid dari 2AH001000 Menjadi 2AH001000J akibat perubahan Vat honey liquid dari kemasan jerigen 25 kg menjadi tong 100 kg (sesuai FUP/PLG/MTL/2411/001M) yang menyebabkan perubahan JLP dari 1 menjadi 4 dan perubahan preperasi honey liquid 
+-SPEC-LKXN1-01-S01-M02",20-Jan-25,BRH,HA090,CLOSED,2025
+17-Jan-25,LKXP1,LKXP1 02v0-01 v0,LKXP1 01v0 - 01 v3,"-Perubahan kode item RM Honey liquid dari 2AH001000 Menjadi 2AH001000J akibat perubahan Vat honey liquid dari kemasan jerigen 25 kg menjadi tong 100 kg (sesuai FUP/PLG/MTL/2411/001M) yang menyebabkan perubahan JLP dari 1 menjadi 4 dan perubahan preperasi honey liquid 
+-SPEC-LKXp1-01-S01-M02",21-Jan-25,GAA,HA052,CLOSED,2025
+23-Jan-25,LPRGQ,LPRGQ 03v0-01 v0,LPRGQ 02v0-01 v0,"-Perubahan kode item foil dari 1FP003010 dan kode item pack dari 2DP004000 menjadi 2DP004010 terkait prubahan logo Halal BPJPH , perubahan warna lambung , penambahan redaksi eksipien , letak simbol dot , logo BBI , mint dan penulisan komposisi (FUP/PLG/PRD/2311/004M)
+-SPEC-LPRGQ-S01 v0",25-Feb-25,GAA,HB287,CLOSED,2025
+10-Jan-25,LNKOE,LNKOE 02v0-02 v0,LNKOE 01v0-01v0 v0,"Produksi perdana LNKOE ( Komix OBH PE pack isi 6 sachet ), Recipe awal belum pernah dipakai. 
+Perubahan terhadap Recipe sebelumnya : 
+-Perubahan intruksi pengadukan agiator diawal proses 
+-Perubahan kode foil menjadi FK044-06 terkait penambahan pemerian dan eksipien (FUP/PLG/PRD/2310/002M) Serta perubahan logo halal sesuai BPJPH (FUP/PLG/PRD/2302/018M) Nomor halal sudah diluar kotak (FUP/PLG/PRD/2310/002M) , Penambahan logo made from recycle paper (FUP/PLG/PRD/2311/011M), Perubahan logo halal BPJPH (FUP/PLG/PRD/2302/018M) nomor halal sudah di luar kotak 
+-Perubahan kode karton menjadi 3MK044-02 terkait penambahan centang varian dan barcode semua SKU (FUP/PLG/PRD/2409/001M)
+-Penambahan intruksi pemriksaan centang varian produk 
+-SPEC - LNKOE-S01 v0",10-Mar-25,DSW,HC261,CLOSED,2025
+3-Feb-25,LKXL1,LKXL1 03v0-03 v0,LKXL1 02v1-03 v1,"-Perubahan kode item RM Honey liquid dari 2AH001000 menjadi 2AH001000J akibat perubahan Vat honey liquid dari kemasan jerigen 25 kg mnjadi 100 kg sesuai (FUP/PLG/MTL/2411/001M) yang menyebabkan perubahan JLP dari 1 menjadi 4 dan perubahan preparasi honey liquid 
+-SPEC-LKXL1-02-S01-M02",5-Feb-25,GAA,HB049,CLOSED,2025
+7-Feb-25,POSN1,POSN1 01v2-02 v4,POSN1 01v2-02 v3,"-Perubahan prosedur pengeringan Strach - Tapioka sesuai FUP/PLG/PRS/2403/004M : 
+1. Penambahan proses pemeriksaan LOD dapat dilakukan paralel dengan proses penimbangan Starch - Tapioca 
+2. Penambahan cara sampling ulang starch - Tapioka jika LOD >8.5%. jika setelah sampling ulang, masih didapat hasil LOD >8.5% lakukan pengeringan tambahan dengan settingan parameter FBD 
+-Perubahan redaksi ""Waktu"" pada pengeringan Starch - Tapioca menjadi ""Lama pengeringan dari suhu inlet tercapai 
+-SPEC-POSN1-01-S01-M04",11-Feb-25,GAA,HB798,CLOSED,2025
+24-Feb-25,LKMCB,LKMCB 05v0-01 v1 ,LKMCB 02v0-01 v0," - Perubahan quantity foil dari 4.50 menjadi 4.75 rol (FUP/PLG/PRS/2405/006M)
+ - Perubahan quantity pack dari 8,822 menjadi 8,912 EA pada kode item 2dk068000 dan karton 177 ke 179 EA (FUP/PLG/PRS/2405/006M)
+ - Perubahan nama sensor box pada tahap 5 menjadi ""Sensor Box (Conveyor ke Mesin Wrapping)
+ - Perubahan format penulisan batch number tahun 2022 sebelumnya diawali dengan huruf ""C"" menjadi huruf ''E"" (FUP/PLG/LLN/2205/001)
+ - Perubahan nama sensor sachet pada Tahap 6C menjadi ""Sensor Vacuum""
+ - Penghilangan kolom tanggal dan jam pada pemeriksaan karton per pallet (FUP/PLG/PRS/2011/010)
+ - SPEC-LKMCB-S04-v0 (Tidak ada perubahan Spec)",25-Feb-25,BRH,HB340,CLOSED,2025
+27-Des-24,LMHGA,LMHGA 03v0-01 v0,LMHGA 02v0-01 v0,"-Perubahan kode item pack menjadi 2DM014020 terkait Perubahan Varnish dari waterbase ke UV Varnish dan penambahan UV spot pada area glue pack (FUP/PLG/MTL/2501/007M)
+-SPEC-LMHGA-S01-v0",27-Mar-25,BRH,HC090,CLOSED,2024
+27-Feb-25,LKCLA,LKCLA 06v0-05 v0,LKCLA 05v0-05 v0,"- Perubahan kode item foil menjadi 1FK037020 terkait penhilangan nomor registrasi Myanmar dari R2308AA586 menjadi R2808AA586 terkait renewal sesuai dengan FUP/PLG/PRD/2410/001M
+-Perubahan redaksi pada tahap 6.C dari ""Sensor sachet"" menjadi ""Sensor Vacuum""
+-SPEC-LKCLA-S04-v0",6-Mar-25,GAA,HC216,CLOSED,2025
+27-Feb-25,LKXLA,LKXLA 13v0-03 v0,LKXLA 12v0-03 v0,"-Perubahan kode pack menjadi 2DK002030 terkait:
+-Penambahan logo recyle pada pack (FUP/PLG/PRD/2311/001M)
+-Penambahan logo halal baru, nomor halal di luar kotak(FUP/PLG/PRD/2302/018M
+-SPEC-LKXLA-S07-v0",8-Apr-25,GAA,HD052,CLOSED,2025
+27-Feb-25,LNKOA,LNKOA 15v0-05 v0,LNKOA 14v0-05 v0,"-Perubahan kode foil menjadi 1FK044060 terkait: 
+-Perubahan logo halal baru (FUP/PLG/PRD/2302/018M)
+-Penambahan pemerian dan eksipien (FUP/PLG/PRD/2310/002)
+-Perubahan kode box menjadi 2DK020010 terkait : 
+-Perubahan logi halal baru (FUP/PLG/PRD/2302/018M)
+-Penambahan eksipien (FUP/PLG/PRD/2310/002) 
+-Penambahan logo recyle (FUP/PLG/PRD/2311/001M)
+-Perubahan point 5 pada pemeriksaan sensor box dari sensor box (mesin wraping) menjadi sensor box (conveyor ke mesin wrapping)
+-Perubahan point 6 pada IPC pemeriksaan sensor sachet menjadi sensor vacuum
+-SPEC-LNKOA-S04",6-Mar-25,BRH,HC255,CLOSED,2025
+9-Apr-25,LKXO1,LKXO1 03v0-04 v0,LKXO1 02v0-04 v1,"Perubahan kode item RM Honey Liquid dari 2AH001000 menjadi 2AH001000J akibat perubahan vat Honey Liquid dari kemasan jerigen 25 kg menjadi tong 100 kg (sesuai FUP/PLG/MTL/2411/001M) yang menyebabkan perubahan JLP dari 2 menjadi 4 dan perubahan preparasi Honey Liquid.
+-SPEC-LKXO1-02-SO1-M02",10-Apr-25,GAA,HD505,CLOSED,2025
+23-Apr-25,LKNTA,LKNTA 16v0-06 v0,LKNTA 15v0-05 v0,"Keterangan perubahan / lain-lain:
+1. Perubahan pada PPI Primer:
+-Perubahan kode item foil menjadi 1FK004080 terkait:
+• Perubahan logo halal baru (FUP/PLG/PRD/2302/018M)
+• Penambahan pemerian dan eksipien (FUP/PLG/PRD/2310/002M)
+• Penghilangan warna gradasi pada sachet (FUP/PLG/MTL/2501/004M)
+2. Perubahan pada PPI Sekunder:
+-Perubahan kode item box menjadi 2DK017010 terkait:
+• Perubahan logo halal baru (FUP/PLG/PRD/2302/018M)
+• Penambahan logo recycle (FUP/PLG/PRD/2311/001M)
+• Penambahan pemerian & eksipien (FUP/PLG/PRD/2310/002M)
+-Perubahan redaksi poin 5 pada pemeriksaan sensor box dari ""Sensor Box (Mesin Wrapping)"" menjadi ""Sensor Box (Conveyor ke Mesin Wrapping)""
+-Perubahan redaksi pada poin 6.C dari ""Sensor sachet"" menjadi ""Sensor Vacuum""
+3. Perubahan standar loss dari 2% menjadi 1% menyebabkan perubahan total output quantity dari 9,073 menjadi 9,166 box
+>SPEC-LKNTA-S05 vO",23-Apr-25,GAA,HD316,CLOSED,2025
+28-Apr-25,LKXJ1,LKXJ1 02v0-01 v0,LKXJ1 01v0-01 v1,"-Perubahan kode item RM Honey Liquid dari 2AH001000 menjadi 2AH001000J akibat perubahan Vat Honey Liquid dari Kemasan Jerigen 25 kg menjadi tong 100 kg sesuai (FUP/PLG/MTL/2411/001M) yang menyebabkan perubahan JLP dari 1 menjadi 4 dan perubahan preparasi Honey Liquid 
+-SPEC-LKXJ1-01-S01-M02",29-Apr-25,WEI,HD113,CLOSED,2025
+24-Mar-25,LMHGA,LMHGA 04v0-01 v0,LMHGA 03v0-01 v0,"-Perubahan kode item foil menjadi 1FM003020 dan Pack menjadi 2DM014030 terkait perubahan desain kemasn dengan menghilangkan keterangan frasa pengawet dan pemanis (FUP/PLG/MTL/2501/007M) 
+-Perubahan Intruksi pada point 11C hasil pemeriksaan kebocoran yang memenuhi syarat (tidak bocor) bisa dikemas (FUP/PLG/PRS/2502/005M)
+-SPEC-LMHGA-S01-v0",6-Mei-25,BRH,HE107,CLOSED,2025
+7-Mei-25,LKPTA,LKPTA 23v0-09 v0,LKPTA 22v0-08 v0,"-Perubahan standar loss dari 2% menjadi 1% yang menyebabkan perubahan total output quantity dari 9,073 menjadi 9,166 box
+-Perubahan kode foil menjadi 1FK006090 terkait : 
+-Perubahan logo halal baru (FUP/PLG/2302/018M)
+-Penambahan pemrian dan eksipien (FUP/PLG/PRD/2310/002M)
+-Penghilangan warna gradasi pada sachet (FUP/PLG/MTL/2501/004M)
+-Perubahan kode Box menjadi 2DK019010 trkait : 
+-Perubahan logo halal baru (FUP/PLG/PRD/2302/018M)
+-Penambahan pemrian dan eksipien (FUP/PLG/PRD/2310/002M)
+-Penambahan logo Recycle (FUP/PLG/PRD/2311/001M)
+-Perubahan redaksi PPI sekunder : 
+-Perubahan point 5 pada pemeriksaan sensor box dari sensor box (mesin wrapping) menjadi sensor box (conveyor ke msin wrapping) 
+-Perubahan point 6 pada IPC pemeriksaan sensor sachet menjadi sensor vacuum
+-SPEC-LKPTA-S06 v0",8-Mei-25,GAA,HE684,CLOSED,2025
+23-Apr-25,LKJTA,LKJTA 21v0-08 v0,LKJTA 20v0-08 v0,"-Perubahan kode foil menjadi 1FK002090 terkait penghilangan gradasi pada sachet (FUP/PLG/MTL/2501/004M)
+-SPEC-LKJTA-S06",23-Mei-25,GAA,HE174,CLOSED,2025
+24-Mei-25,LWPGA,LWPGA 02v0-02 v0,LWPGA 01v0-01 v4,"- Perubahan standar loss dari 4% menjadi 3%
+- ⁠Perubahan kode foil menjadi 1FW002000 terkait develop foil dengan dimensi di mesin ilapak (FUP/PLG/EQP/2401/002M)
+- ⁠Perubahan tabel setting suhu dan kecepatan mesin mengacu ke PPI LKJTA 19v0-07 v0
+- ⁠Perubahan setting suhu mesin mengacu ke PPI LPRGH 07v0-04 v0",24-Mei-25,BRH,HE011,CLOSED,2025
+27-Mei-25,LGRG1,LGRG1 01v1-02 v0,LGRG1 01v0-01 v0,"- Perubahan kode Item RM Honey dari 2AH001000 menjadi 2AH001000J dan JLP dari 2 menjadi 6 (akibat perubahan Vat Honey Liquid dari kemasan Jerigen 25kg menjadi 100kg tong) Sesuai (FUP/PLG/MTL/2411/001M)
+- ⁠Perubahan Ukuran Strainer / mesh yang digunakan saat transfer bulk dari mixing tank ke storage tank dari 500 mikron menjadi 200 mikron (FUP/PLG/PRS/2402/001M)",27-Mei-25,GAA,HE011,CLOSED,2025
+16-Mei-25,LBMAV,LBMAV 001v0-001 v0,-,"New, Kemasan pack / 12 Sachet , Repack ",22-Mei-25,BRH,GK211,CLOSED,2025
+16-Mei-25,LPRGR,LPRGR 01v0-01 v0,-,"New Product, Promag Herbal Sample (0009/FUPB/02/2025/KCHD)",26-Jun-25,MUK / DSW,HF385,CLOSED,2025
+1-Jul-25,LBMA2,LBMA2 02v1-02 v0,LBMA2 02v0-02 v4,"-Perubahan kode item RM Honey Liquid dari 2AH001000 menjadi 2AH001000J akibat perubahan Vat Honey Liquid dari kemasan jerigen 25kg menjadi 100kg sesuai (FUP/PLG/MTL/2411/001M) yang menyebabkan perubahan JLP dari 2 menjadi 10 dan perubahan preparasi Honey Liquid 
+-Penghilangan tahap 4.3 intermediet mixing setelah vacuum bahan premix 1
+-Penambahan intruksi dispersi premix 1 sebelum divacuum ",2-Jul-25,GAA,HG841,CLOSED,2025
+30-Jul-25,LKKS1,LKKS1 01v3-04 v0,LKKS1 01v2-04 v0,"Perubahan kode material Carboxymethylcellulose, sodium , sodium chloride dan dextromethorphan HBr Seesuai dengan FUP/PLG/MTL/2505/003M",1-Agu-25,WEI,HH076,CLOSED,2025
+8-Jul-25,LBXT1,LBXT1 01v2-02 v1,LBXT1 02v0-02 v0,"Keterangan Perubahan Terkait :
+- History Revisi Nomor Recipe LBXT1 02v0-02 v0 seharusnya menjadi LBXT1 01v2-02 v0, Maka penomoran saat ini : LBXT1 01v2-02 v1 sesuai dengan WI-RD-FD-1013.03 poin 4
+- Penambahan pemeriksaan parameter Fisik pada bulk ruah.
+-SPEC-LBXT1-01-S01-M02",4-Agu-25,WEI,HH540,CLOSED,2025
+30-Jul-25,LEJSD,LEJSD 01v0-01 v0,-,"New Product, EJ Sport Kemasan sachet mesin Joyea, Pack isi 5 sachet (00060/FUPB/12/2023/kCHD)",7-Agu-25,DSW/MKG,HH142,CLOSED,2025
+13-Agu-25,LEJS1,LEJS1 01v2 - 04 v0,LEJS1 01v2 - 03 v0,"Improvment proses sesuai dengan CC-B7PLG-06-2025-0015 sebagai berikut : 
+1. elimination proses heating cooling 
+2. perubahan masa simpan bulk dari 3 hari menjadi 7 hari (unyuk proses non heating cooling) 
+3. Meningkatkan campaign batch dari batch menjadi 3 batch ",14-Agu-25,WEI,HH146,CLOSED,2025
+7-Agu-25,LEJSE,LEJSE 01v0-01 v0,- ,"New Product, EJ Sport Kemasan sachet mesin Joyea, Pack isi 2 sachet (00059/FUPB/12/2023/kCHD)",14-Agu-25,DSW/MKG,HH146,CLOSED,2025
+7-Agu-25,LEJOB,LEJOB 01v0-01 v0 ,-,"New Product, EJ Sport Kemasan sachet mesin Joyea, Pack isi 5 sachet (00063/FUPB/12/2023/kCHD)",27-Agu-25,DSW/MKG,HA029,CLOSED,2025
+7-Agu-25,LEJOD,LEJOD 01v0-01 v0 ,-,"New Product, EJ Sport Kemasan sachet mesin Joyea, Pack isi 2 sachet (00062/FUPB/12/2023/kCHD)",1-Sep-25,DSW/MKG,HJ032,CLOSED,2025
+17-Jul-25,LKXNA,LKXNA 06v0-03 v0,LKXNA 05v0-02 v0,"- Perubahan kode foil menjadi 1FK053030 terkait Penambahan PERKA penandaan OTSK (FUP/CKR/PRD/2407/005M)
+- Mengurangi tabel pemeriksaan berat rata-rata sachet + isi (tahap 10 halaman 5)
+- Mengurangi tabel pemeriksaan fisik sachet (tahap 11 A halaman 7)
+- Mengurangi tabel pemeriksaan kebocoran sachet (tahap 11 C halaman 9)
+- Mengurangi tabel catatan pemeriksaan keseragaman berat produk (halaman 13)
+- Perubahan kode pack menjadi 2DK030010 terkait Penambahan PERKA penandaan OTSK (FUP/CKR/PRD/2407/005M) dan Penambah barmark (FUP/PLG/MTL/2503/008M)
+ - Perubahan standar loss dari 1,5% menjadi 1%, perubahan quantity pack dari 21154 menjadi 21367 EA dan quantity karton dari 706 menjadi 713 EA (FUP/PLG/PRS/2505/001M)
+- Mengurangi tabel pemeriksaan pack (tahap 6 C halaman 3)
+- Mengurangi 1 bagian tabel pemeriksaan fisik pack yang sudah terwrapping (tahap 6 E halaman 4)
+- Take out redaksi administrasi di kolom pemeriksaan PPI primer dan sekunder (Hanya Operator Produksi)
+- Spec-LKXNA-S05-v0
+ ",29-Sep-25,WEI,HJ117,CLOSED,2025
+21-Jul-25,LKXOB,LKXOB 18v0-05 v0,LKXOB 17v0-04 v1,"- Perubahan kode item tube menjadi 1WK008040 terkait penghilangan preprint redaksi ""MFG DATE / EXP DATE"" dan relayout back panel tube (FUP/PLG/MTL/2503/007M)
+- Penambahan durasi proses pre agitasi selama 15 menit dengan kecepatan 60 rpm sebelum proses filling
+- Perubahan kode item pack menjadi 2DK001030 terkait perubahan logo halal baru (FUP/PLG/PRD/2302/018M) dan penambahan logo recycle (FUP/PLG/PRD/2311/001M)
+- Perubahan standar loss dari 2% menjadi 1%, yang menyebabkan perubahan total output quantity dari 31,776 menjadi 32,100 (FUP/PLG/PRS/2505/001M).
+-SPEC-LKXOB-S06 v0",4-Sep-25,GAA,HJ593,CLOSED,2025
+8-Mei-25,LMHGB,LMHGB 01v0-01 v0,-,"New Product, Mixagrip Herbal Greges Sample (0007/FUP/01/2025/KCHD)",4-Jun-25,MUK / DSW,HF124,CLOSED,2025
+20-Agu-25,LETS1,LETS1 04v0-05-v0,- ,Perubahan Formula sesuai dengan FUP : CC-B7PLG-06-2025-0012,20-Agu-25,MUK / DSW,HH134,CLOSED,2025
+1-Sep-25,LEJO1,LEJO1 01v1-02 v0,LEJO1 01v0-01 v1,"-Improvement proses sesuai dengan CC-B7PLG-06-2025-0015 sebagai berikut:
+-Elimination proses heating cooling
+-Perubahan masa simpan bulk ≤ 3 hari menjadi ≤ 7 hari (untuk proses non heating cooling)
+-Meningkatkan campaign batch dari 2 batch menjadi 3 batch
+-Penghilangan perhitungan pada mesin Tetrapak 2 sesuai studi QA
+-Perubahan urutan masuk material Levocarnitine, sesuai dengan evaluasi produksi
+",1-Sep-25,WEI,HJ032,CLOSED,2025
+18-Agu-25,LHRBA,LHRBA 04v0-03 v0,LHRBA 03v0-02 v0,"-Perubahan standar loss dari 3% menjadi 1%, yang menyebabkan perubahan total output quantity dari 10,600 menjadi 10,818(FUP/PLG/PRS/2505/001M)
+PPI Primer:
+-Pengurangan tabel pemeriksaan berat rata-rata sachet + isi (tahap 10 halaman 5)
+-Pengurangan tabel pemeriksaan fisik sachet (tahap 11 A halaman 7)
+-Pengurangan tabel pemeriksaan kebocoran sachet (tahap 11 C halaman 9)
+-Pengurangan tabel catatan pemeriksaan keseragaman berat produk (halaman 13)
+
+PPI Sekunder:
+-Perubahan jumlah tumpukan karton di palet dari 10 layer menjadi 9 layer (FUP/PLG/PRD/2405/001M
+-Perubahan poin 5 pada pemeriksaan sensor pack dari sensor pack (mesin wrapping) menjadi sensor pack (conveyor ke mesin wrapping)
+-Perubahan poin 6 pada IPC pemeriksaan sensor sachet menjadi sensor vacuum
+-Pengurangan tabel pemeriksaan pack (tahap 6 C halaman 3)",2-Sep-25,GAA,HJ856,CLOSED,2025
+10-Sep-25,PWSN1,PWSN1 01v1-01 v4,PWSN1 01v1-01 v3,"Perubahan syarat umur bulk rework B7 Obat Maag Waisan dalam kemasan Primer , semula 1 bulan dalam bulan yang sama dengan batch berjalan menjadi 3 bulan dari batch berjalan saat ini.",29-Sep-25,WEI,HJ229,CLOSED,2025
+9-Okt-25,PWSNH,PWSNH 06v0-01 v0,PWSNH 05v0-01 v2,"Keterangan perubahan / lain-lain : 
+-Perubahan kode item foil menjadi 1FW003110 terkait penambahan logo halal BPJPH (FUP/PLG/PRD/2302/018M) dan Penambahan informasi pemerian dan eksipien (FUP/PLG/PRD/2310/002M)
+-Penambahan row tabel setting suhu dan kecepatan mesin pada tahap 6
+-Penambahan kolom pemeriksaan perforasi pada tabel IPC pemeriksaan fisik sachet 
+-Penambahan kalimat tampung NC produk (sachet yang tidak memenuhi syarat fisik) dalam kantong plastik dan timbang setelah ditara dengan plastik kosong pada tahap 14
+-Perubahan kode item pack menjadi 2DW003120 terkait penambahan logo halal BPJPH (FUP/PLG/PRD/2302/018M), Penambahan informasi pemerian dan eksipien (FUP/PLG/PRD/2310/002M) dan -penambahan logo recycle (FUP/PLG/PRD/2311/001M)
+-Penambahan pemeriksaan perforasi pada tahap pemeriksaan syarat fisik sachet sebelum dikemas
+-Perubahan Split tahapan 3WS menjadi 2 bagian (A&B)
+-Perubahan instruksi pengemasan (setelah instruksi langsung gambar)
+
+Spec-PWSNH-S04-v0",10-Okt-25,WEI,HK235,CLOSED,2025
+8-Okt-25,LWPGA,LWPGA 03v0-03 v0,LWPGA 02v0-02 v0,"keterangan perubahan / lain-lain :
+-Pengurangan halaman akibat perpindahan mesin Yonan ke llapak (FUP/PLG/EQP/2401/002M)
+-Mengurangi tabel pemeriksaan berat rata-rata sachet + isi (tahap 10 halaman 7) 
+-Mengurangi tabel pemeriksaan fisik sachet (tahap 11 A halaman 10)
+-Perubahan frekuensi pemeriksaan IPC kebocoran sachet dari setiap 30 menit sebanyak 2 sachet per line menjadi setiap 15 menit sebanyak 1 sachet per line, mengacu pada produk yang berjalan di llapak 1.
+-Mengurangi tabel pemeriksaan kebocoran sachet (tahap 11 C halaman 15)
+-Mengurangi Tabel Catatan Pemeriksaan Keseragaman Berat Produk (Halaman 20 – 22)
+-Perubahan lampiran Tabel Catatan Pemeriksaan Keseragaman Berat Produk dari 5 line menjadi 6 line, menyesuaikan perpindahan mesin yonan ke ilapak.
+-Perubahan standar loss dari 3% menjadi 1%, perubahan quantity Box dari 8822 menjadi 8912 EA dan quantity Karton dari 177 menjadi 179 EA (FUP/PLG/PRS/2505/001M)
+-Take out redaksi administrasi di kolom pemeriksaan PPI (Hanya Operator Produksi)
+-SPEC-LWPGA-S04 v0",10-Okt-25,GAA,HK020,CLOSED,2025
+10-Sep-25,LBMAV,LBMAV 02v0-02 v0,LBMAV 01v0-01 v4,"-Perubahan kode foil menjadi 1FB001010 terkait Penambahan PERKA penandaan OTSK (FUP/CKR/PRD/2407/005M)
+-Mengurangi tabel pemeriksaan berat rata-rata sachet + isi (tahap 10 halaman 5)
+-Mengurangi tabel pemeriksaan fisik sachet (tahap 11 A halaman 7)
+-Mengurangi tabel pemeriksaan kebocoran sachet (tahap 11 C halaman 9)
+-Mengurangi tabel catatan pemeriksaan keseragaman berat produk (halaman 13)
+-Perubahan kode pack menjadi 2DB010010 terkait Penambahan PERKA penandaan OTSK (FUP/CKR/PRD/2407/005M) dan Penambahan barmark (FUP/PLG/MTL/2503/008M)
+-Perubahan standar loss dari 1,5% menjadi 1%, perubahan quantity pack dari 10818 menjadi 10928 EA dan quantity karton dari 722 menjadi 729 EA (FUP/PLG/PRS/2505/001M)
+-Mengurangi tabel pemeriksaan pack (tahap 6 C halaman 3)
+-Mengurangi 1 bagian tabel pemeriksaan fisik pack yang sudah terwrapping (tahap 6 E halaman 4)
+-Take out redaksi administrasi di kolom pemeriksaan PPI (Hanya Operator Produksi)
+-SPEC-LBMAV-S04-v0",21-Jan-26,GAA,JA673,CLOSED,
+18-Sep-25,LBMAT,LBMAT 02v0-02 v0,LBMAT 01v0-01 v2,"Keterangan perubahan / lain-lain :
+-Perubahan kode foil menjadi 1FB001010 terkait Penambahan PERKA penandaan OTSK (FUP/CKR/PRD/2407/005M)
+Mengurangi tabel pemeriksaan berat rata-rata sachet + isi (tahap 10 halaman 5)
+Mengurangi tabel pemeriksaan fisik sachet (tahap 11 A halaman 7)
+Mengurangi tabel pemeriksaan kebocoran sachet (tahap 11 C halaman 9)
+- Mengurangi tabel catatan pemeriksaan keseragaman berat produk (halaman 13)
+- Perubahan kode pack menjadi 2DB008010 terkait Penambahan PERKA penandaan OTSK
+(FUP/CKR/PRD/2407/005M) dan Penambahan barmark (FUP/PLG/MTL/2503/008M)
+- Perubahan standar loss dari 1,5% menjadi 1%, perubahan quantity pack dari 21638 EA menjadi 21857 EA dan quantity karton dari 722 EA menjadi 729 EA (FUP/PLG/PRS/2505/001M)
+- Mengurangi tabel pemeriksaan pack (tahap 7 C halaman 3)
+- Mengurangi 1 bagian tabel pemeriksaan fisik pack yang sudah terwrapping (tahap 7 E halaman 4)
+- Take out redaksi administrasi di kolom pemeriksaan PPI (Hanya Operator Produksi)
+Spec-LBMAT-S04-v0",15-Okt-25,WEI,HK584,CLOSED,2025
+11-Nov-25,LKXPA,LKXPA 05v0-03 v0,LKXPA 04v0-02 v0,"Keterangan perubahan / lain-lain :
+-Penambahan durasi proses pre agitasi selama 15 menit dengan kecepatan 60 rpm sebelum proses filling (CC-B7PLG-10-2025-005
+-Mengurangi tabel pemeriksaan berat rata-rata sachet + isi (tahap 10 halaman 5 PPI Primer) Mengurangi tabel pemeriksaan fisik sachet (tahap 11 A halaman 7 PPI Primer)
+-Mengurangi tabel pemeriksaan kebocoran sachet (tahap 11 C halaman 9 PPI Primer)
+-Mengurangi tabel catatan pemeriksaan keseragaman berat produk (halaman 13 PPI Primer)
+-Perubahan standar loss dari 1,5% menjadi 1%, perubahan quantity pack dari 21154 menjadi 21367 EA dan quantity karton dari 706 menjadi 713 EA (FUP/PLG/PRS/2505/001M)
+-Mengurangi tabel pemeriksaan pack (tahap 6 C halaman 3 PPI Sekunder)
+-Mengurangi 1 bagian tabel pemeriksaan fisik pack yang sudah terwrapping (tahap 6 E halaman 4 PPI Sekunder)
+-Take out redaksi administrasi di kolom pemeriksaan PPI (Hanya Operator Produksi)
+-Spec-LKXPA-S04-v0",18-Nov-24,GAA,HL073,CLOSED,2025
+11-Nov-25,LKXOD,LKXOD 09v0-04 v0,LKXOD 08v0-03 v0,"Keterangan perubahan / lain-lain :
+PPI Primer
+-Perubahan kode foil menjadi 1FK003010 terkait perubahan logo halal sesuai BPJPH (FUP/PLG/PRD/2302/018M) dan perubahan redaksi kemasan sesuai Perka BPOM no 10 tahun 2024 penandaan OTSK (FUP/CKR/PRD/2407/005M)
+-Penambahan durasi proses pre agitasi selama 15 menit dengan kecepatan 60 rpm sebelum proses filling sesuai studi pada FUP/PLG/PRS/2004/012
+-Mengurangi tabel pemeriksaan berat rata-rata sachet + isi (tahap 10 halaman 5), tabel pemeriksaan fisik sachet (tahap 11 A halaman 7), tabel pemeriksaan kebocoran sachet (tahap 11 C halaman 9), tabel catatan pemeriksaan keseragaman berat produk (halaman 13), dan take out redaksi administrasi di kolom pemeriksaan PPI (hanya operator produksi)
+
+PPI Sekunder 
+-Perubahan quantity pack di formula dari 21582 menjadi 21800 EA dan quantity karton dari 720 menjadi 727 EA (FUP/PLG/PRS/2505/001M)
+-Perubahan kode pack menjadi 2DK074000 terkait take out perforasi (FUP/PLG/MTL/2407/003M), penambahan bar mark (FUP/PLG/MTL/2503/008M), penambahan logo recycle (FUP/PLG/PRD/2311/001M), perubahan logo halal sesuai BPJPH (FUP/PLG/PRD/2302/018M), perubahan redaksi kemasan sesuai Perka BPOM no 10 tahun 2024 penandaan OTSK (FUP/CKR/PRD/2407/005M)
+-Perubahan komposisi pack dari 310 gsm menjadi 270 gsm (FUP/PLG/MTL/2402/003M) yang menyebabkan perubahan range berat checkweigher dari 122-137 gr menjadi 120 - 136 gr dan perubahan range berat karton dari 4.13-4.44 Kg menjadi 4.08 -4.39 Kg
+-Mengurangi tabel pemeriksaan pack (tahap 6 C halaman 3) dan mengurangi 1 bagian tabel pemeriksaan fisik pack yang sudah terwrapping (tahap 6 E halaman 4), dan take out redaksi administrasi di kolom pemeriksaan PPI (hanya operator produksi)
+SPEC-LKXOD-S06 vo",5-Des-25,GAA,HM641,CLOSED,2025
+11-Nov-25,LKXJA,LKXJA 04v0-03 v0,LKXJA 03v0-02 v0,"Keterangan perubahan / lain-lain :
+-Penambahan durasi proses pre agitasi selama 15 menit dengan kecepatan 60 rpm sebelum proses filling (CC-B7PLG-10-2025-0056)
+-Mengurangi tabel pemeriksaan berat rata-rata sachet + isi (tahap 10 halaman 5)
+-Mengurangi tabel pemeriksaan fisik sachet (tahap 11 A halaman 7)
+-Mengurangi tabel pemeriksaan kebocoran sachet (tahap 11 C halaman 9)
+-Mengurangi tabel catatan pemeriksaan keseragaman berat produk (halaman 13)
+-Perubahan standar loss dari 3% menjadi 1%, perubahan quantity pack dari 21289 menjadi 21505 EA dan quantity karton dari 710 menjadi 717 EA (FUP/PLG/PRS/2505/001M)
+-Mengurangi tabel pemeriksaan pack (tahap 6 C halaman 3)
+-Mengurangi 1 bagian tabel pemeriksaan fisik pack yang sudah terwrapping (tahap 6 E halaman 4) 
+-Take out redaksi administrasi di kolom pemeriksaan PPI (Hanya Operator Produksi)
+Spec-LKXJA-S04-v0",13-Des-25,GAA,HM134,CLOSED,2025
+11-Nov-25,LKXLA,LKXLA 14v0-04 v0,LKXLA 13v0-03 v0,"Keterangan perubahan / lain-lain:
+-Perubahan kode item foil menjadi 1WK009020 terkait:
+Penghilangan preprint redaksi ""MFG DATE/EXP DATE"" dan relayout backpanel (FUP/PLG/MTL/2503/007M) - Penghilangan redaksi kemasan sesuai PERKA BPOM terkait penyesuaian ""netto"" menjadi ""isi bersih"" dan ""khasiat/kegunaan"" menjadi ""khasiat"" (FUP/CKR/PRD/2407/005M)
+Perubahan kode pack menjadi 2DK002040 terkait perubahan informasi pada desian kemasan pack sesuai PERKA penandaan BPOM (FUP/CKR/PRD/2407/005M):
+- Penyesuaian redaksi Bahasa Indonesia untuk ""isi"" menjadi ""isi bersih dan ""khasiat/kegunaan menjadi ""khasiat""
+- Penambahan informasi pada design kemasan terkait Perhatian & Peringatan, Kontraindikasi, dan Interaksi Perubahan standar loss dari 2% menjadi 1%, perubahan quantity pack dari 31629 menjadi 31948 EA dan quantity karton dari 633 menjadi 639 EA (FUP/PLG/PRS/2505/001M)
+Take out redaksi administrasi di kolom pemeriksaan PPI (Hanya Operator Produksi)
+Spec-LKXLA-S08-v0",15-Nov-25,GAA,HM066,CLOSED,2025
+5-Des-25,LPRGT,LPRGT 01v0-01 v0,-,"New Product, Promag Suspensi 10 mL, Cambodia",6-Jan-26,DSW,JA052,CLOSED,2025
+20-Des-25,LPRG3,LPRG3 01v1-02 v0,LPRG3 01v0-02 v1,"-Penambahan validasi 3WS sebelum proses vacuum material (CC-B7PLG-05-2025-0001)
+-Perubahan urutan masuk material (RMFR) berdasarkan penyesuaian dengan instruksi validasi 3WS (CC-B7PLG-11-2025-0082) yang menyebabkan :
+-Preparasi premix dilakukan tepat sebelum premix tersebut ditransfer
+-Penambahan preparasi bahan Succus  Liquiritiae Rad Liquid Extract A pada poin 3.3
+-Perubahan urutan material premix 2
+-Penambahan instruksi pelunakan Sodium Chloride pada poin 5.2
+-Perubahan urutan penempelan label  (2AS012000) Sucrose pada bagian I.B LABEL PENIMBANGAN BAHAN BAKU sesuai dengan urutan premix",23-Jan-26,GAA,JA475,CLOSED,2025
+6-Feb-26,POSNA,POSNA 09v0-02 v0,POSNA 08v0-02 v0,"Recipe sebelumnya POSNA-P 08v0-02 v1 belum dilakukan validity rule dan belum dipakai. Sehingga nomor recipe perubahan ini masih menggantikan PPI POSNA-P 08v0-02 v0
+PRIMER :
+- Perubahan terkait simplifikasi proses IPC filling (FUP/PLG/PRS/2411/005M) :
+- Penghilangan perhitungan rata-rata standar berat sachet kosong, berat isi minimal, berat isi maksimal, dan titik tengah sachet pada tahap 9
+- Penghilangan instruksi terkait berat tertuang TMS yang mengharuskan operator melakukan timbang ulang sebanyak 12 sachet untuk setting ulang mesin pada tahap 11 B
+- Penambahan instruksi pada tahap 11 B pengambilan 3 sachet per line untuk perhitungan bobot tertuang 2 sachet, jika TMS timbang sachet ketiga dan hitung rata-rata. Lakukan adjusment mesin dan perunutan jika rata-rata 3 sachet diluar spesifikasi
+- Penambahan kalimat tampung NC produk (sachet yang tidak memenuhi syarat fisik) dalam kantong plastik dan timbang setelah ditara dengan plastik kosong pada tahap 14
+- Take out redaksi administrasi di kolom pemeriksaan PPI (hanya operator produksi)
+- Take out redaksi Sr (senior) pada kolom paraf pemeriksa di halaman rekonsiliasi
+- Perubahan jumlah sachet pada IPC pemeriksaan kebocoran dari 2 sachet menjadi 4 sachet (CC-B7PLG-02-2026-0016)
+
+SEKUNDER :
+- Perubahan kode pack menjadi 2DP008140 terkait pelebaran area glue lap dari 0.8 cm menjadi 1.2 cm dan penyesuaian bagian bottom lock (CC-B7PLG-06-2025-0016)
+- Perubahan range 3WS Karton dari 6.11 – 6.37 Kg menjadi 6.14 – 6.40 Kg (CC-B7PLG-01-2026-0010)
+-SPEC-POSNA-S04 v0
+
+
+
+",9-Feb-26,GAA,JB083,CLOSED,2026
+10-Mar-26,LKNTA,LKNTA 17v0-06 v0,LKNTA 16v0-06 v0,"Keterangan Perubahan / lain-lain :
+-Penyeragaman kode karton menjadi 3MK042030 sesuai dengan CC-B7PLG-012026-003 terkait penambahan kode barcode isi 6 (FUP/PLG/PRD/2409/001M)
+-Take out redaksi administrasi di kolom pemeriksaan PPI (Hanya Operator Produksi) 
+-Take out redaksi Sr (senior) pada kolom paraf pemeriksa dihalaman rekonsiliasi
+
+",28-Apr-26,GAA,JD799,CLOSED,2026
+13-Mar-26,LKPTA,LKPTA 24v0-09 v0,LKPTA 23v0-09 v0 ,"keterangan perubahan / lain lain
+- Penyeragaman kode karton menjadi 3MK042030 sesuai dengan CC-B7PLG-01-2026-003 terkait penambahan kode barcode isi 6 (FUP/PLG/PRD/2409001M)
+- Takeout redaksi administrasi di kolom pemeriksaan PPI (hanya operator produksi)
+- Takeout redaksi Sr (Senior) pada kolom paraf pemeriksaan dihalaman rekonsiliasi
+- SPEC-LKPTA-S06",27-Apr-26,GAA,JD291,CLOSED,2026
+7-Apr-26,LETSB,LETSB 07v0-03 v0,LETSB 06v0-03 v1,"Keterangan perubahan:
+
+Perubahan kode foil menjadi 1FE051000, pack menjadi 2DE046090 dan karton menjadi 3ME021050
+Perubahan size lebar foil dari 718 menjadi 712 mm
+Perubahan desain font kemasan menjadi font kalbe
+Perubahan desain sesuai perka BPOM OTSK
+Penambahan peringatan pada desain foil (hati-hati pada penderita tertentu)
+Perubahan Range 3WS menjadi 6.41 – 6.76 Kg
+Take out redaksi administrasi di kolom pemeriksaan PPI
+Take out redaksi Sr (senior) pada kolom paraf pemeriksa",,WEI,,OPEN,2026
+14-Apr-26,LKMCB,LKMCB 06v0-02 v0,LKMCB 04v0-01 v0,"Keterangan Perubahan :
+- Perubahan intruksi pada point 11C Hasil pemeriksaan kebocoran yang memenuhi syarat (tidak bocor) bisa dikemas (CC-B7PLG-02-2026-0017) 
+- Perubahan standar loss 1% dari 1.5% MENJADI 1% (FUP/PLG/PRS/2505/001M)
+- Takeout Redaksi administrasi di kolom pemeriksaan PPI (Hanya operator Produksi)
+- Takeout Sr (senior)pada kolom paraf pemeriksaan di halaman rekonsiliasi
+-SPEC-LKMCB-S04 v0
+",27-Apr-26,GAA,JD674,CLOSED,2026
+27-Mar-26,LPRG5,LPRG5 01v0-01 v0,-,"Promag Cair Reformulasi EG DEG (FUP/PLG/PRD/2306/003M)
+Perubahan nama produk dan Promag Suspensi menjadi Promag Cair (CC-B7PLG-02-2026-0019)
+-SPEC RUAH : LPRG5-01-S01-M01",7-Apr-26,CPI / DSW,JD001,CLOSED,2026
+27-Mar-26,LPRGU,LPRGU 01v0--01 v0,-,"Promag Cair Reformulasi EG DEG (FUP/PLG/PRD/2306/003M)
+Perubahan nama produk dan Promag Suspensi menjadi Promag Cair (CC-B7PLG-02-2026-0019)
+-SPEC FG : LPRGU -S01",7-Apr-26,CPI / DSW,JD001,CLOSED,2026
+6-Mar-26,LKMCA,LKMCA 08v0-05 v0,LKMCA 07v0-04 v0,"- Perubahan intruksi pada point 11C hasil pemeriksaan kebocoran yang memenuhi syarat (tidak bocor) bisa dikemas (CC-B7PLG-02-2026-0017)
+- Perubahan standar loss dari 3% menjadi 1% yang menyebabkan perubahan batch size dari 8644 Box menjadi 8822 Box (FUP/PLG/PRS/2505-001M)
+- Takeout redaksi administrasi di kolom pemeriksaan PPI (Hanya Operator produksi)
+- Takeout redaksi Sr (senior) pada kolomparaf pemeriksa di halaman rekonsiliasi
+-SPEC-LKMCA-S05 v0",7-Apr-26,GAA,JD659,CLOSED,2026
+5-Mar-26,LKXO1,LKXO1 02v2-04 v0,LKXO1 03v0-04 v0,"keterangan perubahan :
+-Revisi penomoran recipe terkait perubahan kode item RM Honey Liquid 2AH001000J (kemasan tong 100 Kg, perubahan ini tidak merubah formula). Sehingga perubahan recipe dari LKXO1 03v0-04 v0 menjadi LKXO1 02v2-04 v0 (mengacu kode formula awal), sesuai dengan WI-RD-FD-1013.03 Poin 4
+- Perubahan redaksi pada perhitungan bobot teoritis untuk tetrapak 1 dan 3 dengan menambahkan load cell (Y) jika produk campaign
+- Penambahan validasi 3WS sebelum proses vacuum material (CC-B7PLG-11-2025-0001)
+- Perubahan preparasi dan urutan tuang material (CC-B7PLG-11-2025-0082) :
+  - Preparasi Succus dilakukan di awal dalam wadah SS sebelum proses transfer bahan
+  - Preparasi Fructose dalam bak plastik, dilakukan tanpa penambahan material ekstrak  (Zingiber, Thymus dan Succus)
+  - Pelarutan Menthol Crystal dilakukan di awal sebelum proses transfer bahan 
+  - Material Sodium Chloride dituang setelah Citric Acid, dalam bak plastik premix 1
+- Perubahan Premix Material :
+  - Premix 2 : Peppermint Oil, Mint Flavor, Mint Booster, Menthol Crystal, Cherry F 6033, Polyoxyl 40 Hydrogenated
+  - Premix 3 : Zingiber off. Rosch, Thymus vulgaris, Succus liquiritae
+- Penambahan pemeriksaan parameter fisik pada bulk ruah sesuai FUP/PLG/PRS/2505/002M",28-Apr-26,GAA,JD748,CLOSED,2026
+10-Apr-26,LKMCC,LKMCC 02v0-02 v0 ,LKMCC 01v0-01 v0 ,"Keterangan Perubahan 
+- Perubahan Quantity foil menjadi 4.50 menjadi 4.75 roll (FUP/PLG/PRS/2505/001M)
+-Perubahan Intruksi pada point 11C hasil pemeriksaan kebocoran yang memenuhi syarat (tidak bocor) bisa dikemas 
+- Perubahan standar loss dari 2% menjadi 1% yang menyebabkan perubahan batch size sekunder/Costing dari 8733 Box Menjadi 8822 Box serta perubahan serta perubahan quantity box dari 8,822 EA dan Quantity karton dari 177 EA menjadi 179 EA (FUP/PLG/PRS/2502/001M
+- Perubahan Nama Sensor sachet pada tahap 6 menjadi ""sensor Vacuum""
+- Perubahan Nama sensor box pada tahap 5 Menjadi ""sensor box (conveyor ke mesin wrapping) 
+- Takeout Redaksi administrasi di kolom pemeriksaan PPI ( Hanya operator Produksi)
+- Takeout Redaksi SR (Senior) pada kolom paraf pemeriksa dihalaman rekonsiliasi 
+-SPEC-LKMCC-S02 v0",13-Apr-26,GAA,JD672,CLOSED,2026
+14-Apr-26,LPRGQ,LPRGQ 04v0-02 v0,LPRGQ 03v0-01 v0,"Keterangan Perubahan 
+-Perubahan kode item foil menjadi 1FP003010 Menjadi 1FP003030, sesuai dengan 
+ -perubahan font kemasan menjadi font kalbe (CCB7CKR-11-2025-0077
+ -perubahan size lebar foil dari 718 menjadi 712 mm (CC-B7PLG-12-2025-0101)
+ -perubahan desain kemasan sesuai dengan perka BPOM tentang OTSK (FUP/CKR/PRD 2407/005M) 
+- Perubahan kode item Pack dari 2DP004010 menjadi 2DP004030 dan kode item karton dari 3MP004000 menjadi 3MP004010 Sesuai dengan 
+ -perubahan font kemasanmenjadi font kalbe (CC-B7CKR-11-2025-0077)
+ -perubahan desain kemasan sesuai dengan perka BPOM tentang OTSK (FUP/CKR/PRD/2407/005M)
+-Perubahan standar loss dari 2% menjadi 1% sehingga batch size costing berubah dari 21239 menjadi 21456 Dus (FUP/PLG/PRS/2505/001M
+-SPEC-LPRGQ-S04 v0",21-Apr-26,GAA,JD520,CLOSED,2026
+18-Mar-26,LKXJA,LKXJA 05v0-03 v0 ,LKXJA 04v0-03 v0 ,"Keterangan Perubahan
+- Perubahan kode foil menjadi 1FK007020 , dan kode pack menjadi 2DK032010 terkait penambahan PERKA penandaan OTSK FUP/CKR/PRD/2407/005M), perubahan lebar foil menjadi 712mm (CC/B7/PLG/12/2025/0101) , dan penambahan barmark pada pack (FUP/PLG/MTL/2503/008M)",9-Apr-26,WEI,JD154,CLOSED,2026
+6-Feb-26,LKMCA,LKMCA 08v0-05 v0,LKMCA 07v0-04 v0,"Keterangan Perubahan : 
+1. Perubahan instruksi pada point 11C hasil pemeriksaan kebocoran yang memenuhi syarat (tidak bocor) bisa dikemas (CC-B7PLG-02-2026-0017)
+2. Perubahan standar loss dari 3% menjadi 1% yang menyebabkan perubahan batch size dari 8644 Box menjadi 8822 Box (FUP-PLG-PRS-2505-001M)
+3. Take out redaksi administrasi di kolom pemeriksaan PPI (Hanya Operator Produksi)
+4. Take out redaksi Sr (senior) pada kolom paraf pemeriksa di halaman rekonsiliasi",8-Apr-26,GAA,JD659,CLOSED,2026
+13-Apr-26,LNKOA,LNKOA 16v0-06 v0,LNKOA 15v0-05 v0,"Keterangan Perubahan Terkait : 
+-  Perubahan standar loss dari 1,5% menjadi 1% 
+-  Adjustment titik tengah volume pengisian dari 7,20 ml menjadi 7,30 ml (CC-B7PLG-02-2026- 0029) yang berdampak pada: 
+-  Perubahan Batch Size dari 267,361 Sachet menjadi 263,698 Sachet
+-  Perubahan range bobot sachet 9.21 – 9.93 gram menjadi 9.45 – 10.05 gram 
+-  Perubahan batch size dari 8912 box menjadi 8789 box 
+-  Perubahan range checkweigher dari 295 – 317 gram menjadi 302 – 321 gram 
+-  Perubahan range 3WS dari 15.93 – 16.21 Kg menjadi 16.11 – 16.41 Kg 
+-  Perubahan quantity formula kemasan box dari 8912 EA menjadi 8789 EA dan karton dari 179 EA menjadi 176 EA 
+-  Perubahan kode karton menjadi 3MK044020 terkait perubahan tinggi karton dari 235 mm menjadi 240 mm (CC-B7PLG-01-2026-0003) dan penambahan barcode isi 6 (FUP/PLG/PRD/2409/001M) 
+-  Take out redaksi administrasi di kolom pemeriksaan PPI (Hanya Operator Produksi) 
+-  Take out redaksi Sr (senior) pada kolom paraf pemeriksa di halaman rekonsiliasi
+-SPEC-LNKOA-S06-v0",15-Apr-26,GAA,JD890,CLOSED,2026
+17-Apr-26,LKMCB,LKMCB 07 v0-02 v0,LKMCB 05v0-01 v0,"Keterangan Perubahan Terkait : 
+- Perubahan intruksi pada point 11C Hasil pemeriksaan kebocoran yang memenuhi syarat (tidak bocor) bisa dikemas (CC-B7PLG-02-2026-0017) 
+- Perubahan standar loss 1.5% dari 1% MENJADI 1% (FUP/PLG/PRS/2505/001M)
+- Takeout Redaksi administrasi di kolom pemeriksaan PPI (Hanya operator Produksi)
+- Takeout Sr (senior)pada kolom paraf pemeriksaan di halaman rekonsiliasi
+-SPEC-LKMCB-S04 v0",,GAA,,OPEN,
